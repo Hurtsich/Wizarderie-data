@@ -1,0 +1,238 @@
+# Echoes of the Godfall
+
+## Campaign Theme
+Cosmic Horror Survival in a Post-Deicide World
+
+## Location Names
+
+### Cities and Settlements
+- Dusthaven
+- Corpseport
+- Ichorstone
+- Madwhisper Burg
+- Last Bastion
+- Shattered Spire
+- Weeping Mire
+- Gallowstown
+- Bleakwater
+- Rustcliff
+- Spinehold
+- Marrowdell
+- The Ossuary
+- Fetid Market
+- Gloomstead
+- Hollowfall
+- Ashmantle
+- Cauldron City
+- Voidgate
+- Sanctorum Rot
+- Godsbane Keep
+- Stygian Rest
+- Scarburg
+- Murkhaven
+- Tendrilton
+- Silent Borough
+- The Pallid Quarter
+- Umbral Sprawl
+- The Shifting Wards
+- Husk Row
+- Terminus
+- Gravewatch
+- Dirgeholm
+
+### Regions and Territories
+- The Shattered Plains
+- Godfall Wastes
+- Ichorous Marshes
+- Whispering Peaks
+- The Corpse-Star Steppe
+- Blightwater Coast
+- Rotwood Forest
+- The Madlands
+- Ashen Expanse
+- Spinefall Mountains
+- The Grieving Sea
+- Petrified Heavens
+- The Umbral Delta
+- Shardlands
+- Weeping Valley
+- The Echoing Canyons
+- The Scarred Frontier
+
+### Landmarks and Points of Interest
+- The Bleeding Sky Peaks
+- Lake of Lost Stars
+- Titan's Ribcage
+- The Reality Scar
+- Maw of the Forgotten God
+- The Whispering Idol
+- Sunken Divinity Cathedral
+- Ichor Falls
+- The Weeping Archway
+- The Bone Labyrinth
+- Corpse-Star Crater
+- The Mad Prophet's Pillar
+- Echo Peaks
+- The Shattered Crown
+- Void Geysers
+- The Carrion Fields
+- Petrified Tears Stream
+- The Silent Oracle
+- Fortress of the Flayed God
+- Temple of Rotting Divinity
+- The Flesh Cairns
+- Starfall Chasm
+- Echoing Caves
+- The Mad God's Eye
+- Halls of Whispered Lies
+- The Ossified Forest
+- The Blighted Sanctum
+- Crypt of the Star-Serpent
+- The Gaping Maw Mines
+- Cultist Warrens
+- The Ichor-Stained Monastery
+- Sunken Pantheon
+- Godflesh Quarry
+- The Shifting Catacombs
+- Watcher's Perch
+- The Wailing Pit
+- Tomb of the Nameless Hierophant
+- The Void Nexus
+- Ashen Idol Circle
+- The Rotting Ziggurat
+
+## Character Names
+
+### NPC Names
+- Kaelen Ashworth
+- Vorlag Grimstone
+- Rhys Blackwood
+- Malkor Ironhide
+- Stellan Shadowmend
+- Grak Stonefist
+- Torvin Wraithbane
+- Silas Corpsewalker
+- Bram Blightborn
+- Fenrir Voidseeker
+- Lucian Marrowfell
+- Joric Rusk
+- Zaltar Thorne
+- Corvus Gravehand
+- Malachi Scarblade
+- Eldrin Whisperwind
+- Borin Hollow
+- Theron Dustmark
+- Kael Ochre
+- Orin Fellcrest
+- Severin Gloomwater
+- Cassian Cinderfall
+- Valerius Stonefist
+- Zephyr Ashworth
+- Ronan Thorne
+- Gareth Marrowfell
+- Alaric Blackwood
+- Titus Grimstone
+- Evander Hollow
+- Darius Gravehand
+- Lyra Ashworth
+- Seraphina Grimstone
+- Elara Blackwood
+- Morwen Ironhide
+- Isolde Shadowmend
+- Astrid Stonefist
+- Brynn Wraithbane
+- Ravenna Corpsewalker
+- Sorcha Blightborn
+- Maeve Voidseeker
+- Vanya Marrowfell
+- Cerys Rusk
+- Rowena Thorne
+- Lenora Gravehand
+- Silvana Scarblade
+- Petra Whisperwind
+- Anya Hollow
+- Mirelle Dustmark
+- Thessalia Ochre
+- Zaria Fellcrest
+- Calista Gloomwater
+- Drusilla Cinderfall
+- Esme Stonefist
+- Fiona Ashworth
+- Morgana Thorne
+- Isolena Marrowfell
+- Kerensa Blackwood
+- Lysandra Grimstone
+- Phaedra Hollow
+- Sabina Gravehand
+
+### Faction Names
+- The Obsidian Concord
+- Keepers of the Last Light
+- The Corpse-Star Cartographers
+- The Void Wardens
+- The Reconstruction Authority
+- The Ash Council
+- The Shattered Aegis
+- The Crimson Bulwark
+- Ironclad Survivors
+- The Reclamation Vanguard
+- The Echo Hunters
+- Silentium Order
+- The Bastion Collective
+- The Blightwatch
+- The Godfall Historians
+- The Ichor Prospectors Guild
+- Whisperscale Scavengers
+- Reality Weavers Union
+- Corpse-Candle Lighters
+- The Menders' Circle
+- Bonecarvers Collective
+- Dust Devil Runners
+- The Scarred Navigators
+- The Murkwrights
+- Echo Collectors
+- The Last Hearth Innkeepers
+- The Void-Touched Artisans
+- Blightwater Fisherfolk
+- Shardstone Miners
+- The Silent Cartographers
+- Memory Weavers
+- The Quill & Flask Scribes
+- Starfall Salvagers
+- The Crimson Stitchers
+- The Shroud Walkers
+- The Rust Rats
+- The Pallid Gardeners
+- Cult of the Divine Rot
+- The Echoing Choir
+- Servants of the Corpse Stars
+- The Children of Ichor
+- Keepers of the Slain Word
+- Order of the Final Silence
+- The Weeping Prophets
+- The Gallow Syndicate
+- The Bleak Hand
+- The Marrow Thieves
+- Void Rats
+- The Scar Triad
+- The Crimson Whisper Network
+- The Rotmongers
+
+### Titles and Honorifics
+- Corpse-Speaker
+- Ichor-Priest
+- Blight Warden
+- Void Touched
+- Echo Hunter
+- Shard Master
+- Rot Herald
+- Star Scryer
+- Keeper of Whispers
+- Last Survivor
+- Ash Walker
+- Scarred Veteran
+- Doom Prophet
+- Master of Ruins
+- Sanity Keeper
+- Dirge Singer
+- Reality Butcher
