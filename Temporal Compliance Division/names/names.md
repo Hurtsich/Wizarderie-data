@@ -1,0 +1,269 @@
+# Temporal Compliance Division
+
+## Campaign Theme
+Low-budget temporal agents fixing minor historical hiccups while navigating office politics and malfunctioning gear. Men in Black meets The Office meets low-stakes time travel.
+
+## Location Names
+
+### Cities and Settlements
+- Annex-7
+- Holding Pattern Beta
+- Sector 4B (Temporal Division)
+- Junction Point Epsilon
+- The Filing Cabinet District
+- Cafeteria Prime
+- Water Cooler Wells
+- Breakroom Borough
+- Cubicle City
+- Temp Town
+- Form F-7b Settlement
+- Requisition Ridge
+- Stapleton
+- Binder's Crossing
+- Memo Meadows
+- Orientation Oasis
+- Compliance Corner
+- Audit Acres
+- Spreadsheet Springs
+- Timesheet Terrace
+- Carbon Copy Creek
+- Interoffice Interchange
+- Document Delta
+- Errata Enclave
+- Correctionville
+- Revision Rapids
+- Overtime Outpost
+- Procedure Point
+- Policy Place
+- Protocol Plains
+- Guideline Grove
+- Regulation Range
+
+### Regions and Territories
+- The Buffer Zone
+- Procedural Quadrant 7
+- The Static Field
+- Anomaly Archipelago
+- The Correction Corridor
+- Filing Sector Gamma
+- Temporary Timeline Territory
+- The Red Tape Region
+- Budgetary Badlands
+- The Paperwork Plains
+- Compliance Cluster
+- Historical Holding Area
+- Paradox Perimeter
+- The Grey Zone
+- Chronal Drift Expanse
+- The Provisional Period
+- Adjustment Area Alpha
+- The Review Region
+
+### Landmarks and Points of Interest
+- The Annex (TCD HQ)
+- Central Processing
+- Temporal Compliance HQ - Building C
+- The Chrono-Cubicle Complex
+- The Time-Card Tower
+- Department of Temporal Adjustment (Regional Office #1138)
+- The Lincoln Penny Incident Site
+- Site Anomaly 774 (Misplaced Mobile)
+- The Great Emu War Glitch Locus
+- The Shakespearean Smartphone Scare Zone
+- The Viking Vending Machine Anomaly Point
+- Ground Zero (Tricycle Incident)
+- The Roman Rubber Chicken Locus
+- Paradox Point P-38
+- The Static Cafe
+- The Flickering Alleyway
+- Echo Point Diner
+- The Deja Vu District
+- The Lost & Found Timeline
+- The Temporal Distortion Field (Employee Lounge)
+- The Glitch Gulch
+- The Paradox Puddle
+- The Chronal Cold Spot
+- Decommissioned Chrono-Pod Graveyard
+- The Failed Paradox Containment Unit B
+- Old Sector 4 Archives (Flooded)
+- The Redacted Ruins
+- Sub-Basement Storage (Temporal Waste)
+- The Mothballed Monitoring Station
+- Ruins of Timeline 86-Delta
+- The Collapsed Correction Chamber
+- The Abandoned Anomaly Lab
+- The Equipment Failure Repository
+- The Bureaucratic Black Hole
+- Forgotten Filing Facility
+- The Shredded Timeline Sector
+- The Rusted Relay Station
+- The Obsolete Observation Post
+- The Agency Cafeteria (Level B)
+- Main Server Room (Often Overheating)
+- Temporal Distortion Testing Chamber 3
+- HR Department (Level 7)
+- The Malfunctioning Time-Portal Bay C
+- The Lost Property Office (Temporal Division)
+- The CEO's Rarely Used Lavatory
+
+## Character Names
+
+### NPC Names
+- Arthur Pumble
+- Bernard Higgins
+- Clyde Fitzwilliam
+- Dennis Mottle
+- Edgar Finchley
+- Floyd Bumble
+- Gary Grumbles
+- Harold Pinter
+- Ian Wobble
+- Jasper Meek
+- Kevin Stapleton
+- Larry Scribbs
+- Marvin Dither
+- Norman Blot
+- Oscar Pendelton
+- Percy Quill
+- Quentin Jitters
+- Reginald Forms
+- Stanley Docket
+- Theodore Binder
+- Ulysses Patch
+- Vernon Clip
+- Walter Files
+- Xavier Carbon
+- Yorick Temps
+- Zebediah Ledger
+- Alistair Fudge
+- Bertram Smalls
+- Cecil Droll
+- Desmond Paper
+- Agnes Pettle
+- Beatrice Wince
+- Carol Binder
+- Doreen Stapler
+- Ethel Merman (no relation)
+- Florence Fumble
+- Gladys Notion
+- Harriet Forms
+- Ida Inkwell
+- Joyce Scribbles
+- Karen Clipboard
+- Linda Ledger
+- Marge Docket
+- Nancy Nibbs
+- Opal Orders
+- Penelope Patch
+- Quinn Quill
+- Rhonda Rubberband
+- Susan Spindle
+- Tilda Tape
+- Ursula Underline
+- Vera Void
+- Wilma Washi
+- Xandra Xerxes
+- Yvonne Yarrow
+- Zelda Ziploc
+- Amelia Audit
+- Beverly Blot
+- Clarice Clip
+- Deborah Desk
+- Pinterbottom
+- Quibble
+- Formsby
+- Stapleton
+- Binder
+- Ledgerwood
+- Clipboard
+- Docket
+- Files
+- Carbonell
+- Quilligan
+- Patchett
+- Wobblesmith
+- Ditherton
+- Grumbles
+- Flinchley
+- Meekins
+- Blotter
+- Scrivens
+- Pendelton
+- Tempworth
+- Finch
+
+### Faction Names
+- Temporal Compliance Division (TCD)
+- Department of Historical Integrity (DHI)
+- Chronological Correction Bureau (CCB)
+- The Office of Temporal Adjustment (OTA)
+- Paradox Prevention Agency (PPA)
+- Timeline Maintenance Authority (TMA)
+- Historical Aberration Remediation Taskforce (HART)
+- The Ministry of Moments (MinMom)
+- Temporal Oversight Committee (TOC)
+- The Continuity Commission
+- Central Chronology Control (CCC)
+- Federal Bureau of Temporal Affairs (FBTA)
+- The Anachronism Agency
+- The Timekeepers Union (Local 404)
+- Temporal Internal Affairs (TIA)
+- Anomaly Response Team 7 (ART-7)
+- The Paradox Sweepers
+- Field Agent Support Services (FASS)
+- Equipment Maintenance & Repair (EM&R)
+- The Red Tape Wranglers
+- Temporal Records & Archival Department (TRAD)
+- The Chrono-Janitors
+- Paradox Containment Specialists (PCS)
+- The Committee for Standard Temporal Practices (CSTP)
+- The Water Cooler Committee
+- Timeline Analysts Guild
+- The Glitch Investigation Unit (GIU)
+- Historical Authenticity Verifiers (HAV)
+- Low-Priority Paradox Patrol (LPPP)
+- The Misfit Mobilization Unit (MMU)
+- Temporal Tech Tinkers (TTT)
+- Anachronism Acquisition Agents (AAA)
+- The Procedure Perfectionists
+- Cafeteria Critics Circle
+- The Union of Underappreciated Temporanauts
+- Temporal Displacement Debriefers (TDD)
+- The Historical Accuracy Hobbyists
+- The Order of the Unwoven Thread
+- Servants of the Glitch
+- The Chronosynclastic Infundibulum Cult
+- Worshippers of the Great Anachronism
+- The Temporal Purity League
+- The Church of Eternal Recurrence
+- Keepers of the Intended Timeline
+- The Chrono-Cartel
+- The Paradox Black Market
+- Temporal Smugglers Ring
+- The Anachronism Thieves Guild
+- The Glitch Brokers
+- Rogue Timeline Traders
+- The Historical Artifact Underground
+
+### Titles and Honorifics
+- Junior Compliance Officer
+- Senior Field Analyst
+- Temporal Technician (Grade 3)
+- Paradox Assessor
+- Anomaly Registrar
+- Head of Forms Distribution
+- Assistant Sub-Director of Minor Corrections
+- Regional Oversight Coordinator
+- Equipment Requisition Specialist
+- Timeline Monitor
+- Debriefing Clerk
+- Historical Context Verifier
+- Containment Unit Sweeper
+- Temporary Assignment Supervisor
+- Chief Petty Officer of Paradox Prevention
+- Lead Investigator (Internal Affairs)
+- Grandmaster of Filing (self-proclaimed)
+- Senior Archivist
+- Temporal Liaison Officer
+- Field Agent First Class
+- Paradox Risk Mitigator
