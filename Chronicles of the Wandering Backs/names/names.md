@@ -1,0 +1,395 @@
+# Chronicles of the Wandering Backs
+
+## Campaign Theme
+Survival, exploration, and conflict in a world built upon colossal, mobile creatures.
+
+## Location Names
+
+### Cities and Settlements
+- Skymark Citadel
+- Port Azure
+- Rootfast Hold
+- Aeridor Spire
+- Chitinburg
+- Scalehaven
+- Geodeholm
+- Cloudrest Anchorage
+- Windshear Market
+- Deepvein Outpost
+- Ridgegate City
+- Biolume Town
+- Shellstone Borough
+- Sky-Sailor's Landing
+- Carapace Crossings
+- Ventralis
+- Spinefall Exchange
+- The Howling Perch
+- Crystal Vein Hub
+- Ironscale Foundry
+- Mossback Settlement
+- Ambercliff Docks
+- Skyreach Bastion
+- Tunneltown
+- Sunken Scale City
+- Floatstone Platform
+- The Eyrie Exchange
+- Deep Strata Enclave
+- Quilltop Village
+- The Grand Ossuary Market
+- Horizon's Edge
+- Aetherport Prime
+- Stoneback Junction
+- Aqualon Port (Water Titan)
+- Ignis Forge (Fire Titan)
+
+### Regions and Territories
+- The Great Carapace Plains
+- Spinefall Mountains
+- Bioluminescent Forests of Xylos
+- Ventral Steppes
+- The Eye Caldera
+- Shoulderblade Highlands
+- The Gut-Deep Jungles
+- Whispering Ridge Expanse
+- Coralith Reefs (Aquatic Titan)
+- The Shifting Sands of the Dorsum
+- Crystal Spine Peaks
+- Fungal Caverns Network
+- The Amber Swamplands
+- Sky-Coral Archipelago
+- The Scoured Hide Wastes
+- Titan's Maw Valley
+- The Verdant Mantle
+- Sunken Grove Territory
+- Wind-Scoured Plateaus
+- The Ossuary Fields
+- Quill-Forest Reach
+- Geode Clusters Zone
+- Aetherium Veinlands
+- The Great Furrow
+- Salt-Crusted Shell Flats (Sea Titan)
+- The Hanging Glades
+- Cloud Garden Terraces
+- Ironscale Hills
+- The Slumbering Limb Lowlands
+- The Breathing Vents Badlands
+- Hoarfrost Ridge (Cold Titan)
+- The Echoing Chasm Territory
+- Molten Heart Scarps (Fire Titan)
+- The Titan's Underbelly
+- The Azure Depths (Water Titan)
+
+### Landmarks and Points of Interest
+- The Titan's Tear Waterfall
+- Whispering Spine Crest
+- The Maw Chasm
+- Crystal Vein Geyser
+- Ancient Scale Cliffs
+- The Great Eye Pool
+- Sky-Coral Archway
+- Heartstone Monolith
+- The Sunken Nostril Cave
+- Titan's Tooth Peak
+- The World-Shell Scar
+- Bioluminescent Falls
+- The Grand Ossuary Pile
+- Sky-Ship Graveyard Point
+- The Shifting Crevasse
+- Petrified Forest of Ancients
+- The Breather Vents
+- Shoulder Spire
+- The Weeping Ridge
+- Amber Sap Falls
+- Echoing Cavern Mouth
+- The Titan's Crown (Highest point)
+- Windhowl Pass
+- The Deep Pore Abyss
+- Cartilage Bridge
+- The Great Tendon Strand
+- Floating Stone Isles
+- The Spine Arch
+- The Old Scale Overlook
+- Geode Garden
+- The Titan's Sigh Vent
+- The Whispering Gullet
+- Sky-piercer Horn
+- The Barnacle Cities (Water Titan)
+- Cinder Cone Summit (Fire Titan)
+
+### Dungeons and Ruins
+- Sunken Scale Temple
+- The Nerve-Cluster Maze
+- Forgotten Gut Tunnels
+- Sky-Ship Graveyard Depths
+- Shifting Shell Warrens
+- Lost Anchor-Town of Veridia
+- Ruins of the Skyborne Citadel
+- Titan Parasite Lair
+- Abandoned Deepvein Mine
+- The Ossuary Catacombs
+- Flooded Biolume Grotto
+- Collapsed Spine Tunnel
+- The Crystal Heart Chamber (Corrupted)
+- The Ancient Shell-Dweller Tombs
+- Geode Fortress Ruins
+- Chitin-Processor Wreckage
+- The Sky-Kraken Nest
+- Vault of the Forgotten Titan Song
+- The Sundered Titan's Core
+- Temple of the Slumbering God-Beast
+- Aetherium Smuggler Caves
+- The Forgotten Gill-Slits (Water Titan)
+- Crystalline Disease Caves
+- The Maw Worm Burrows
+- Sky-Pirate Hideout, Crashed
+- The Echo Shard Labyrinth
+- Cultist Warrens of the Deep Rumble
+- Molten Heart Forge (Abandoned)
+- The Primal Growth Caves
+- The Sky-Burial Grounds
+- The Wind-Eater's Roost
+- The Blighted Mantle Caves
+- Lost Library of the Spine-Scholars
+- The Hydrothermal Vent Temple (Water Titan)
+- Ash-Choked Caldera Base (Fire Titan)
+
+## Character Names
+
+### Male Names
+- Kaelen
+- Borin
+- Roric
+- Zaltar
+- Fenrir
+- Torvin
+- Joric
+- Arlo
+- Brennan
+- Darius
+- Erion
+- Faelan
+- Gorok
+- Halvor
+- Ivar
+- Jaron
+- Kael
+- Lorin
+- Marius
+- Neron
+- Orin
+- Perrin
+- Quintus
+- Rhys
+- Stellan
+- Talen
+- Ulfgar
+- Vorlag
+- Wylan
+- Zephyr
+- Cassian
+- Drem
+- Eldrin
+- Garrus
+- Hespar
+
+### Female Names
+- Lyra
+- Seraphina
+- Brynn
+- Elara
+- Moira
+- Astrid
+- Linnea
+- Rowan
+- Silvana
+- Terra
+- Vanya
+- Willow
+- Zaria
+- Anya
+- Brida
+- Cerys
+- Delia
+- Eira
+- Freya
+- Gwendolyn
+- Helga
+- Isolde
+- Janna
+- Kaelia
+- Lysandra
+- Maren
+- Nessa
+- Orla
+- Petra
+- Rhiannon
+- Signy
+- Tamsin
+- Verena
+- Ysera
+- Thalia
+
+### Family Names/Clans
+- Stoneback
+- Windrider
+- Scalehand
+- Deepdelver
+- Skysight
+- Highcliff
+- Rootwise
+- Swiftwind
+- Ironhide
+- Ridgeclimber
+- Aethersson
+- Aethersdottir
+- Spireguard
+- Skyhunter
+- Shellstone
+- Cloudwalker
+- Spinefall
+- Deeproot
+- Ridgeborn
+- Carapace
+- Windshear
+- Geodeseeker
+- Skysail
+- Titanheart
+- Titanborn
+- Stonefist
+- Aeridorian
+- Terragoni
+- Aquilonar
+- Ignisar
+- Cloudrest
+- Mossbeard
+- Quill
+- Shellguard
+- Spinefoot
+- Ventus
+- Stoneflower
+- Skyfire
+- Deepwood
+- Ironscale
+
+### Titles and Honorifics
+- High Navigator
+- Scale-Priest
+- Scale-Priestess
+- Wind-Caller
+- Sky-Marshall
+- Deep Boss
+- Root Warden
+- Carapace Master
+- Titan Speaker
+- Aether-Captain
+- Spire Lord
+- Spire Lady
+- Ridge Baron
+- Ridge Baroness
+- Shell Guardian
+- Geode Master
+- Cloud Master
+- Cloud Mistress
+- Master Cartographer
+- Elder Stonehand
+- Honored Windrider
+- Deep-Seer
+- Scale-Commander
+- Sky-Steward
+- Vent Warden
+- Honored Climber
+- Master of the Vents
+- Spine-Walker
+- Heart-Listener
+- Sky-Lord
+
+## Faction Names
+
+### Major Organizations
+- The Skyfarer's Concord
+- Titan Watchers
+- The Spine Syndicate
+- Aeridorian Republic
+- Terragon Hegemony
+- Aquilon Protectorate
+- Ignisaur Dominion
+- The World-Shell Alliance
+- The Sky-Iron Cartel
+- Geode Collective
+- The Deep Root Council
+- Windborne Explorers Society
+- The Anchor-League
+- Scale-Guard Order
+- The Aetherium Combine
+- Spinefall Confederacy
+- The Cloud Ocean Navigators
+- Carapace Union
+- The Sundered Hand
+- Horizon Seekers Guild
+- The Shard Collectors
+- The Maw Walkers
+- The Titan Health Commission
+- Inter-Titan Banking Guild
+- Sky-Defense Initiative
+
+### Guilds and Groups
+- Windwrights Guild
+- Cartographers Collective
+- Deep Miners Union
+- Shell-Carvers Guild
+- Biolume Harvesters
+- Sky-Hunters Guild
+- The Weavers of Sky-Silk
+- Aetherium Refiners Guild
+- Anchor-Smiths Guild
+- Ridge-Runner Messengers
+- Crystal Lens Crafters
+- Beast Handlers Guild
+- Windcatchers Guild
+- Scale Menders
+- The Spire Climbers Association
+- Cloudfisher Collective
+- Geode Cutters Guild
+- Ironscale Smelters Group
+- The Quill & Compass Society
+- Root-Tappers Guild
+- The Venturers League
+- Sky-Merchant Caravan
+- The Deep Divers
+- Storm-Sailors Association
+- Titan Parasite Exterminators
+- The Sky-Chef Association
+
+### Religious Orders
+- Children of the Great Backs
+- Cult of the Deep Rumble
+- Keepers of the Titan Song
+- Sky-Father Devotees
+- The Earth-Mother Conclave
+- Order of the Slumbering Giants
+- The Sunken Temple Order
+- Seekers of the Primal Heart
+- The Void Below Sect
+- Architects of the Scale
+- The Sky-Shepherds
+- Order of the Silent Stone
+- Flamespeakers of Ignisaur
+- Tidecallers of Aquilon
+- Whisperers of the Core
+
+### Criminal Syndicates
+- The Black Wind Corsairs
+- The Guttersnipes
+- The Scale-Runners
+- The Chitin Cutters
+- The Whisperwind Network (Criminal Wing)
+- The Shivers
+- The Deep Fall Syndicate
+- The Molten Hand
+- The Rust Grinders
+- The Tarnished Scales
+- The Void Embrace Cult
+- The Scarab Cartel
+- The Sky-Leeches
+- The Ridge Rats
+- The Azure Hand (Aquatic Titan Crime)
