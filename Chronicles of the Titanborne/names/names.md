@@ -1,0 +1,599 @@
+# Chronicles of the Titanborne
+
+## Campaign Theme
+
+Civilization thrives on the backs of colossal, wandering Titans. Sky-ships connect unique cultures across these living continents, amidst precarious travel, scarce resources, ancient mysteries, and the ever-present threat of a stirring Titan.
+
+## Location Names
+
+### Cities and Settlements
+- Aethelgard Spire
+- Scalecity Prime
+- Windreach Port
+- High Crest Citadel
+- Anchorpoint Station
+- Riftwatch Bastion
+- Terminus Hub
+- Canopy City (Verdant Scale)
+- Geode City (Geodeheart)
+- Caldera Hub (Ignis Shell)
+- Maw's Edge Trading Post
+- Spinefall
+- Ridgeholm
+- Skyhearth
+- Umbralight Market
+- Shellhaven Docks
+- Rootfast Hold
+- Boreas Keep
+- Crystalis Towers
+- Cloudpiercer Point
+- Stoneleaf Village
+- Dewdrop Landing
+- Chitin Gulch Settlement
+- Vent Town
+- Mossbottom Hamlet
+- Scaleplate Outpost
+- Gust Hollow
+- Talon's Rest Inn
+- Ridgecrest Hamlet
+- Spore Mound Commune
+- Sky-Dock 7
+- Whisperwind Camp
+- Emberfoot Crossing
+- Knoll Perch Observatory
+- Bloomrest Sanctuary
+- Coral Node Platform
+- Fungal Sprawl Market
+- Clawmark Stead
+- Saddlebrook Town
+- Pylon Settlement Alpha
+- Amber Vein Mine Town
+- Undergrowth Village
+- Edge Town Precipice
+- Sunken Pit Refuge
+- Root Nook Hamlet
+- Brinewatch Post (Aquilon)
+- Shellcrack Burg
+- Sky-Anchor Town
+- Dustbowl Outpost
+- Aerthos Landing
+
+### Regions and Territories
+- The Great Dorsal Plains
+- The World-Spine Peaks
+- The Chitinous Expanse
+- The Verdant Mantle Jungle
+- The Crystal Forests of Crystalis
+- The Aquilon Deep Vents
+- The Umbrahide Shadowlands
+- The Tempest Maw Canyons
+- The Boreas Frost Tundra
+- The Geodeheart Scarlands
+- The Ignis Shell Fields
+- The Great Caldera Basin
+- The High Shelldra Plateau
+- The Windward Slopes
+- The Leeward Cliffs
+- The Bioluminescent Grottos
+- The Sunken Forests (Aquilon)
+- The Rootwalker Glades
+- The Skyshard Steppes
+- The Whispering Reaches
+- The Titan's Flanklands
+- The Scalemail Hills
+- The Southern Crest Territories
+- The Northern Ridge Marches
+- The Emerald Scarps
+- The Jagged Crags
+- The Fungal Savannah
+- The Glass Deserts (Crystalis)
+- The Petrified Woods
+- The Sky Coral Archipelago
+- The Floating Isles Chain
+- The Subdermal Sea Shoreline
+- The Titan's Breath Flats
+- The Living Glaciers (Boreas)
+- The Obsidian Fields (Ignis Shell)
+- The Weeping Canyons
+- The Gnarled Peaks Range
+- The Sporelands Mire
+- The Crimson Valleys
+- The Silent Expanse
+- The Howling Veldt
+- The Titan's Shadow Zone
+- The Ancient Grove Sanctuary
+- The Whispering Hills
+- The Azure Depths (Aquilon)
+- The Scaleroot Warrens
+- The Geothermal Badlands
+- The Amber Coast
+- The Sunstone Flats
+- The Shifting Mirelands
+
+### Landmarks and Points of Interest
+- The Titan's Eye (Lake/Volcano)
+- The World-Spine Summit
+- The Great Geyser Fields
+- Sky-Sailor's Arch
+- The Whispering Falls
+- The Petrified Godwood
+- The Crystal Heart Cave Complex
+- The Leviathan's Ribcage (Fossil Structure)
+- The Maw of the Tempest (Chasm)
+- The Sky-Anchor Peaks
+- The Sunstone Monoliths
+- The Starfall Crater
+- The Hanging Gardens of Aerthos
+- The Bone Bridge
+- The Bioluminescent River
+- The Obsidian Needle Spire
+- The Singing Caves of Aquilon
+- The Titan's Tear Waterfall
+- The Scalemail Labyrinth
+- The Cloud Forest Canopy Walk
+- The Amber Cliffs
+- The Forgotten Temple of the First Kin
+- The Wind Scoured Mesas
+- The Caldera Lake (Ignis Shell)
+- The Geothermal Spires
+- The Fungal Towers of Mycon
+- The Great Scar Trench
+- The Echoing Chasm
+- The Titan's Footprint Depression
+- The Skyshark Hunting Grounds
+- The Old King's Statue
+- The Weeping Wall (Mineral Seeps)
+- The Molten Veins (Ignis Shell)
+- The Sky-Serpent Roost
+- The Ancient Climb-Path
+- The Guardian Stones Circle
+- The Aurora Vents (Boreas)
+- The Shifting Sands Desert
+- The Crystal Vein Exposure
+- The Titan's Tooth Peak
+- The Lost Ossuary Vale
+- The Sky Fisher's Perch
+- The Silent Spire of Umbrahide
+- The Prismatic Pools
+- The Ancestor's Rest Plateau
+- The Sky-Coral Atoll
+- The Gaping Maw Fissure
+- The Howling Arch
+- The Spore Bloom Fields
+- The Titan's Heartbeat Geyser
+
+### Dungeons and Ruins
+- The Sunken City of Ys (Mythical Ruin)
+- The Deep Core Catacombs
+- The Chitin Hive Warrens
+- The Ruined Skyport of Aerthos
+- The Forgotten Burrow Network
+- The Titan's Gut Cave System
+- The Crystalized Heart Chamber
+- The Abandoned Scale Mine
+- The Wreck of 'The Zephyr' Skyship
+- The Lair of the Scale Worm
+- The Tomb of the Sky-King
+- The Undergrowth Temple Complex
+- The Ruined Geothermal Forge
+- The Lost Sky-Shrine of Elara
+- The Sunken Spire (Aquilon)
+- The Plague Caves of Nurgleth
+- The Shattered Observatory
+- The Bio-Mechanical Vault
+- The Bone Caves of the Ancients
+- The Fungal Labyrinth of Mycon
+- The Petrified Roots Warren
+- The Skyship Graveyard Chasm
+- The Ancient Titan Core Access Shaft
+- The Echoing Maw Caverns
+- The Crystal Prison Shards
+- The Umbral Nest Catacombs
+- The Forgotten Generatorium
+- The Silent Library of Aethelgard
+- The Collapsed Strata Tunnels
+- The Sky-Pirate Hideout 'Kraken's Clutch'
+- The Ruined Monastery of the Quiet Path
+- The Deep Vein Excavation Site
+- The Titan's Nerve Cluster Junction
+- The Abandoned Spore Farm Tunnels
+- The Sky-Beast Ossuary
+- The Crystalline Warrens
+- The Forgotten Sky-Docks
+- The Molten Heart Labyrinth
+- The Shadowfen Ruins
+- The Old Growth Tunnels
+- The Whispering Grottos
+- The Scarred Citadel Ruins
+- The Sunken Archives of Aquilon
+- The Titan's Breath Crevasse Depths
+- The Sky Serpent Crypt
+- The Shifting Tunnels
+- The Scale Rot Infestation Zone
+- The Fallen Titan Shard
+- The Ancestral Burrow Mounds
+- The Forgotten Pylon Complex
+
+## Character Names
+
+### Male Names
+- Kaelen
+- Borin
+- Stellan
+- Rhys
+- Torvin
+- Zephyr
+- Cassian
+- Jarek
+- Bram
+- Finnian
+- Silas
+- Ronan
+- Davian
+- Kellan
+- Marius
+- Corbin
+- Lucian
+- Orrin
+- Vance
+- Aldric
+- Gareth
+- Percival
+- Rafe
+- Soren
+- Terran
+- Valerius
+- Wren
+- Alaric
+- Bastien
+- Cedric
+- Darian
+- Eamon
+- Faelan
+- Gideon
+- Hadrian
+- Icarus
+- Joran
+- Kael
+- Lorcan
+- Merrick
+- Nevin
+- Oriel
+- Phelan
+- Quinlan
+- Roric
+- Tiberius
+- Ulric
+- Varden
+- Warwick
+- Xander
+- Yarrow
+- Zayne
+- Ariston
+- Corvus
+- Destan
+- Evren
+- Flint
+- Gorok
+- Halvor
+- Ignis
+- Jorund
+- Kaelus
+- Loric
+- Malachi
+- Nikolai
+- Ozan
+- Perrin
+- Quillon
+- Stratton
+
+### Female Names
+- Lyra
+- Elara
+- Seraphina
+- Briseis
+- Astrid
+- Linnea
+- Rowena
+- Morgana
+- Sorcha
+- Vanya
+- Cerys
+- Fiona
+- Isolde
+- Maeve
+- Nyx
+- Oriana
+- Raina
+- Sabine
+- Tamsin
+- Una
+- Willow
+- Xylia
+- Ysadora
+- Zephyrine
+- Adria
+- Briar
+- Calista
+- Dahlia
+- Elowen
+- Freya
+- Gwen
+- Hazel
+- Iris
+- Jessamine
+- Kestrel
+- Lark
+- Mireille
+- Nadia
+- Ophelia
+- Petra
+- Quinn
+- Roslyn
+- Sylvie
+- Thalia
+- Ursa
+- Vesper
+- Wrenna
+- Anya
+- Cassia
+- Delia
+- Eska
+- Faye
+- Gisela
+- Hera
+- Inara
+- Juna
+- Kira
+- Mira
+- Nora
+- Orla
+- Pippa
+- Rina
+- Sora
+- Tessa
+- Vala
+
+### Family Names/Clans
+- Highcrest
+- Stonehand
+- Windrider
+- Scalebright
+- Deeproot
+- Skybreaker
+- Ambercatcher
+- Sporebloom
+- Chitinweave
+- Ridgeback
+- Mawson
+- Calderkin
+- Skypierce
+- Rootbinder
+- Cloudmantle
+- Stoneleaf
+- Geodeheart
+- Shellguard
+- Ventrunner
+- Mossgrip
+- Boreasborn
+- Ignisblood
+- Crestfall
+- Horizonbound
+- Scalehunter
+- Skyfisher
+- Brightwind
+- Deepshard
+- Dustwalker
+- Emberfoot
+- Farsail
+- Greycliff
+- Ironscale
+- Knotwood
+- Longstride
+- Mistral
+- Northridge
+- Oakhaven
+- Pineroot
+- Quarryfall
+- Redvein
+- Shardminer
+- Stormblade
+- Tallspire
+- Underleaf
+- Vineshade
+- Westwind
+- Yarrowdale
+- Zephyrson
+- Anchorsmith
+- Cinderfall
+- Dawnglow
+- Echocave
+- Felslate
+- Grovewatch
+- Hailstone
+- Icefang
+- Jademoon
+- Kestrelwing
+- Lightwhisper
+- Mirewater
+- Nightbloom
+- Orewell
+- Peakstone
+- Quickwater
+- Rimescale
+- Stonebrook
+- Timberlimb
+- Valewatch
+- Whisperwind
+
+### Titles and Honorifics
+- Sky-Captain
+- Titan Speaker
+- Scale Lord/Lady
+- Wind Baron/Baroness
+- High Navigator
+- Master Chartographer
+- Deep Warden
+- Crest Warden
+- Elder Rootbinder
+- Geode Sage
+- Vent Master
+- Master Artificer
+- Sky-Priest/Priestess
+- Sunstone Keeper
+- Maw Guardian
+- Spine Watcher
+- Master of the Hunt
+- Guildmaster
+- Grand Architect
+- Chief Engineer
+- Loremaster
+- Sky-Marshal
+- Port Master
+- Ambassador
+- Council Member
+- High Elder
+- Clan Chief
+- Master Smith
+- Beast Lord/Lady
+- Spore Tender
+- Amber Baron/Baroness
+- Wind Whisperer
+- Scale Scholar
+- Path Cutter
+- Sky-Shaman
+- Deep Oracle
+- Horizon Walker
+- Steward of the Shell
+- Keeper of the Slumber
+- Voice of the Titan
+- Grand Pilot
+- Master Weaver
+- Alchemist Supreme
+- Warden of the Waste
+- Guardian of the Grove
+- Blade of the Concordat
+- Emissary of the Peaks
+- Hand of the Hegemon
+- Spire Sentinel
+- Caldera Regent
+- Sky Knight
+- Master Climber
+- Deep Scout
+- Rift Warden
+- Cloud Sentinel
+- Anchor Master
+- Hearth Keeper
+- Seed Singer
+- Stone Sage
+- Wind Sage
+- Flight Commander
+- Honored Elder
+- First Mate
+- Chief Surveyor
+- Lead Excavator
+- Sky-Bishop
+- Master Falconer
+- Void Gazer
+
+## Faction Names
+
+### Major Organizations
+- The Skyfarers' Concordat
+- The Titanborne Hegemony
+- The World-Spine Council
+- The Caldera Combine
+- The Aethelgard Republic
+- The Anchorpoint Alliance
+- The Windreach Trading Company
+- The Sky-Guard Legion
+- The Scale Shard Cartel
+- The United Titan Assembly
+- The Geode City Technocracy
+- The Keepers of the Ancient Paths
+- The Horizon Syndicate
+- The Crestfall Dominion
+- The Maw's Edge Enclave
+- The Spinefall Confederacy
+- The Boreas Collective
+- The Cloudpiercer Authority
+- The Rootfast Foundation
+- The Umbralight Seekers Guild
+- The Aquilonian League
+- The Verdant Scale Protectorate
+- The Sky-Watchers Order
+
+### Guilds and Groups
+- The Sky-Chartographers Guild
+- The Titan-Hunters Association
+- The Wind Weavers Guild (Pilots)
+- The Scale Smiths Union
+- The Geode Cutters Guild
+- The Amber Harvesters Cooperative
+- The Spore Farmers Collective
+- The Beast Tamers Fellowship
+- The Chitin Crafters Guild
+- The Deep Miners Union
+- The Sky-Menders Guild (Shipwrights)
+- The Apothecary League
+- The Lore Keepers Society
+- The Skyshipwrights Guild
+- The Vent Tappers Association
+- The Crystal Weavers Guild
+- The Beast Riders Cadre
+- The Titan Whisperers Circle
+- The Courier's Network
+- The Lamplighters Guild
+- The Stone Masons Lodge
+- The Cloud Fisher's Cooperative
+- The Sky-Diver's League
+
+### Religious Orders
+- The Order of the World-Shell
+- The Sky Father's Faithful
+- The Keepers of the Titan's Slumber
+- The Path of the Silent Drift
+- The Children of the Great Scale
+- The Sunstone Devotees
+- The Deep Core Oracles
+- The Brotherhood of the Wandering Star
+- The Sisters of the Verdant Mantle
+- The Cult of the Whispering Winds
+- The Anchorites of the Unmoving Stone
+- The Temple of the Sky Serpent
+- The Geode Heart Mystics
+- The Order of the Sacred Vent
+- The Flamekeepers of Ignis Shell
+- The Umbral Path Initiates
+- The Sky-Mother's Chosen
+- The Ancestor Weavers
+- The Keepers of the First Song
+- The Disciples of the Awakened Dream
+- The Caldera Ascetics
+- The Frost Wind Speakers (Boreas)
+- The Seekers of the Sunken City
+
+### Criminal Syndicates
+- The Sky-Sharks (Pirates)
+- The Scaleblades
+- The Chitin Ring
+- The Umbral Hand
+- The Whisperwind Smugglers
+- The Black Anchor Gang
+- The Maw's Teeth
+- The Rift Runners
+- The Sky-Rat Clans
+- The Amber Jackals
+- The Syndicate of Shadows
+- The Broken Scale Brotherhood
+- The Cloudreavers
+- The Vent Scuttlers
+- The Deep Core Syndicate
+- The Silent Talon Assassins
+- The Crestfall Cobras
+- The Root Gnawers
+- The Forgotten Sons
+- The Shard Dealers Network
+- The Crimson Blades
+- The Sky Vultures
+- The Void Walkers (Smugglers)
