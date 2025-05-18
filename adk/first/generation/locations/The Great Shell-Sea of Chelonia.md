@@ -1,0 +1,68 @@
+
+# The Great Shell-Sea of Chelonia
+**Description**: A colossal, self-contained freshwater (trending towards brackish in deeper, older sections) sea cradled within the immense, ancient shell of the Titan Chelonia. This is not an open ocean, but an enclosed, yet overwhelmingly vast, body of water. The 'sky' above is formed by the upper carapace of Chelonia, often covered in phosphorescent algae or ancient mineral deposits that create a perpetual twilight or dim, diffused illumination. Islands, ranging from small rocky outcrops to substantial landmasses, are formed from irregularities in the Titan's shell, calcified ancient growths, or even the fossilized remains of colossal parasites that once plagued Chelonia. The Shell-Sea experiences its own unique weather patterns, including misty 'Shell-Fogs', gentle 'Current-Drifts' caused by Chelonia's slow movements, and occasional 'Deep-Rumbles' as the Titan adjusts its position. The aquatic ecosystem is diverse and largely unique, featuring giant, slow-moving filter-feeding fish, shoals of bioluminescent creatures that light up the depths, vast kelp forests growing from the shell-bed, and predatory marine reptiles adapted to the enclosed environment. Settlements are found clinging precariously to the 'coastline' of the shell's inner rim, built upon stable shell-islands, or as ingenious floating communities navigating the gentle currents.
+
+## Geography
+**Region**: The primary inner surface and water body contained within the colossal shell of the Titan Chelonia.
+**Landscape**: A vast freshwater to brackish sea, dotted with shell-plate islands, ancient coral-like growths, deep trenches following the contours of the shell, bioluminescent kelp forests, and underwater cave systems within the shell's thickness. The 'coastline' is the sloping inner rim of Chelonia's shell.
+**Climate**: Humid and temperate, with stable temperatures moderated by the surrounding shell and the Titan's body heat. Experiences unique 'Shell-Fogs', localized 'Brine-Storms' where mineral-rich water is agitated, and 'Upwellings' bringing nutrient-rich water from the deepest parts of the shell. Light levels vary from perpetual twilight near the center to dim illumination near the edges where external light filters through thinner parts of the shell or cracks.
+**Key Features**:
+- The Grand Carapace Basin (largest open water area)
+- Archipelago of Ancients (cluster of large shell-islands)
+- The Lumina Kelp Forests
+- The Whispering Trenches (deepest parts of the sea)
+- The Rimwall Settlements
+- The Sunken Gardens of Old Coral
+**Points Of Interest**:
+- Port Scute (largest coastal settlement)
+- Aethelburg (major floating city)
+- The Oracle's Grotto (a bioluminescent cave system)
+- The Leviathan's Graveyard (area with giant skeletal remains)
+- The Pearl-Bed Shoals
+**Threats**:
+- Giant predatory marine life (e.g., Titan-Eels, Carapace Crushers, Depth Stalkers)
+- sudden current shifts or whirlpools caused by Chelonia's movement ('Titan Tides')
+- getting lost in Shell-Fogs
+- shell-quakes (tremors when Chelonia moves abruptly)
+- parasitic organisms that attach to ships or settlements
+- resource scarcity on isolated islands
+- territorial merfolk-like races
+
+## Demographics
+**Population**: Moderately populated, with several prominent settlements and numerous smaller villages or nomadic floater groups. Estimated in the tens to low hundreds of thousands.
+**Typical Inhabitants**:
+- Chelonians (humans adapted to aquatic life, often with webbed digits or enhanced lung capacity)
+- Nereids (graceful, amphibious humanoids)
+- Shell-Backed Tortle-kin (humanoid turtles often serving as guides or guardians of sacred shell sites)
+- Drifters (communities living on perpetually moving flotillas)
+- Brine-Goblins (scavenging creatures dwelling in the shallower, murkier waters)
+
+## Government
+**Type**: Varies: Port Scute is a merchant republic. Aethelburg is ruled by a council of 'Float-Admirals'. Many island communities are tribal or led by chieftains. Nereid communities are often matriarchal.
+**Ruling Power**: No single unifying power. The 'Tide Lords' (powerful merchant families or pirate captains) wield significant influence over trade routes. The 'Shell-Sage Conclave' (a group of wise elders from various communities) sometimes mediates disputes.
+
+## Economy
+**Description**: Based on aquaculture (farming giant clams, algae, and specialized fish), fishing, harvesting bioluminescent flora for light and alchemical components, mining minerals from the shell (like 'Shell-Shine Pearls' or 'Carapace Iron'), and salvage operations in the deeper trenches. Trade between settlements is vital.
+**Main Exports**:
+- Preserved foodstuffs (smoked Titan-Eel, dried kelp)
+- Shell-Shine Pearls
+- bioluminescent oils and pigments
+- Carapace Iron tools and armor
+- rare aquatic herbs
+- Navigational Charts of the Shell-Sea
+**Main Imports**:
+- Lumber (extremely scarce within the Shell-Sea, often from Auroch)
+- metals not found in the shell
+- sky-ship repair components
+- textiles from land-based Titans
+- freshwater filtration systems (for areas with high brine content)
+- seeds and livestock for island farming
+
+## History
+**Significance**: The Great Shell-Sea is seen as a sanctuary, a world within a world, protected by Chelonia's immense form. Its inhabitants often revere Chelonia as a benevolent, if oblivious, deity. The enclosed nature has led to unique evolutionary paths and cultural developments. Legends speak of 'The Deep Heart' of Chelonia, a mythical point of immense power or knowledge within the Titan.
+**Notable Events**:
+- The Great Slosh (a major movement by Chelonia that reshaped coastlines and destroyed settlements)
+- The Sinking of the Sunken City (an ancient, advanced city that vanished beneath the waves)
+- The Discovery of Lumina Kelp (revolutionizing lighting and navigation)
+- The Coral Bloom (a period of rapid, expansive growth of shell-coral, creating new islands)
+- The First Sky-Ship Arrival (marking the beginning of regular contact with the outside world/other Titans)

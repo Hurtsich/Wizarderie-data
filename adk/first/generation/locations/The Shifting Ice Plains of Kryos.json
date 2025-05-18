@@ -1,0 +1,68 @@
+{
+  "name": "The Shifting Ice Plains of Kryos",
+  "description": "A desolate and expansive arctic zone on the back of the Titan Kryos. The landscape is dominated by vast glaciers, deep crevasses, jagged ice mountains, and frozen rivers. The ice itself is not static; it groans, shifts, and reforms due to the Titan's movements and sub-glacial geothermal activity. Evidence of ancient, colossal life forms, some reptilian, others insectoid, are often found perfectly preserved within the translucent depths of the ice. The atmosphere is frigid and unforgiving, with biting winds carrying razor-sharp ice crystals. Unique, towering crystalline ice formations, glowing with an internal light, dot the landscape. Kryos's own biological processes generate stunning, multi-hued auroral displays that dance perpetually in the dark skies, casting an eerie and beautiful light upon the frozen wastes.",
+  "geography": {
+    "region": "The primary dorsal expanse of the Titan Kryos.",
+    "landscape": "Vast glaciers, deep crevasses, jagged ice mountains, frozen rivers, sub-glacial geothermal vents, fields of cryo-crystals.",
+    "climate": "Extreme arctic, perpetual twilight during certain phases of Kryos's movement, constant blizzards, sudden ice quakes and fracturing.",
+    "key_features": [
+      "The Great Glacier of Whispers",
+      "Crevasse Maze",
+      "Aurora Peaks",
+      "Frozen Graveyard",
+      "Geothermal Vents"
+    ],
+    "points_of_interest": [
+      "The Sunken Ice Citadel",
+      "The Crystal Heart",
+      "Nomadic Skyk-Rider encampments"
+    ],
+    "threats": [
+      "Extreme cold",
+      "blizzards",
+      "ice quakes",
+      "falling into crevasses",
+      "predatory Ice Walkers",
+      "Kryo-Wyrms",
+      "territorial frost beasts",
+      "starvation"
+    ]
+  },
+  "demographics": {
+    "population": "Sparse, consisting of nomadic tribes and a few heavily fortified settlements near geothermal vents. Estimated a few thousand souls.",
+    "typical_inhabitants": [
+      "Kryosian Nomads (humans adapted to cold)",
+      "Ice Goblins",
+      "Frost Dwarves",
+      "Researchers from warmer Titans"
+    ]
+  },
+  "government": {
+    "type": "Tribal councils, survivalist communes.",
+    "ruling_power": "No central authority; each tribe or settlement is autonomous. The most respected figure is often the \"Ice-Seer\"."
+  },
+  "economy": {
+    "description": "Primarily hunting, trapping, and mining of rare cryo-crystals and geothermal energy sources. Scavenging from frozen megafauna.",
+    "main_exports": [
+      "Cryo-crystals",
+      "rare animal pelts",
+      "preserved ancient biological samples",
+      "geothermal energy cells"
+    ],
+    "main_imports": [
+      "Foodstuffs",
+      "metals",
+      "wood",
+      "warm clothing from other Titans",
+      "sky-ship fuel"
+    ]
+  },
+  "history": {
+    "significance": "Kryos is believed to be one of the oldest Titans, preserving echoes of ancient eras within its icy shell. A place of harsh beauty and profound secrets.",
+    "notable_events": [
+      "The Great Thaw",
+      "Discovery of the 'Frozen Titans'",
+      "The Long Night"
+    ]
+  }
+}

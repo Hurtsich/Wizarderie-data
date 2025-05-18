@@ -1,0 +1,70 @@
+{
+  "name": "The Verdant Spine of Auroch",
+  "description": "A vast, continent-like region forming the primary 'back' of the Titan Auroch. This region is characterized by ancient, colossal forests of Titanwood trees that scrape the sky, mountain ranges formed by Auroch's immense bony protrusions (the \"Spinal Spires\"), and deep, fertile valleys carved by millennia of movement and the Titan's own biological processes. The sheer scale is breathtaking, with a palpable sense of a living, breathing landscape; the ground subtly shifts, the air hums with the Titan's respiration, and distant rumbles signify its slow, ponderous gait. Ancient ruins, partially reclaimed by nature, dot the landscape, hinting at forgotten civilizations that once thrived here. The ecosystem is incredibly rich, teeming with unique flora such as bioluminescent fungi illuminating the forest floor and giant, motile pitcher plants. Fauna includes herds of six-legged grazers, colossal insects like the iridescent Titan Beetles, and apex predators adapted to hunting in the dense, ever-shifting forests. Symbiotic relationships are common, with many creatures and plants having evolved to depend directly on Auroch's physiology or the unique conditions it creates.",
+  "geography": {
+    "region": "The primary dorsal surface of the Titan Auroch.",
+    "landscape": "Colossal ancient forests, jagged mountain ranges (Auroch's bony plates and spines), deep river valleys, rolling hills, and extensive cave systems within the Titan's flesh and bone.",
+    "climate": "Temperate to subtropical, with high humidity beneath the dense canopy. Seasonal variations are influenced by Auroch's slow migration patterns across the world. \"Titan Quakes\" (Auroch shifting or stretching) are common.",
+    "key_features": [
+      "Titanwood Forests",
+      "Spinal Spires",
+      "The Great Rootvales",
+      "Whispering Caves",
+      "Overgrown Ruins of the Ancients"
+    ],
+    "points_of_interest": [
+      "The Elderheart",
+      "The Sunken City of Eldoria",
+      "The Shifting Labyrinth"
+    ],
+    "threats": [
+      "Titan Quakes",
+      "colossal predatory fauna (Spine Stalkers, Canopy Wyverns)",
+      "territorial giant insects (Goliath Ants, Thorn Mantises)",
+      "sudden shifts in terrain",
+      "parasitic flora",
+      "getting lost in the vastness",
+      "ancient traps in ruins"
+    ]
+  },
+  "demographics": {
+    "population": "Scattered, estimated in the hundreds of thousands, living in isolated communities, nomadic tribes, and a few larger, more permanent settlements.",
+    "typical_inhabitants": [
+      "Humans (various cultures adapted to forest life)",
+      "Sylvans (elf-like beings deeply attuned to the Titanwood)",
+      "Grovetenders (druidic orders)",
+      "nomadic Beast-kin tribes",
+      "hardy prospectors"
+    ]
+  },
+  "government": {
+    "type": "Decentralized tribal confederacies and isolated city-states.",
+    "ruling_power": "Varies by region; powerful chieftains, councils of elders, druidic circles, or sometimes the \"will of the forest\" interpreted by seers."
+  },
+  "economy": {
+    "description": "Primarily based on foraging, hunting, sustainable forestry (harvesting rare woods, saps, and medicinal plants), and mining of minerals found in Auroch's hide and bones. Some agriculture in fertile valleys.",
+    "main_exports": [
+      "Titanwood lumber",
+      "rare medicinal herbs",
+      "unique animal pelts and carapaces",
+      "bioluminescent fungi",
+      "Spine-gems (crystals from Auroch's bones)"
+    ],
+    "main_imports": [
+      "Metal tools",
+      "refined ores (not easily processed locally)",
+      "sky-ship components",
+      "knowledge from other Titans",
+      "salt"
+    ]
+  },
+  "history": {
+    "significance": "Considered one of the oldest and most life-rich Titans. Its history is deeply intertwined with the rise and fall of several civilizations, whose ruins now serve as reminders of the past. Auroch is often seen as a \"mother\" Titan by its inhabitants.",
+    "notable_events": [
+      "The Great Slumber (a period when Auroch was unusually still, leading to a flourishing of cities)",
+      "The Spine Shattering (a massive Titan Quake that reshaped a mountain range)",
+      "discovery of the Elderheart",
+      "cyclical \"Awakenings\" where the Titan's movements become more erratic"
+    ]
+  }
+}

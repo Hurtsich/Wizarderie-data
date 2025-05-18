@@ -1,0 +1,83 @@
+{
+  "name": "Aerie-Dock 7",
+  "description": "Aerie-Dock 7 is a colossal, bustling inter-Titan sky-ship port, a marvel of engineering and necessity, constructed upon a series of magically buoyant, interconnected rock fragments and ancient, giant metallic platforms. These platforms are securely tethered by colossal chains and energy conduits to the edge of an exceptionally high, broad, and unusually stable plateau on the Titan Auroch, known as 'Auroch's Shoulder'. It hangs precariously in the sky, a sprawling city of docking towers that pierce the clouds, sprawling repair bays echoing with the clang of hammers, vibrant multicultural trading posts overflowing with exotic goods, and raucous taverns filled with sky-farers from every known Titan. The air crackles with energy – from the hum of the buoyancy engines to the shouts of dockworkers and the babble of a dozen languages. Sky-ships of every conceivable design, from sleek Aerionite clippers to lumbering Ignis ore-haulers and elegant Chelonian trade barges, constantly arrive and depart, their mooring lines like metallic spiderwebs against the breathtaking backdrop of distant, colossal Titans lumbering across the horizon. The views from the edge of the platforms are vertiginous and awe-inspiring, offering a constant reminder of the dock's sky-high, precarious existence.",
+  "geography": {
+    "region": "Tethered to 'Auroch's Shoulder,' a high, stable plateau on the Titan Auroch, bordering The Verdant Spine.",
+    "landscape": "A sprawling complex of interconnected, artificially buoyant rock and metal platforms of varying sizes and altitudes, linked by suspension bridges, grav-lifts, and ziplines. Massive docking towers, some hundreds of meters tall, dominate the skyline. Repair bays are often built into the undersides of larger platforms or within hollowed-out rock fragments. The entire structure is anchored by immense, magically reinforced chains and energy tethers to the plateau's cliffs.",
+    "climate": "High-altitude temperate. Often windy, with strong updrafts from Auroch's respiration and movement. Cloud cover frequently envelops the lower sections of the dock. Temperatures can be cool, especially at night or when Auroch passes through colder atmospheric layers. Magically maintained atmospheric shields offer some protection in core areas.",
+    "key_features": [
+      "The Grand Landing Spire (primary docking tower for large vessels)",
+      "The Shambles (a chaotic, multi-level market district)",
+      "Greasemonkey Alley (a district filled with repair shops and shipwrights)",
+      "The Tether Anchors (massive anchoring points on Auroch's Shoulder, heavily guarded)",
+      "The Sky-Lantern District (residential and entertainment area, lit by countless glowing orbs)",
+      "The Zephyr Observation Deck (offering panoramic views of other Titans)"
+    ],
+    "points_of_interest": [
+      "The Drunken Sky-Whale Tavern",
+      "The Inter-Titan Trade Guildhall",
+      "Auroch's Bounty Market",
+      "Dockmaster Varrick's Command Tower",
+      "The Whispering Winds Chapel (for travelers seeking blessings)",
+      "The Abandoned 'Platform Zero' (a restricted, supposedly haunted older section)"
+    ],
+    "threats": [
+      "High winds and turbulence causing mooring failures or platform sway",
+      "sky-pirate raids",
+      "structural integrity failure in older platforms",
+      "sabotage from rival trade factions or hostile Titan cultures",
+      "accidents involving sky-ship maneuvers",
+      "occasional 'Titan-Quakes' from Auroch affecting tether stability",
+      "smuggling operations",
+      "fires in repair bays"
+    ]
+  },
+  "demographics": {
+    "population": "Highly transient and diverse, with a permanent population of around 75,000, swelling to over 150,000 with visiting crews, merchants, and travelers.",
+    "typical_inhabitants": [
+      "Human sky-ship crews (from various Titans)",
+      "Aurochian traders and laborers",
+      "Kryosian engineers (expert in cryo-cooling for engines)",
+      "Ignis Ashari metalsmiths and enforcers",
+      "Chelonian navigators and hydro-specialists",
+      "Aerionite pilots and atmospheric surveyors",
+      "Sylvans from Auroch's forests",
+      "Goblin riggers",
+      "Dwarven mechanics",
+      "various species of 'Sky-Natives' (winged or adapted to high altitudes)"
+    ]
+  },
+  "government": {
+    "type": "Port Authority Council, a quasi-independent body with representatives from major trading guilds, Titan diplomatic envoys (where present), and appointed officials from Auroch's nearest settlements.",
+    "ruling_power": "The Port Authority Council, headed by an elected or appointed Port Master. The 'Skyguard', a well-equipped security force, maintains order and enforces dock regulations. Powerful guilds (like the Sky-Traders' Consortium or the Shipwrights' Guild) wield significant influence."
+  },
+  "economy": {
+    "description": "A critical nexus for inter-Titan trade, ship maintenance, and information exchange. The economy thrives on docking fees, tariffs on goods, repair services, resupply operations, and catering to the needs of a massive transient population. It also serves as a major recruitment hub for sky-ship crews.",
+    "main_exports": [
+      "Expert ship repair services",
+      "refueling (condensed atmospheric gases, refined Titan-bio-oils)",
+      "navigational charts and stellar cartography",
+      "processed goods from Auroch (lumber, food, textiles)",
+      "mercenary crew contracts",
+      "temporary safe haven"
+    ],
+    "main_imports": [
+      "Raw materials from all Titans (ores from Ignis, cryo-crystals from Kryos, pearls from Chelonia, sky-crystals from Aerion)",
+      "specialized ship components",
+      "exotic goods for trade",
+      "bulk foodstuffs and water to sustain the population",
+      "untreated raw resources for processing on Auroch's Shoulder"
+    ]
+  },
+  "history": {
+    "significance": "Aerie-Dock 7 is one of the oldest and most significant inter-Titan ports, a symbol of tenuous cooperation and shared survival in a world of wandering giants. Its strategic location on Auroch's Shoulder makes it a vital link between the resources of the Verdant Spine and the needs of other Titans. Many pivotal trade agreements and inter-Titan treaties have been negotiated within its halls.",
+    "notable_events": [
+      "The Founding Charter (establishment by a coalition of early sky-captains and Aurochian chieftains)",
+      "The Great Sky-Kraken Attack (a legendary aerial beast that nearly destroyed the dock)",
+      "The Forging of the Five-Titan Trade Accord",
+      "The 'Platform Collapse' incident (a section of the dock broke free, leading to improved engineering standards)",
+      "The annual 'Festival of Distant Horizons' (celebrating inter-Titan connection)",
+      "The construction of the Grand Landing Spire"
+    ]
+  }
+}
