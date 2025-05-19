@@ -1,0 +1,173 @@
+{
+  "name": "The Earthshaker Covenant",
+  "description": "A fervent religious cult that worships the Titans as primordial deities or divine manifestations. Their core belief is that the Titans' movements and states of being are omens or direct communications that must be interpreted and appeased. The Covenant is led by a High Seer or Oracle, who claims a direct connection to the 'Titan Mind,' with a hierarchy of priests and acolytes who perform rituals and spread their doctrine. Their bases are often remote temples built near significant Titan features (e.g., breathing vents, great hearts, or nerve clusters) or nomadic groups that follow specific Titans. They conduct elaborate sacrificial rituals (sometimes involving sentient beings), preach submission to the Titans' will, and fiercely oppose those who 'desecrate' or excessively exploit the Titans, often leading to violent clashes. Their relationship with Titans is one of absolute reverence and fear.",
+  "identity": {
+    "motto": "By Their Tremors, We Are Guided; In Their Silence, We Heed.",
+    "reputation": "Fanatical, devout, enigmatic, and dangerously hostile to those perceived as harming or disrespecting Titans. Viewed as unpredictable zealots by most.",
+    "symbols": [
+      "A stylized Titan silhouette with radiating tremor lines",
+      "An open eye within an earth fissure",
+      "Sacred geometric patterns representing Titan organs or energy flows"
+    ]
+  },
+  "leadership": {
+    "leaders": [
+      "High Seer Theron (current)",
+      "The Circle of Whispering Priests (senior advisors and interpreters)",
+      "Keepers of the Sacred Sites (regional leaders)"
+    ],
+    "structure": "Strict Theocratic Hierarchy. The High Seer holds ultimate spiritual and temporal authority, claiming a direct connection to the 'Titan Mind.' Below are Circles of Priests responsible for rituals, interpretation, and doctrine, followed by acolytes and lay worshippers.",
+    "origin_story": "Founded after the 'Century of Stillness,' when a major Titan, Kairoch, ceased all movement, causing widespread despair. A hermit, Elara, the First Seer, claimed to receive visions from Kairoch's slumbering mind, teaching rites of appeasement that coincided with the Titan's eventual reawakening. Her teachings formed the Covenant's core tenets."
+  },
+  "membership": {
+    "requirements": [
+      "Absolute faith in the divinity of Titans and the interpretations of the High Seer.",
+      "Willingness to participate in all rituals, including sacrificial ones if deemed necessary.",
+      "Renunciation of material exploitation of Titans.",
+      "Often requires a pilgrimage to a sacred Titan site."
+    ],
+    "uniforms": [
+      "Earth-toned, rough-spun robes (ochre, russet, deep browns) adorned with polished stones, bones, or crystal fragments believed to resonate with Titan energies.",
+      "Ritualistic body paint using sacred ash and ochre, depicting Titan movements or anatomical features.",
+      "High Priests wear elaborate headdresses crafted from shed Titan materials (e.g., petrified scales, giant quills) and carry staffs topped with resonating crystals."
+    ],
+    "traditions": [
+      "The Great Attunement: A bi-annual mass ritual where followers attempt to synchronize their thoughts with a specific Titan's 'dreaming'.",
+      "The Rite of Shedding: A personal ritual of purification where followers discard worldly possessions at the foot of a Titan.",
+      "Sacrificial Offerings: Varied offerings, from precious minerals and crafted goods to, in extreme cases, sentient beings, to appease angry or restless Titans.",
+      "Chanting the Titan Canticles: Continuous, rhythmic chanting believed to soothe or communicate with the Titans."
+    ]
+  },
+  "relations": {
+    "allies": [
+      "Isolated Titan-bound communities who rely on Covenant interpretations for survival.",
+      "Rarely, extremist elements of Gaea's Fist Wardens for specific anti-Imperium actions, though ideological differences are vast."
+    ],
+    "enemies": [
+      "The Titan-Strider Imperium (seen as primary desecrators and blasphemers)",
+      "The Architects of the Unwaking God (considered the ultimate heretics)",
+      "The Zephyr Collective (if their trade routes or sky-ports disturb sacred Titan slumber or paths)",
+      "The Titanographers' Guild (their scientific approach is viewed as hubris and a denial of Titan divinity)"
+    ],
+    "relationships": [
+      {
+        "name": "The Titan-Strider Imperium",
+        "description": "The Covenant views the Imperium's resource extraction and disregard for Titan sanctity as an abomination. They engage in direct, often violent, opposition, including raids on Imperial mining sites and inciting revolt among subjugated populations. The Imperium brands them dangerous fanatics and actively hunts them.",
+        "strength": "High and Volatile",
+        "type": "Hostile - Holy War"
+      },
+      {
+        "name": "Gaea's Fist Wardens",
+        "description": "A complex relationship. While both oppose Titan exploitation, their motivations differ (divinity vs. ecological preservation). The Covenant sees the Wardens as well-meaning but misguided mortals failing to grasp the true nature of Titans. Occasional, uneasy truces against the Imperium occur, but mistrust is prevalent.",
+        "strength": "Low - Ideological Friction/Occasional Allies of Convenience",
+        "type": "Ambivalent - Suspicious"
+      },
+      {
+        "name": "The Titanographers' Guild",
+        "description": "The Covenant views the Guild's attempts to scientifically understand Titans as blasphemous arrogance. They believe knowledge of Titans should come through divine revelation, not empirical study. They may actively disrupt Guild research they deem intrusive or disrespectful.",
+        "strength": "Moderate",
+        "type": "Hostile - Ideological Opposition"
+      },
+      {
+        "name": "The Architects of the Unwaking God",
+        "description": "Considered the ultimate heretics. The idea of 'repairing' or 'controlling' divine beings is the highest form of blasphemy to the Covenant. Any encounter would likely result in immediate, fanatical violence from the Covenant.",
+        "strength": "Extreme",
+        "type": "Hostile - Existential Threat (Ideological)"
+      }
+    ]
+  },
+  "status": {
+    "current_status": "Actively proselytizing and conducting rituals to interpret recent 'Titan awakenings' (increased global Titan activity). Believed to be preparing for a prophesied 'Great Cleansing' where Titans will purge the unworthy. Engaged in numerous low-intensity conflicts with Imperial forces.",
+    "resources": [
+      "Devoted, fanatical followers willing to die for their beliefs.",
+      "Hoards of offerings (minerals, artifacts, food) stored in sacred sites.",
+      "Secret knowledge of Titan behaviors and hidden pathways on their surfaces.",
+      "Unique psychoactive substances harvested from Titan-specific flora/fauna used in rituals to induce visions."
+    ],
+    "goals": [
+      "Appease the Titans and ensure their continued benevolent (or at least non-destructive) presence.",
+      "Convert all peoples to the worship of Titans.",
+      "Prevent any large-scale exploitation or 'desecration' of Titans.",
+      "Interpret and prepare for the 'Grand Awakening,' a prophesied era of direct Titan intervention in mortal affairs.",
+      "Destroy the Titan-Strider Imperium and other blasphemous factions."
+    ]
+  },
+  "faction_location": {
+    "name": "Sanctum of the First Tremor",
+    "description": "The primary temple and holiest site of the Earthshaker Covenant, built deep within a massive, geologically active fissure on the ancient Titan Kairoch, the Elder Stone. It is a place of pilgrimage, ritual, and dire prophecy, where the veil between the mortal world and the Titan Mind is believed to be thinnest.",
+    "geography": {
+      "region": "The Obsidian Flanks of Kairoch, an immensely old and slow-moving Titan known for its resonant groans and constant minor tremors.",
+      "landscape": "A network of interconnected caverns, ledges, and chambers within a colossal fissure. Steaming vents, glowing crystal formations, and pools of geothermally heated water are common. The air is thick with mineral scents and the ever-present thrum of Kairoch's movements.",
+      "climate": "Warm and humid internally due to geothermal activity, often shrouded in mineral-rich steam. The deeper sections are oppressively hot.",
+      "key_features": [
+        "The Maw of Kairoch (the primary entrance, a vast cave mouth emitting rhythmic pulses of warm air)",
+        "The Seer's Oracular Geode (a colossal, hollow crystal chamber where the High Seer communes)",
+        "The Sacrificial Vent (a deep chasm where major offerings are made)",
+        "The Whispering Galleries (natural rock tunnels that amplify Kairoch's internal sounds into seemingly coherent whispers)"
+      ],
+      "points_of_interest": [
+        "The Bone Scriptorium (where prophecies are carved onto Titan bones)",
+        "The Vein of Souls (a wall embedded with psychoactive crystals used for inducing visions)",
+        "The Pilgrim's Maze (a series of treacherous, ritually significant tunnels leading to the inner sanctum)",
+        "The Chamber of Echoes (where acolytes learn to interpret Titan vibrations)"
+      ],
+      "threats": [
+        "Sudden geological shifts, rockfalls, or vent eruptions from Kairoch.",
+        "Exposure to toxic geothermal gases.",
+        "Encounters with deep-Titan creatures disturbed by Covenant activity.",
+        "Raids by Imperial 'Witch Hunter' cadres.",
+        "Internal schisms among the priesthood over interpretations or rituals."
+      ]
+    },
+    "demographics": {
+      "population": "Several thousand; consisting of the High Seer, numerous priests and priestesses of varying ranks, acolytes in training, temple guardians (the Fists of Kairoch), and a fluctuating number of pilgrims and petitioners.",
+      "typical_inhabitants": [
+        "Solemn, chanting priests performing endless rituals.",
+        "Wide-eyed, fanatical acolytes.",
+        "Desperate pilgrims seeking cures or guidance.",
+        "Stern, heavily armed Temple Guardians.",
+        "The High Seer, rarely seen outside the Oracular Geode."
+      ]
+    },
+    "government": {
+      "type": "Absolute Theocracy",
+      "ruling_power": "The High Seer, whose pronouncements are considered divine law. The Circle of Whispering Priests manages daily affairs and interprets edicts."
+    },
+    "economy": {
+      "description": "Subsistence based on tithes and offerings from followers across many Titans. They engage in limited trade of 'blessed' items or rare minerals found only on Kairoch, but largely disdain material wealth for its own sake.",
+      "main_exports": [
+        "Prophetic readings (for significant tribute)",
+        "Blessed relics (charms, sacred earth, Titan-shed fragments)",
+        "Potent psychoactive compounds used in their rituals (highly restricted trade)."
+      ],
+      "main_imports": [
+        "Foodstuffs to supplement what Kairoch provides",
+        "Basic tools and textiles",
+        "Sacrificial animals or goods not available on Kairoch",
+        "Recruits and pilgrims from other Titans."
+      ]
+    },
+    "history": {
+      "significance": "The spiritual heart of the Earthshaker Covenant. Believed to be the exact location where the First Seer received her initial revelations from Kairoch, making it the most direct conduit to the Titan Mind.",
+      "notable_events": [
+        "The First Revelation of Seer Elara.",
+        "The construction of the Sanctum over generations.",
+        "The Schism of the Silent Path (a heretical sect that rejected physical sacrifice and was violently purged).",
+        "The Imperium's 'Cleansing Crusade' against Kairoch, which was thwarted by a sudden, localized Titan tremor attributed to the Covenant's rituals.",
+        "The Prophecy of the Crimson Tear (a recent, dire omen from High Seer Theron)."
+      ]
+    },
+    "secrets": {
+      "legends": [
+        "That the deepest parts of the Sanctum lead to Kairoch's literal 'heart' or 'brain'.",
+        "Whispers that the High Seer doesn't just interpret Kairoch's will, but can subtly influence its minor movements and moods.",
+        "Tales of an ancient, pre-Covenant entity slumbering even deeper within Kairoch, which the Titans themselves fear or revere."
+      ],
+      "artifacts": [
+        "The 'Stone of Elara's First Word' (a smooth, pulsating rock upon which the First Seer supposedly rested when she received her vision, now the High Seer's throne).",
+        "The 'Tapestry of Unfolding Doom' (a massive, continuously updated prophetic map woven from Titan sinew and shed skin, depicting future Titan movements and global events).",
+        "The 'Heart-Drum of Kairoch' (a colossal drum made from a resonant Titan organ, struck only during the most critical rituals to directly communicate with the Titan)."
+      ]
+    }
+  }
+}

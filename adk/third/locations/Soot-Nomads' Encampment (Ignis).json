@@ -1,0 +1,97 @@
+{
+  "name": "Soot-Nomads' Encampment (Ignis)",
+  "description": "The Soot-Nomads' Encampment is not a fixed location but a constantly shifting, mobile community that epitomizes survival on the volatile surface of Ignis. It typically consists of a laager of heavily armored wagons, their thick plates scarred by heat and shrapnel, designed to withstand ash storms and minor tremors. For longer stays or during significant eruptions, the nomads excavate temporary subterranean shelters – 'ash-burrows' or expanded lava tubes – offering crucial protection from Ignis's fury. These resilient people are expert survivalists, resourceful scavengers, and skilled miners, constantly following Ignis's more geologically stable regions to extract rare minerals or venturing into recently devastated areas to salvage what they can. They are renowned as unparalleled guides across Ignis's treacherous, ever-changing landscapes and are often the primary source of up-to-date intelligence on the Titan's current state, its new lava flows, active vents, and seismic temperament, trading this invaluable information for essential supplies.",
+  "geography": {
+    "region": "The Unstable Territories of Ignis (e.g., Ashfall Wastes, Obsidian Plains, Geyser Fields – wherever Ignis's current stirrings permit and resources beckon).",
+    "landscape": "A temporary, mobile settlement. Key features include a defensive circle of armored wagons, entrances to hastily dug subterranean shelters, makeshift forges for urgent repairs and toolmaking, designated areas for processing scavenged materials, and temporary pens for their hardy, heat-resistant beasts of burden. The immediate surroundings are typical of Ignis: volcanic plains, ash dunes, fields of obsidian shards, cooling lava flows, and steaming geothermal vents, constantly shifting due to the Titan's activity.",
+    "climate": "Subject to Ignis's extreme and unpredictable climate: intense heat, pervasive ash-laden air, sulfurous fumes, frequent seismic tremors, and the constant threat of lava flows or pyroclastic events. Shelters provide essential respite. The nomads are adept at reading atmospheric signs to predict localized hazards.",
+    "key_features": [
+      "The Wagon Laager: A defensive formation of their armored wagons, providing a mobile fortress perimeter.",
+      "The Ash-Burrow Network: Interconnected subterranean shelters and storage areas, dug rapidly for protection.",
+      "The Trail Boss's Command Wagon: The central hub for decision-making, mapping, and communication.",
+      "The Scavenge Yard: A designated area where salvaged goods and raw minerals are sorted and processed.",
+      "The Cinder-Paddock: Enclosures for their heat-adapted mounts (e.g., Magma-Mules, Scoria-Hounds).",
+      "Mobile Watchtowers: Elevated platforms on the sturdiest wagons or nearby rock formations for spotting danger or resources."
+    ],
+    "points_of_interest": [
+      "The Current Mining Claim (A temporary site where rare minerals are being extracted).",
+      "The 'Cooling Zone' (A recently active volcanic area now safe enough for scavenging valuable obsidian or mineral deposits).",
+      "Guarded Hot Springs (Utilized for water and hygiene, constantly monitored for geothermal instability).",
+      "Forgotten Ignis Ruins (Locations of past settlements discovered and sometimes picked clean by the nomads).",
+      "The Nomads' Secret 'Safe Passages' (Constantly updated routes across Ignis's most dangerous terrains).",
+      "The 'Whisperwind Vent' (A specific geothermal vent whose sounds are believed to predict Ignis's temper)."
+    ],
+    "threats": [
+      "Sudden volcanic eruptions, lava flows, or pyroclastic surges from Ignis.",
+      "Powerful earthquakes (Titanquakes) causing ground fissures and collapsing shelters.",
+      "Suffocating ash storms or toxic gas clouds.",
+      "Attacks by hostile fire-adapted Ignis megafauna (e.g., Magma Drakes, Cinder Spiders, territorial Ash Ghouls).",
+      "Raids from rival nomad groups, desperate scavengers, or Cinder-Forge patrols seeking to claim resources.",
+      "Depletion of local resources (water, ore, salvage) forcing a dangerous relocation.",
+      "Internal disputes over leadership, routes, or dwindling supplies."
+    ]
+  },
+  "demographics": {
+    "population": "Fluid and dispersed. Typically consists of several independent caravans, each numbering from 50 to 300 individuals. These caravans may occasionally converge at temporary rally points, swelling numbers to over a thousand for brief periods of trade or council.",
+    "typical_inhabitants": [
+      "Ashlander Humans (Dominant group, with generations of adaptation to Ignis's harsh conditions, known for their resilience and survival skills).",
+      "Hardened Dwarven Prospectors (Small, independent groups or individuals valued for their exceptional mining and geological knowledge).",
+      "Kobold Scavenger Kin (Operating on the fringes or sometimes integrated, masters of finding hidden resources and navigating tight spaces).",
+      "Fire Genasi (Rare and often revered as spiritual guides, 'Ash-Readers,' or fire-resistant warriors due to their elemental heritage).",
+      "Outcasts and hardened survivors from other races (Individuals who have adapted to the nomadic lifestyle out of necessity or choice).",
+      "Specially bred, heat-resistant beasts of burden and guard animals (e.g., Magma-Mules, Scoria-Hounds, Cinder-Hawks)."
+    ]
+  },
+  "government": {
+    "type": "Tribal and meritocratic. Each caravan is typically led by an elected 'Trail Boss' or 'Caravan Chieftain,' chosen for their proven survival skills, wisdom, navigational expertise, and ability to find resources. The Chieftain is advised by a council of elders, comprising experienced scouts, master artisans, formidable warriors, and respected 'Vein-Finders' or 'Ash-Readers'.",
+    "ruling_power": "The Caravan Chieftain and the Council of Elders. Decisions are pragmatic, focused on immediate survival, resource acquisition, and the safety of the caravan. Consensus is preferred, but the Chieftain often has final say in critical situations."
+  },
+  "economy": {
+    "description": "A precarious economy based on subsistence, expert scavenging, opportunistic mining of rare and valuable minerals from dangerous or temporary locations, and the trade of vital information and guide services. Barter is the primary mode of exchange, both internally and with outsiders. Their wealth is measured in immediately useful resources, vital information, and the ability to survive.",
+    "main_exports": [
+      "Rare ores and unique gemstones (e.g., 'Heartfire Rubies,' 'Obsidian Tears,' 'Volcanic Diamonds') extracted from high-risk areas.",
+      "Salvaged components (ancient technology, heat-resistant alloys from ruins, intact obsidian shards).",
+      "Unmatched guide services across Ignis's treacherous surface.",
+      "Critical, real-time intelligence on Ignis's volcanic activity, new lava flows, stable paths, and creature movements.",
+      "Unique alchemical ingredients from rare heat-adapted flora or fauna.",
+      "Live, heat-resistant creatures (if any can be spared or specifically bred).",
+      "Knowledge of hidden water sources or safe havens."
+    ],
+    "main_imports": [
+      "Potable water (a constant, critical need, often their highest priority in trade).",
+      "Preserved foodstuffs (from more fertile Titans like Kaskara or Coralia).",
+      "Durable metal for tools, wagon repairs, and weapon points (often traded for with raw ore).",
+      "Basic medical supplies and healing herbs not found on Ignis.",
+      "Sturdy, non-flammable textiles for clothing, shelter linings, and wagon covers.",
+      "Information from other Titans about trade opportunities or distant events.",
+      "Beast fodder for their mounts, if natural grazing is scarce."
+    ]
+  },
+  "history": {
+    "significance": "The Soot-Nomads are the living embodiment of adaptation to Ignis's relentless, fiery nature. They are the keepers of generations of survival lore specific to the Obsidian Wyrm, understanding its rhythms and dangers better than any sedentary population. Their existence is a testament to resilience, resourcefulness, and an intimate, albeit perilous, relationship with their Titan host. They often act as the first warning system for major Ignis stirs that might affect other settlements.",
+    "notable_events": [
+      "The Great Ashfall Exodus (Legendary origin story of how their ancestors were forced into nomadism by a cataclysmic series of eruptions that buried permanent settlements).",
+      "The Forging of the First Armored Wagon (A pivotal moment in their history, marking a significant improvement in their ability to survive Ignis's hazards).",
+      "The Silent Hunt (A period where a particularly cunning and powerful Magma Drake terrorized the nomad routes, forcing them to develop new hunting and evasion tactics).",
+      "The Council of Cinder Paths (A rare gathering of multiple nomad clans to share knowledge and agree on common routes after a major Titanquake reshaped vast territories).",
+      "The First Trade with Cinder-Forge (The cautious establishment of trade relations with the fortified city, fraught with mistrust but driven by mutual need).",
+      "The discovery and loss of the 'Sunken Vein' (A fabulously rich, but geologically unstable, mineral deposit that brought brief prosperity and then disaster)."
+    ]
+  },
+  "secrets": {
+    "legends": [
+      "It's whispered that the most skilled Soot-Nomad 'Ash-Readers' can interpret Ignis's future movements by observing the patterns in falling ash or the subtle vibrations in the ground.",
+      "Legends tell of 'Oases of Ignis' – small, hidden pockets of unexpected calm and even sparse vegetation, their locations guarded secrets passed down through generations.",
+      "Some elders claim to understand the 'Language of the Lava,' believing specific flow patterns or cooling formations convey messages from the Titan.",
+      "There are tales of ancient Soot-Nomad chieftains who could temporarily soothe Ignis's fury or guide its lesser stirrings through forgotten rituals.",
+      "A persistent myth speaks of a 'Coolstone Cache,' a legendary hidden supply of rare minerals that remain cool to the touch even amidst Ignis's heat."
+    ],
+    "artifacts": [
+      "The Trailblazer's Compass: An ancient, obsidian-cased device that supposedly points towards areas of geothermal stability or away from imminent eruptions, though its workings are a mystery.",
+      "The Elder's Ash-Cloak: A patched, soot-stained cloak passed down through chieftains, said to grant uncanny protection from heat and ash.",
+      "Heat-Etched Star Charts: Obsidian shards inscribed with complex maps not of land, but of Ignis's internal heat patterns and magma flows, used for predicting eruptions.",
+      "The Last Water Divining Rod: A charred wooden rod, rumored to be from a time before Ignis was so arid, that can still twitch towards hidden subterranean water sources.",
+      "A collection of 'Ignis Tears': Small, perfectly smooth obsidian pebbles found only after the most violent eruptions, believed to hold a spark of the Titan's fury and grant resilience."
+    ]
+  }
+}

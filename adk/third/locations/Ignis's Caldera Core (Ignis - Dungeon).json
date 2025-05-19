@@ -1,0 +1,94 @@
+{
+  "name": "Ignis's Caldera Core (Ignis - Dungeon)",
+  "description": "Ignis's Caldera Core is a terrifying and deeply perilous network of interconnected volcanic tubes, searing magma chambers, and treacherous obsidian caves that inexorably wind their way towards the very heart of Ignis's primary, colossal caldera. This subterranean labyrinth is an intensely hazardous environment, where adventurers face constant threats from unbearable, oppressive heat that can melt steel, clouds of choking, toxic gases that erupt from unseen fissures, and encounters with volatile fire elementals that embody Ignis's fiery wrath. Sudden, unpredictable lava surges can instantly transform passages into molten deathtraps, and the ground itself often shudders with the Titan's barely contained power. Despite these extreme dangers, the Caldera Core is a place of legendary allure, whispered to contain veins of ultra-hard 'Firesteel' ore, coveted by smiths across the Titans; massive, energy-rich geothermal crystals that pulse with raw power; and, most terrifyingly, the rumored lair of a mighty and ancient Magma Drake, a beast of pure fire and fury said to guard the caldera's deepest secrets.",
+  "geography": {
+    "region": "Deep within Ignis, the Obsidian Wyrm Titan, leading to its primary active caldera.",
+    "landscape": "A network of natural and magma-carved lava tubes, some wide enough for giants, others mere crawlspaces. Vast, irregularly shaped magma chambers with bubbling lakes of molten rock and precarious obsidian bridges. Caverns formed from rapidly cooled obsidian, featuring sharp, glass-like formations and fragile ledges. Geothermal vents spewing superheated steam and toxic gases. Areas of unstable, crumbling volcanic rock and ash-choked passages.",
+    "climate": "Extreme, life-threatening heat throughout. Air quality is exceptionally poor, often saturated with sulfurous fumes, carbon dioxide, and other volcanic gases. Localized areas experience intense radiation from exposed magma. Visibility is often obscured by steam, smoke, and heat haze. The entire structure vibrates with Ignis's geothermal activity and the flow of magma.",
+    "key_features": [
+      "The Great Lava River: A major, active flow of molten rock that bisects sections of the Core, requiring dangerous crossings or detours.",
+      "Obsidian Shard Caverns: Caves lined with razor-sharp obsidian formations, making movement treacherous.",
+      "The Fumarole Maze: A complex of narrow, steam-filled passages with unpredictable jets of superheated gas.",
+      "The Crystal Geode Chambers: Hidden caverns where massive geothermal crystals have formed, radiating intense energy and heat.",
+      "The Magma Drake's Roost: A legendary, vast chamber near the caldera's edge, believed to be the lair of the ancient Magma Drake.",
+      "The Firesteel Vein Passages: Sections of tunnel where the sought-after Firesteel ore is rumored to be exposed."
+    ],
+    "points_of_interest": [
+      "The 'Charred Path' entrance (A known, but heavily guarded or trapped, access point).",
+      "The 'Cooling Pools' (Small, dangerously acidic pools where water condenses, offering minimal respite).",
+      "The Echoing Magma Falls (A cascade of lava plunging into a deeper chamber).",
+      "The Obsidian Bridge of Sighs (A narrow, natural bridge of obsidian spanning a magma chasm).",
+      "The Sulfur Vents of Despair (A particularly toxic and disorienting area).",
+      "The Chamber of Whispering Flames (Where fire elementals are said to congregate and communicate).",
+      "The 'Forgeheart' (A legendary, naturally occurring forge-like area of intense heat where Firesteel is supposedly formed)."
+    ],
+    "threats": [
+      "Extreme heat leading to rapid exhaustion, dehydration, and combustion of flammable materials.",
+      "Toxic and asphyxiating volcanic gases.",
+      "Volatile Fire Elementals, Magma Mephits, Salamanders, and other fire-based creatures.",
+      "The powerful Magma Drake (legendary creature, potentially a boss encounter).",
+      "Sudden lava surges, eruptions from within the tubes, or collapsing magma chamber roofs.",
+      "Unstable terrain: crumbling rock, brittle obsidian, hidden lava pits, ash slides.",
+      "Geothermal explosions or steam vent eruptions.",
+      "Getting lost in the labyrinthine, poorly mapped network of tunnels and caves.",
+      "Magical wards or ancient traps left by previous denizens or Ignis itself."
+    ]
+  },
+  "demographics": {
+    "population": "No permanent sapient civilization. Inhabited by fire-immune or fire-adapted creatures, and the legendary Magma Drake. Occasionally, desperate miners or foolhardy adventurers attempt to brave its depths.",
+    "typical_inhabitants": [
+      "Fire Elementals (Lesser and Greater).",
+      "Magma Mephits.",
+      "Salamanders (Fire-based reptilian humanoids).",
+      "Cinder Swarms (Swarms of tiny, fiery insects).",
+      "Obsidian Imps or Pyrelings.",
+      "The Great Magma Drake (Unique, powerful creature).",
+      "Heat-adapted giant insects or arachnids (e.g., Volcanic Spiders, Lava Grubs).",
+      "Remnants of failed expeditions (scorched remains, ghostly echoes)."
+    ]
+  },
+  "government": {
+    "type": "Not applicable. The Caldera Core is a wild, untamed environment ruled by primal forces and its most powerful denizens.",
+    "ruling_power": "The Magma Drake (if legends are true, it dominates the deepest sections). Otherwise, it's a territory fought over by various fire elementals and other native creatures based on raw power."
+  },
+  "economy": {
+    "description": "No economy. The Caldera Core is a source of incredibly valuable, but extremely difficult to obtain, raw materials. Its 'value' lies entirely in what can be extracted at immense risk.",
+    "main_exports": [
+      "Raw Firesteel ore (ultra-hard, heat-resistant metal).",
+      "Massive Geothermal Crystals (potent energy sources, magical components).",
+      "Magma Drake scales, teeth, or heartblood (if one could be defeated; legendary alchemical/crafting components).",
+      "Purest obsidian fragments.",
+      "Condensed elemental fire essences.",
+      "Unique volcanic gemstones formed under extreme pressure and heat."
+    ],
+    "main_imports": [
+      "N/A for a dungeon, as it does not actively import goods. Adventurers bring their own supplies."
+    ]
+  },
+  "history": {
+    "significance": "Ignis's Caldera Core is the most dangerous and sacred part of the Obsidian Wyrm Titan, representing its raw, untamed power. Reaching its heart is a legendary feat, and the resources within could shift balances of power for smiths, mages, or even entire settlements. It is a place of ultimate trial by fire.",
+    "notable_events": [
+      "The First Delve (Legendary, possibly mythical, first attempt to chart or exploit the Core, ending in disaster).",
+      "The Awakening of the Drake (If the Magma Drake is real, an event marking its arrival or claim over the Core).",
+      "The Cinder-Forge Expeditions (Rumored attempts by Cinder-Forge to establish controlled mining operations, all failing spectacularly).",
+      "The 'Year of the Inner Fire' (A period when Ignis was particularly active, causing the Caldera Core to expand or spew forth unusual creatures/materials).",
+      "The Silent Pilgrimage (A mysterious, unrecorded event where a lone, powerful entity is said to have traversed the Core and returned, changed)."
+    ]
+  },
+  "secrets": {
+    "legends": [
+      "It's whispered that the very 'heart' of Ignis, its sentient core or source of elemental fire, lies within or just beyond the primary caldera, accessible only through the deepest parts of the Core.",
+      "Some believe the Magma Drake is not just a beast, but an ancient guardian placed or bound there to protect Ignis's true power.",
+      "Legends claim that Firesteel isn't just mined, but 'grown' or 'forged' by the Titan itself in specific, superheated chambers within the Core, requiring precise timing and rituals to harvest.",
+      "There are tales of hidden 'Cool Vents' or 'Obsidian Sanctuaries' within the Core, offering temporary, miraculous respite from the heat, their locations a closely guarded secret among survivors.",
+      "A persistent rumor suggests that the geothermal crystals within the Core can be used to temporarily control or influence lesser fire elementals, or even Ignis's minor stirrings."
+    ],
+    "artifacts": [
+      "A Shard of the First Flame: A mythical fragment of elemental fire, said to be from the creation of Ignis itself, granting immense power over fire but constantly yearning to return to its source.",
+      "The Drake-Scale Shield: A legendary shield crafted from the shed scale of a Magma Drake, offering unparalleled fire resistance.",
+      "The Forgemaster's Geode: A massive, uncut geothermal crystal that, if properly attuned, could serve as an inexhaustible power source for a mighty forge.",
+      "The Obsidian Heart of Ignis: Not the Titan's actual heart, but a perfectly formed, fist-sized piece of obsidian found only in the deepest, hottest part of the Core, said to pulse with captured magma and grant visions of Ignis's depths.",
+      "The Charred Map of a Lost Expedition: A partially burned map, etched on heat-resistant hide or stone, detailing a previous attempt to navigate the Caldera Core, possibly showing safe paths or deadly traps."
+    ]
+  }
+}

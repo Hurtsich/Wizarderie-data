@@ -1,0 +1,91 @@
+{
+  "name": "The Geyser Fields of Ignis's Flank (Ignis - Point of Interest)",
+  "description": "The Geyser Fields of Ignis's Flank are a vast, treacherous expanse on the Obsidian Wyrm Titan, an unstable plain defined by hundreds of geothermal geysers that erupt with terrifying unpredictability, spewing scalding water, superheated steam, and mineral-rich debris. The ground is a chaotic mosaic of steaming fissures, bubbling hot springs, sulfurous pools, and fragile crusts that can collapse without warning into boiling mud or hidden lava tubes. Despite the omnipresent danger, the Fields are a coveted source of rare minerals, deposited in vibrant, crystalline layers by the geyser activity. It is also a perilous hunting ground for unique creatures that have adapted to thrive in the extreme heat and moisture, their hides often infused with the very minerals they tread upon. The air is thick with the roar of erupting geysers, the hiss of steam vents, and the acrid scent of sulfur, making it a disorienting and deadly frontier for even the hardiest souls.",
+  "geography": {
+    "region": "The Unstable Flanks of Ignis, often bordering the Ashfall Wastes.",
+    "landscape": "A geothermal plain dominated by hundreds of active geysers of varying sizes and eruption cycles. Features include extensive mineral terraces built up by geyser deposits, sulfurous mud pots, steaming hot springs, deep, unstable fissures, fragile sinter crusts, and scattered fields of volcanic pumice and obsidian shards ejected by eruptions. The ground is constantly shifting and reforming.",
+    "climate": "Extremely hot and humid, with localized superheated zones around active geysers and steam vents. The air is thick with steam, sulfurous fumes (SO2, H2S), and acidic mists, drastically reducing visibility and posing respiratory hazards. The ground radiates intense heat, and sudden temperature spikes accompany geyser eruptions. 'Scald-Rain' (condensed, superheated, mineral-laden water) is a frequent hazard.",
+    "key_features": [
+      "The 'Old Faithful's Fury' (A massive, somewhat predictable geyser known for its towering eruptions).",
+      "The Sulfur Vents of Vol'kar (A cluster of fumaroles emitting concentrated toxic gases and depositing bright yellow sulfur crystals).",
+      "The Crystalline Terraces of Ignis's Tears (Multi-hued mineral formations created by evaporated geyser water, rich in rare compounds).",
+      "The Tremor Flats (A particularly unstable area where the ground constantly shudders and fissures open and close).",
+      "The Steam-Worn Ravines (Channels carved by repeated flows of superheated water, often hiding mineral veins or creature lairs).",
+      "The Boiling Mire (A large expanse of superheated mud and quicksand-like thermal pools)."
+    ],
+    "points_of_interest": [
+      "The 'Geyserite' Vein (A rumored location of exceptionally pure mineral deposits).",
+      "The Magma-Salamander Nesting Grounds (Dangerous areas where these creatures lay their eggs).",
+      "The Wreckage of the 'Prospector's Hope' (A shattered Cinder-Forge mining rig, testament to the Fields' dangers).",
+      "The Hidden Steam Caves (Naturally formed caves behind geyser curtains, sometimes containing crystallized minerals or offering temporary shelter).",
+      "The Soot-Nomad 'Offering Stone' (A landmark where Soot-Nomads leave offerings before daring to enter the Fields).",
+      "The 'Sulfur Bloom' Geode Field (An area where hollow, sulfur-lined geodes are frequently found after minor eruptions)."
+    ],
+    "threats": [
+      "Unpredictable geyser eruptions (scalding water, steam blasts, high-velocity rock debris, concussive force).",
+      "Collapsing ground, opening fissures, and sinkholes into boiling mud or magma tubes.",
+      "Extreme heat, dehydration, and heatstroke.",
+      "Toxic and asphyxiating volcanic gases.",
+      "Poor visibility due to steam and ash, leading to disorientation.",
+      "Territorial heat-adapted creatures (e.g., Ignis Salamanders, Cinder Geckos, Steam Mephits, Sulfur Beetles, Acidic Slimes, possibly lesser Fire Elementals).",
+      "Rival prospectors or hunting parties (especially from Cinder-Forge or Soot-Nomad clans) competing for resources.",
+      "Flash floods of boiling water after major geyser events."
+    ]
+  },
+  "demographics": {
+    "population": "None (hazardous natural zone). Occasionally frequented by small, heavily equipped prospecting teams or hunters from Cinder-Forge or Soot-Nomad caravans, but no one resides here permanently.",
+    "typical_inhabitants": [
+      "Ignis Salamanders (Large, aggressive amphibians that thrive in boiling water).",
+      "Cinder Geckos (Small, swift reptiles adapted to extreme heat).",
+      "Steam Mephits (Mischievous elemental creatures emerging from vents).",
+      "Sulfur Beetles (Insects with hardened carapaces, feeding on mineral deposits).",
+      "Acidic Slimes (Corrosive oozes found in sulfurous pools).",
+      "Heat-Resistant Fungi and Extremophile Bacteria (Forming colorful mats around vents and hot springs).",
+      "Rarely, lesser Fire Elementals drawn to potent geothermal vents."
+    ]
+  },
+  "government": {
+    "type": "None (untamed, hazardous wilderness).",
+    "ruling_power": "The raw, unpredictable geothermal forces of Ignis itself, and the dominance hierarchies of the native heat-adapted fauna. No sapient faction holds sway here."
+  },
+  "economy": {
+    "description": "The Geyser Fields have no internal economy. Their value lies in the rare and dangerous resources that can be extracted by daring outsiders at immense risk. Any 'trade' is conducted by those who successfully harvest materials and bring them back to settlements like Cinder-Forge or Soot-Nomad encampments.",
+    "main_exports": [
+      "Rare geothermal minerals (e.g., 'Geyserite Crystals,' 'Volcanic Salts,' 'Sulfur Nodules,' 'Obsidian Opals').",
+      "Heat-resistant hides, carapaces, or glands from adapted creatures (for alchemy or crafting specialized gear).",
+      "Samples of unique extremophile organisms (for alchemical research or specialized cultivation).",
+      "Condensed mineral-rich geyser water (potent but volatile alchemical ingredient).",
+      "Unusual volcanic rock specimens and tephra.",
+      "Small, perfectly formed 'Steam Pearls' (geodes created by rapid mineral deposition within steam vents)."
+    ],
+    "main_imports": [
+      "N/A (Point of Interest); prospectors and hunters bring all their own equipment, supplies, and protective gear."
+    ]
+  },
+  "history": {
+    "significance": "The Geyser Fields of Ignis's Flank are a dynamic and awe-inspiring testament to the Titan's immense internal heat and geological activity. They are a constantly changing landscape, offering both incredible danger and the promise of unique riches. Ignis's inhabitants view the Fields with a mixture of fear and respect, a place where the Titan's fiery breath is made manifest. Understanding the Fields' patterns, however erratic, is key to surviving any venture into them.",
+    "notable_events": [
+      "The Great Geyser Cascade of '92 (A legendary event where dozens of major geysers erupted simultaneously, reshaping a vast swathe of the Fields and revealing new mineral deposits).",
+      "The 'Iron-Hide' Salamander Hunt (A famous, or infamous, expedition by Cinder-Forge hunters to acquire the super-hardened hides of a unique Salamander variant found only in the Fields).",
+      "The Soot-Nomad 'Steam Scour' (A period when a Soot-Nomad clan, driven by desperation, managed to devise methods to briefly redirect smaller steam vents for a risky mining operation).",
+      "The Discovery of the 'Rainbow Terraces' (The first recorded sighting of particularly vibrant and extensive mineral terraces, sparking a brief prospecting rush).",
+      "The 'Day the Ground Boiled' (A major tremor on Ignis that caused widespread ground collapse and new fissure formations across the Geyser Fields, swallowing several prospecting camps)."
+    ]
+  },
+  "secrets": {
+    "legends": [
+      "It is whispered that some of the deeper fissures within the Geyser Fields lead directly to Ignis's molten heart or its primary magma conduits.",
+      "Soot-Nomad lore speaks of 'Steam-Singers,' individuals who could allegedly calm or even redirect geyser eruptions through ritual chants, a lost art.",
+      "Legends claim that a 'Mother Geyser' exists hidden within the Fields, whose eruptions control the activity of all others and deposit the rarest minerals.",
+      "Some miners believe that Ignis 'seeds' the Geyser Fields with valuable ores by intentionally venting mineral-rich steam and water to its surface here, a dangerous 'gift'.",
+      "There are tales of mirages or heat-induced illusions in the Fields that lead explorers to phantom mineral veins or into deadly traps."
+    ],
+    "artifacts": [
+      "A 'Geyser-Forged' Obsidian Blade: A weapon shard of obsidian that has been repeatedly superheated and cooled by geyser activity, making it unusually sharp and resilient to heat.",
+      "The 'Steam-Walker's Boots': Heavily insulated and reinforced footwear, rumored to allow brief passage over fragile sinter crusts or through shallow boiling mud.",
+      "A 'Purity Geode': A geode from the Fields whose internal crystals are said to filter out toxic volcanic gases, offering a brief respite if held to the face.",
+      "The Lost Logbook of Prospector Thrain: A heat-damaged journal detailing a Cinder-Forge dwarf's attempts to map geyser eruption patterns, potentially containing valuable (if outdated) insights.",
+      "A 'Salamander's Tear' Gemstone: A rare, fire-opal-like gemstone found occasionally in geyserite deposits, believed to be solidified from the essence of powerful Ignis Salamanders, granting minor fire resistance or enhancing heat-based magic."
+    ]
+  }
+}

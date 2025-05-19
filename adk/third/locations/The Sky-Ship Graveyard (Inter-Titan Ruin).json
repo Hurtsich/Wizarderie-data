@@ -1,0 +1,101 @@
+{
+  "name": "The Sky-Ship Graveyard (Inter-Titan Ruin)",
+  "description": "The Sky-Ship Graveyard is a vast, three-dimensional morass of shattered dreams and forgotten ambitions, a treacherous region of the upper atmosphere perpetually caught in the turbulent crosscurrents between major Titan migration routes. Over centuries, perhaps millennia, the wreckage of countless sky-ships from myriad eras and cultures has accumulated here, forming a chaotic, ever-shifting artificial debris field miles wide and deep. Hulks of ancient wooden galleons powered by primitive elemental bindings drift alongside the fractured remains of sleek, metal-alloyed cruisers and the enigmatic, crystalline wrecks of ships from unknown origins. Eerie lights flicker from damaged consoles, ethereal energies leak from ruptured power cores, and the groan of stressed metal and splintering wood forms a constant, mournful dirge. This celestial charnel house is haunted not only by sorrowful spirits of lost crews and vengeful air elementals but also by colossal Sky-Krakens that make their lairs within the largest conglomerations of debris, and by desperate, often violent, scavengers who risk their lives to pluck salvageable technology, lost cargo, and invaluable navigational charts from the metallic grasp of the fallen. Navigating the Graveyard is exceptionally dangerous, not just from its denizens, but from the constant threat of collision with tumbling debris, sudden decompressions, and exposure to hazardous materials leaking from breached hulls.",
+  "geography": {
+    "region": "The Turbulent Interstitial Skies / The Ghostwind Belt",
+    "landscape": "A three-dimensional debris field composed of sky-ship wreckage. Key formations include: 'Hullglomerates' (massive islands of fused wreckage, some large enough to have developed micro-gravity or rudimentary, hazardous ecosystems); 'The Debris Maze' (dense fields of smaller, constantly shifting wreckage); 'The Ghost Fleet Passages' (areas dominated by older, eerily silent wrecks, often heavily patrolled by spirits); 'Rigging Tangles' (vast networks of snagged cables, ropes, and shattered masts forming web-like structures); and 'Open Graves' (relatively clearer pockets of space, often sites of recent collisions or Sky-Kraken feeding grounds).",
+    "climate": "Extremely unpredictable and hazardous. Characterized by violent, erratic high-altitude winds, sudden pockets of calm that can trap unwary vessels, and localized electrical storms sparked by damaged technology or concentrated elemental activity. Temperatures fluctuate wildly based on altitude and proximity to active power sources or shadowed wreckage. Visibility is often poor due to particulate clouds of rust, ice crystals, and fine debris, or obscured by ethereal mists and glowing nebulae of leaked energy.",
+    "key_features": [
+      "The Kraken's Cradle: A colossal, tangled mass of several capital-class sky-ships, now the primary lair of a dominant Sky-Kraken family.",
+      "The Eternal Storm: A perpetual electrical storm raging around a particularly large, energy-leaking wreck, a haven for air elementals.",
+      "The Chart-Corpse Cluster: A region known for a higher concentration of wrecks from early exploration eras, often sought for lost navigational data.",
+      "Salvager's Rest: A surprisingly stable, hollowed-out battleship hull used as a temporary, clandestine outpost by various scavenger crews (though trust is a rare commodity).",
+      "The Whispering Hulls: A section filled with ancient, barely intact ships where the voices of lost crews are said to echo constantly, driving many to madness.",
+      "The 'Zero-Point' Anomaly: A mysterious area where gravity and other physical laws behave erratically, rumored to guard the most valuable, untouched wrecks."
+    ],
+    "points_of_interest": [
+      "The Wreck of 'The Celestial Cartographer' (Legendary lost ship said to contain a complete map of Titan migration routes).",
+      "The Engine Heart of the 'Aerilon's Pride' (A massive, potentially salvageable Aerilonian sky-engine).",
+      "The Hidden Hoard of Captain Sky-Reaver (A notorious pirate's lost treasure, rumored to be stashed in a specific wreck).",
+      "The Elemental Gate (A shimmering rift from which air elementals are believed to emerge).",
+      "The Ghost-Light Beacon (An inexplicable, pulsating light that sometimes guides or misleads ships).",
+      "The Scavenger's Black Market (A specific, heavily defended wreck where rare salvage is traded secretly)."
+    ],
+    "threats": [
+      "Territorial Sky-Krakens and their young.",
+      "Aggressive Air Elementals and other summoned or bound aerial guardians still active on wrecks.",
+      "Hostile Scavenger Crews (often well-armed and desperate).",
+      "Sorrowful Spirits, Wraiths, and Specters of lost crews, sometimes capable of physical interaction or causing debilitating fear.",
+      "Collision with high-velocity debris or collapsing sections of larger wrecks.",
+      "Explosive decompression in breached hulls or unstable salvage sites.",
+      "Exposure to leaking radiation, toxic chemicals, or volatile energy from damaged ships.",
+      "Magnetic anomalies, sensor ghosts, and other navigational hazards that can lead ships astray or into traps.",
+      "Ancient automated defense systems still active on some military or high-tech wrecks."
+    ]
+  },
+  "demographics": {
+    "population": "No permanent, civilized population. A transient and fluctuating number of scavengers, perhaps a few hundred at any given time, operating in small, independent crews. The 'native' population consists of an unknown number of Air Elementals, several Sky-Kraken broods, and countless spectral entities.",
+    "typical_inhabitants": [
+      "Human Scavengers (Desperate, hardened individuals from various Titan cultures).",
+      "Dwarven Salvage Engineers (Seeking rare metals and lost mechanisms).",
+      "Kobold Wreck-Crawlers (Able to navigate tight, dangerous spaces within derelicts).",
+      "Gnome Tinkers (Obsessed with recovering forgotten technologies).",
+      "Outcasts and Exiles of various races.",
+      "Air Elementals (ranging from minor wisps to powerful storm lords).",
+      "Sky-Krakens (colossal, tentacled predators).",
+      "Ghosts, Specters, Wraiths, and other restless spirits.",
+      "Automated Constructs (damaged but still functional security drones or maintenance bots from wrecks)."
+    ]
+  },
+  "government": {
+    "type": "Complete Anarchy. The only 'law' is that of survival and strength. Scavenger crews operate independently, with internal hierarchies often based on the captain's ruthlessness and skill. Fleeting alliances are formed out of convenience and broken just as quickly.",
+    "ruling_power": "No single entity. Dominance is localized and temporary, held by the most powerful scavenger captains (e.g., 'Wreck-Lord Kraya,' 'Iron-Grip Jax'), particularly large Sky-Krakens, or powerful elemental clusters. Territory is constantly contested through skirmishes, sabotage, and intimidation."
+  },
+  "economy": {
+    "description": "A dangerous, high-stakes salvage economy. Value is derived from extracting and transporting lost technology, rare materials, forgotten cargo, and crucial information from the wreckage. All transactions are effectively black market deals, conducted either within the Graveyard at immense risk or back on the Titans through clandestine channels.",
+    "main_exports": [
+      "Salvageable technology (ancient power cores, intact weapon systems, functional ship components, precursor artifacts).",
+      "Lost cargo (ranging from mundane supplies to priceless artworks, sealed caches of currency, or potent alchemical ingredients).",
+      "Navigational charts of forgotten routes, Titan migration patterns, or maps to other lost locations.",
+      "Rare metals and alloys (e.g., Aerilonian Sky-Titanium, Petran Adamantine plating, Ignis Firesteel fragments).",
+      "Information (ship manifests, captain's logs, military codes, scientific data).",
+      "Occasionally, bound spirits or elemental essences for arcane purposes."
+    ],
+    "main_imports": [
+      "Food and potable water (essential for scavenger survival).",
+      "Oxygen/Air supplies and filtration units.",
+      "Tools (cutting torches, pry bars, repair kits, scanning devices).",
+      "Weapons and ammunition.",
+      "Fuel for salvage skiffs and personal thruster packs.",
+      "Basic medical supplies and anti-rad treatments.",
+      "Makeshift shelter components."
+    ]
+  },
+  "history": {
+    "significance": "The Sky-Ship Graveyard is a chilling monument to the perils of the sky-ocean and a vast, untapped archive of inter-Titan history and lost technological advancements. Its existence has shaped modern sky-faring, with many routes designed to avoid its treacherous currents, and its legends serve as both a warning and a lure to fortune-seekers and historians alike. It is a place where the past literally crashes into the present.",
+    "notable_events": [
+      "The Great Collision Cascade (The series of cataclysmic events, possibly involving Titan stirs or ancient wars, that first seeded the Graveyard).",
+      "The Wreck of the 'Queen Astoria's Folly' (A legendary luxury liner from a forgotten age, rumored to contain immense unt salvaged riches).",
+      "The Rise of the First Wreck-Lords (The period when organized scavenger crews first began to dominate sections of the Graveyard).",
+      "The Elemental Maelstrom of '734 (A year when elemental activity within the Graveyard reached unprecedented levels, altering its structure and making it even more dangerous).",
+      "The Discovery of the Precursor Nav-Core (A salvage operation that unearthed a piece of alien or incredibly ancient navigational technology, sparking a brief 'gold rush').",
+      "The Sky-Kraken War (A prolonged period of conflict between major scavenger factions and an unusually aggressive Sky-Kraken population)."
+    ]
+  },
+  "secrets": {
+    "legends": [
+      "It is whispered that the Graveyard is slowly becoming sentient, its collective wreckage and trapped spirits forming a nascent, vengeful consciousness.",
+      "A persistent tale speaks of a 'Safe Heart' – a stable, hidden oasis within the Graveyard, untouched by debris or spirits, containing the perfectly preserved flagship of a mythical sky-king.",
+      "Some believe the Graveyard is a 'Titan Trap,' intentionally created or manipulated by an unknown entity to ensnare ships.",
+      "Legends claim that time flows differently in certain parts of the Graveyard, with some wrecks existing in temporal bubbles or phasing between realities.",
+      "There are rumors that one of the Titans (perhaps ancient Aerilon or a forgotten one) sheds parts of itself that become entangled in the Graveyard, imbuing certain wrecks with strange properties."
+    ],
+    "artifacts": [
+      "The 'Navigator's Lament' (A fully functional, ancient astrolabe recovered from a captain's cabin, which not only charts stars but also seems to weep for lost ships, sometimes pointing towards major, untouched wrecks).",
+      "A 'Ghost-Ketch' Drive Core (A still-glowing, ethereal engine from a spectral ship, which, if understood, could allow for silent, phased movement).",
+      "The Unbroken Banner of the Sky-Legion (A tattered but magically preserved battle standard from a long-lost military fleet, said to inspire immense courage or rally spirits).",
+      "The 'Kraken's Eye' Gem (A massive, otherworldly pearl or crystal found within a Sky-Kraken's gizzard, rumored to allow communication with or command over lesser aerial beasts).",
+      "A Complete Set of 'Precursor Data-Shards' (Lost memory crystals containing vast amounts of forgotten science, history, or even the blueprints for an entire lost civilization's technology)."
+    ]
+  }
+}

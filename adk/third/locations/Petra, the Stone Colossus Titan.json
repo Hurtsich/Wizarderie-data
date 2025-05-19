@@ -1,0 +1,102 @@
+{
+  "name": "Petra, the Stone Colossus Titan",
+  "description": "Petra is a gargantuan, ancient Titan of living rock, earth, and deep-running veins of precious ore, its form vaguely humanoid or quadrupedal, suggesting immense, slumbering power. Its back is a rugged, formidable expanse of towering, craggy mountain peaks that pierce the sky, deep, shadowed canyons carved by eons of elemental forces, and vast, rocky plateaus where only sparse, incredibly hardy vegetation can find purchase. This Titan is a treasure trove of geological wealth, rich in diverse types of stone, abundant metals from common iron to veins of rare adamantite, and the remarkably preserved fossils of colossal, ancient creatures embedded within its stony hide. The cultures that have arisen on Petra are as stoic and resilient as the Titan itself, renowned for their unparalleled mining prowess, intricate stonecraft that turns rock into art and impenetrable fortresses, and fortress-like cities carved directly into the mountainsides or deep within the earth. Petra moves with an immense, ponderous infrequency, its shifts often separated by decades or even centuries. However, when it does stir, the consequences are cataclysmic: massive earthquakes, dubbed 'Titanquakes,' ripple across its surface, capable of toppling even the most formidable settlements, reshaping entire mountain ranges overnight, and revealing new veins of ore or ancient, buried secrets.",
+  "geography": {
+    "region": "The Shifting Peaks / The Titan's Embrace",
+    "landscape": "Towering mountain ranges (The Spine of Ages, The Granite Fangs), deep canyons (The Great Scar, Echoing Chasm), vast, rocky plateaus (The Barren Tablelands), exposed ore veins glittering on cliff faces, fossil-rich badlands, sparse, hardy scrublands, networks of deep, natural caverns and ancient lava tubes.",
+    "climate": "Generally arid and harsh, with significant temperature variations between sun-baked plateaus and shadowed canyons or high-altitude peaks. Strong, erosive winds are common, especially funneling through canyons, often carrying dust and grit. Precipitation is infrequent, usually as sudden, violent downpours that can cause flash floods in canyons. Higher peaks are often snow-capped and bitterly cold.",
+    "key_features": [
+      "The Spine of Ages: The primary mountain range, forming Petra's 'backbone', known for its height, instability, and rich ore deposits.",
+      "The Great Scar: A colossal canyon that nearly splits a section of Petra, rumored to have been formed by an ancient celestial impact or a wound from another Titan.",
+      "The Fossilized Fields of Giants: Expansive badlands where the massive, petrified skeletons of unknown ancient creatures are exposed.",
+      "The Ore-Vein Labyrinth: A complex network of canyons and cliff faces unusually dense with exposed veins of various metals.",
+      "The Whispering Mesa: A large, flat-topped mountain from which strange, low vibrational sounds emanate, especially before a Titanquake.",
+      "The Geode Caverns: Vast, hidden underground chambers lined with colossal, glittering crystals of various types."
+    ],
+    "points_of_interest": [
+      "Quarrytown, Petra's Stone Heart (Industrious city around a vast quarry)",
+      "Spine Ridge Monastery (Isolated monastery charting Titanquakes)",
+      "The Chasm of Lost Voices (Deep, unsettling chasm)",
+      "Fossil-Fell City (Built within a colossal fossilized skeleton)",
+      "Deepvein Hold (Subterranean dwarven mining city)",
+      "The Shifting Labyrinth (Canyon network that rearranges during Titanquakes, potential dungeon)",
+      "The Crystal Heart Geodes (Caverns with giant, pulsing crystals)",
+      "The Adamantine Gate (A legendary, unbreachable fortress guarding a pass to Petra's richest, deepest mines)",
+      "The Tomb of the First Stone Shaper (A revered ancient burial site, said to hold secrets of stonecraft)"
+    ],
+    "threats": [
+      "Devastating Titanquakes and associated ground tremors",
+      "Massive rockfalls, landslides, and collapsing cave systems",
+      "Sudden fissure openings, some spewing dust or scalding steam",
+      "Choking dust storms sweeping across plateaus and through canyons",
+      "Scarcity of surface water and arable land",
+      "Territorial earth elementals, stone golems, crystal guardians, and other rock-based megafauna (e.g., Rock Wyrms, Burrowing Behemoths)",
+      "Rival mining clans or ambitious warlords fighting over resource claims",
+      "Getting lost in the labyrinthine canyons or deep cave networks",
+      "Cave-ins and structural failures in mines and underground settlements"
+    ]
+  },
+  "demographics": {
+    "population": "Roughly 500,000 to 750,000, with concentrations in heavily fortified cities and deep-delving mining communities. Life is hard, valuing strength, endurance, and skill.",
+    "typical_inhabitants": [
+      "Humans ('Stonesworn' or 'Petrans', known for their resilience, pragmatism, and skill in mining and masonry)",
+      "Dwarves (Numerous clans, master geologists, engineers, miners, and smiths; many consider Petra their ancestral home)",
+      "Goliaths or Stone Giants (Often living in more remote mountain regions, guardians of ancient sites or powerful independent factions)",
+      "Earth Genasi (Individuals with strong elemental ties, often revered as shamans, geologists, or powerful warriors)",
+      "Kobolds (Operating extensive, precarious mining tunnels in marginal areas, often clashing with other groups)",
+      "Rock-skinned reptilian humanoids (e.g., 'Geodekin', adapted to cavern life)"
+    ]
+  },
+  "government": {
+    "type": "Predominantly autocratic or oligarchic, led by powerful Mining Guilds, ancient Great Clans who claim hereditary control over vast territories, or formidable Warlords. Some cities might have a 'Quarrymaster's Council' or be ruled by a single, absolute 'Stone Lord/Lady'. Loyalty to one's clan or guild is paramount.",
+    "ruling_power": "The Grand Consortium of Mining Guilds (a powerful, often fractious, economic and political alliance). The Council of Clan Elders (representing the oldest and most influential families). Independent Stone Lords ruling over specific fortified cities or resource-rich regions. Deepvein Hold is governed by its own Dwarven King under the Mountain."
+  },
+  "economy": {
+    "description": "Petra's economy is overwhelmingly dominated by the extraction, processing, and trade of stone, metals, gemstones, and fossils. Craftsmanship in stone and metal is highly valued. Barter of raw materials is common, though larger cities use standardized ingots of common metals or carved stone tokens as currency.",
+    "main_exports": [
+      "Bulk construction stone (granite, marble, basalt)",
+      "Raw ores (iron, copper, tin, silver, gold, platinum, mithral, adamantite)",
+      "Refined metal ingots and alloys",
+      "Rough and cut gemstones (diamonds, rubies, sapphires, specialized 'Heartstones')",
+      "Intact or processed ancient fossils (for research, display, or magical components)",
+      "Masterfully crafted stone tools, weaponry, armor, and siege engines",
+      "Durable building components and statues"
+    ],
+    "main_imports": [
+      "Foodstuffs and agricultural products (especially from Kaskara or Coralia)",
+      "Large quantities of fresh water (from Kaskara, or through specialized condensers from Aerilon)",
+      "Timber and other organic building materials (from Kaskara)",
+      "Specialized tools and advanced technology (from Aerilon or Cinder-Forge on Ignis)",
+      "Textiles, leathers, and other non-mineral goods",
+      "Medicinal herbs and alchemical reagents not found in rocky environments",
+      "Sky-ship components and repair services (as Petra's surface is ill-suited for most sky-ship construction)"
+    ]
+  },
+  "history": {
+    "significance": "Petra is viewed as one of the most ancient and stable Titans, a literal bedrock of the world, though its stability is punctuated by terrifying change. It's a symbol of endurance, immense wealth hidden beneath a harsh exterior, and the unyielding nature of stone. Its resources have fueled countless industries and conflicts across the Titans.",
+    "notable_events": [
+      "The First Quarrying (Legendary period when the first inhabitants learned to work Petra's stone).",
+      "The Great Upheaval (A series of devastating Titanquakes in ancient history that reshaped Petra's entire surface, burying old civilizations and revealing new resources, leading to the current configuration of mountain ranges and canyons).",
+      "The Discovery of the Motherlode (A historical event where a staggeringly rich vein of multiple precious metals was found, leading to massive migration, wealth, and subsequent wars for control).",
+      "The Clan Wars (Prolonged periods of intense conflict between Petra's major clans and guilds over territory and mining rights).",
+      "The Stone Pact (A rare, overarching treaty establishing common mining regulations and safety protocols, often broken and reformed).",
+      "The Rise of Deepvein Hold (The successful establishment and sealing of the great subterranean dwarven city, marking their dominance in deep-earth mining)."
+    ]
+  },
+  "secrets": {
+    "legends": [
+      "It is whispered that Petra possesses a slow, deep consciousness, and that the Titanquakes are its 'dreams' or 'memories' surfacing.",
+      "Legends claim that the largest mountains on Petra are not mere rock, but the petrified forms of even older, colossal beings that Petra absorbed or defeated.",
+      "Some miners believe that deep within Petra lies a 'Heart of the Mountain,' a colossal gemstone or a core of pure, living ore that is the source of its life and mineral wealth.",
+      "The fossils found on Petra are rumored to sometimes reanimate during specific celestial alignments or deep Titan rumbles.",
+      "There are tales of 'Stone-Singers,' individuals who can interpret the vibrations within Petra to predict Titanquakes, find hidden ore veins, or even soothe the Titan's stirring."
+    ],
+    "artifacts": [
+      "The Earthshaker Maul: A legendary weapon said to be capable of causing localized tremors or shattering any stone with a single blow.",
+      "The Geode Map of Veins: A crystalline map that supposedly shows all major ore veins within Petra, its patterns shifting as the Titan moves or resources are depleted.",
+      "The Fossilized Heart of the Behemoth: An incredibly rare, massive fossil that pulses with faint warmth, granting immense strength or longevity to whoever possesses it.",
+      "The Stone Shaper's Chisels: A set of ancient tools that allow the user to mold and shape stone as if it were clay.",
+      "The Tablets of Deep Law: Engraved stone tablets detailing lost mining techniques, geological knowledge, and rituals for appeasing Petra, often sought by mining guilds."
+    ]
+  }
+}

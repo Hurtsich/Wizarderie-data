@@ -1,0 +1,93 @@
+{
+  "name": "The Crumbling Skyport of Xylos (Inter-Titan Ruin)",
+  "description": "The Crumbling Skyport of Xylos is a stark monument to a forgotten era of ambition and prosperity, now reduced to decaying ruins clinging precariously to a massive rock outcrop jutting from the scarred flank of Xylos, a lesser, long-dormant Titan. Once a grand nexus for inter-Titan sky-ship travel, its docking arms are now collapsed and twisted metal skeletons, its control towers lean at impossible angles, and its grand halls are exposed to the harsh elements of the upper atmosphere. Ravaged by the relentless passage of time, savage weather, and the tremors of past Titan-stirs (both from Xylos itself in its dying throes and from nearby behemoths), the Skyport is a treacherous labyrinth of crumbling masonry, unstable platforms, and dark, forgotten corridors. It has become an infamous haven for sky-pirates who use its shattered silhouette to ambush unwary vessels, desperate scavengers picking through its bones for lost technology, and opportunistic, hardy creatures that prey on anyone foolish or unfortunate enough to seek a temporary, albeit extremely dangerous, stopover between the relative safety of major Titans. The wind howls through its broken structures, carrying whispers of its former glory and the groans of decaying metal, a constant lament for its fall.",
+  "geography": {
+    "region": "The Sky-Between-Skies (the dangerous atmospheric void between major Titans), specifically attached to the dormant lesser Titan, Xylos.",
+    "landscape": "Ruined sky-ship port structures: collapsed docking arms, leaning control towers, shattered mooring pylons, exposed and crumbling hangars, wind-swept plazas littered with debris, and treacherous access paths along the rock outcrop. The outcrop itself is fractured and unstable.",
+    "climate": "Harsh and unpredictable high-altitude conditions. Subject to ferocious winds, electrical storms, sudden temperature drops, ice build-up, and occasional ashfall from distant active Titans. Visibility is often poor due to clouds, mist, or airborne debris.",
+    "key_features": [
+      "The Shattered Spire: The leaning remnant of the main control tower, offering a dangerous vantage point.",
+      "The Collapsed Docking Array: A tangled mess of twisted metal and broken gantries, partially extending into the void.",
+      "The Wind-Scoured Plazas: Open areas now littered with debris, prone to sudden gusts.",
+      "The Scavenger Warrens: A network of jury-rigged shelters and hidden passages within the more stable ruins.",
+      "The 'Kraken's Nest': A particularly large, collapsed hangar rumored to be the lair of a sky-beast.",
+      "The Outcrop's Edge: Unstable cliff faces of the rock protrusion, offering precarious mooring points."
+    ],
+    "points_of_interest": [
+      "The Old Xylosian Vault (Rumored to be a sealed vault from the port's heyday, possibly containing records or valuables).",
+      "Captain Blacksky's Roost (A known pirate captain's temporary base within the ruins).",
+      "The Wreck of the 'Star-Whisper' (A notable sky-ship wreck partially embedded in the port).",
+      "The Hidden Fuel Cache (A secret supply of sky-ship fuel hoarded by scavengers or pirates).",
+      "The Groaning Catacombs (Lower levels of the port, dark, unstable, and possibly leading into the dormant Titan).",
+      "The 'Last Hope' Beacon (A barely functional emergency beacon, sometimes activated by desperate travelers or as a pirate trap)."
+    ],
+    "threats": [
+      "Structural Collapse (Floors giving way, towers toppling, platforms detaching).",
+      "Sky-Pirate Attacks (Ambushes from hidden positions within the ruins).",
+      "Hostile Scavenger Gangs (Territorial and violent).",
+      "Opportunistic Creatures (Cliff-dwelling predators, atmospheric beasts, mutated vermin).",
+      "Extreme Weather (Sudden storms, lightning strikes, flash freezes).",
+      "Falling Debris (From higher sections of the ruins or the dormant Titan itself).",
+      "Navigational Hazards (The ruins can interfere with sky-ship sensors or offer false signals).",
+      "Unstable Mooring (Ships docked at Xylos risk damage or breaking free)."
+    ]
+  },
+  "demographics": {
+    "population": "Highly transient and small, rarely exceeding a few dozen individuals at any one time. Consists almost entirely of pirates, scavengers, and occasionally, desperate travelers in hiding. No permanent civilized population.",
+    "typical_inhabitants": [
+      "Human Sky-Pirates and Scavengers (From various Titan cultures, driven by greed or desperation).",
+      "Kobold Wreck-Rats (Small, nimble scavengers who can navigate tight spaces).",
+      "Gnarled 'Rock-Wyrms' (Creatures adapted to the dormant Titan's rocky hide).",
+      "Aethelburg Outcasts (Disgraced engineers or pilots seeking refuge or rare parts).",
+      "Soot-Nomad Scouts (Occasionally using it as a very temporary, high-risk observation post).",
+      "Wind-Whipped Ghasts (Spectral remnants of those who died at the port)."
+    ]
+  },
+  "government": {
+    "type": "Anarchy, punctuated by the temporary dominance of the strongest pirate captain or scavenger warlord. 'Might makes right' is the only law.",
+    "ruling_power": "No formal government. Power is fluid and brutal. Currently, the 'Ironclaw Corsairs' (a notorious pirate band) are said to hold sway over the most defensible sections, but their control is constantly challenged."
+  },
+  "economy": {
+    "description": "A clandestine, high-risk black market economy based entirely on salvaged goods, piracy, and offering dangerous, temporary shelter or information for an exorbitant price. Transactions are usually barter or settled with plundered valuables.",
+    "main_exports": [
+      "Salvaged sky-ship components (often damaged or outdated, but sometimes rare).",
+      "Stolen cargo from pirated vessels.",
+      "Scavenged raw materials (metals, crystal fragments).",
+      "Information (rumors, outdated star charts, sightings of patrol routes).",
+      "Risky temporary moorage or hiding spots."
+    ],
+    "main_imports": [
+      "Fresh water and unspoiled food (highly prized).",
+      "Fuel for ships and tools.",
+      "Weapons, ammunition, and repair kits.",
+      "Basic medical supplies.",
+      "Warm clothing and survival gear."
+    ]
+  },
+  "history": {
+    "significance": "Once a vital and celebrated inter-Titan hub known as 'Xylos Port Ascendant,' facilitating trade and travel during a golden age of sky-faring. Its decay mirrors the fate of the lesser Titan it's built upon and serves as a grim reminder of the fragility of civilization in a world of stirring giants. It's now a symbol of lawlessness and desperation.",
+    "notable_events": [
+      "The Grand Inauguration of Xylos Port (A celebrated event marking its opening).",
+      "The 'Stir of Xylos' (The cataclysmic event when its host Titan began to die, causing initial widespread damage and initiating the port's decline).",
+      "The Battle of the Broken Mast (A famous sky-pirate battle fought within and around the decaying port).",
+      "The Scavenger Rush (A period when a particularly valuable derelict ship crashed into Xylos, attracting hordes of scavengers).",
+      "The Last Official Transmission (The final recorded message from Xylos Port command before it was fully abandoned by legitimate authorities).",
+      "Establishment as 'Blacksky's Haven' (A notorious pirate king who first claimed the ruins as a major pirate base)."
+    ]
+  },
+  "secrets": {
+    "legends": [
+      "It's rumored that the main control tower, despite its lean, still holds a functional long-range communication array capable of reaching forgotten outposts or even other lesser Titans.",
+      "Whispers claim a hidden vault deep within the rock outcrop contains the Xylosian Stellar Bank's emergency reserves or priceless navigational artifacts.",
+      "The ghosts of Xylos Port's former inhabitants are said to enact phantom routines, their spectral sky-ships still attempting to dock at the ruined gantries.",
+      "Some believe the dormant Titan Xylos isn't truly dead, and the Skyport's ruins are a weak point through which its dying consciousness or residual energies sometimes manifest."
+    ],
+    "artifacts": [
+      "The 'Xylos Port Master Beacon': A legendary, perhaps mythical, master guidance beacon that, if repaired, could create safe passage through treacherous sky-currents or reveal hidden routes.",
+      "Captain Evangeline's Logbook: The preserved journal of the last Port Commander, detailing the final days, evacuation efforts, and possibly the location of hidden emergency supplies or sealed sections.",
+      "A 'Shard of Stillness': A piece of crystal from the dormant Titan's core, found within the ruins, that reputedly dampens local atmospheric turbulence or even minor Titan tremors.",
+      "The 'Ironclaw Map': A pirate treasure map tattooed on a piece of flayed sky-leviathan hide, supposedly showing the location of the Ironclaw Corsairs' main hidden stash within Xylos.",
+      "A fully functional, if archaic, 'Sky-Sextant of the Ancients' found in a sealed officer's quarters, capable of incredibly precise celestial navigation without reliance on modern technology."
+    ]
+  }
+}
