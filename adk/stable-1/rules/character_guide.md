@@ -1,249 +1,297 @@
-**Character Creation Guide Title**: Saga of the Wandering Titans: Your Character Creation Journey
+**Character Creation Guide Title**: Saga of the Sky Titans: Character Creation Guide
 
 
 ## Introduction
-**Title**: Welcome to Titan's Rest!
+**Title**: Welcome to Erden, World of Wandering Titans!
 
-**Text**: Prepare to forge your legend in Titan's Rest, a world unlike any other! Here, colossal, ancient Titans roam, their very bodies serving as the foundation for civilizations, diverse biomes, and untold wonders. From the sky-lanes plied by daring Zephyr Cartel sky-ships to the treacherous surfaces scaled by intrepid explorers, life is a constant adventure. You are about to create a unique hero, someone who will navigate these mobile lands, uncover forgotten secrets, and perhaps even shape the destiny of the Titans themselves. FATE is a game of collaborative storytelling, and crafting your character is the thrilling first step in weaving your epic tale together with your fellow players and the Game Master (GM). Let's begin!
-
-
-## Character Concept
-**Title**: The Core Idea: Your Character Concept
-
-**Text**: Before diving into the mechanics, take a moment to imagine your hero. Who are they in this world of living lands and sky-high adventure? Are they a seasoned veteran of inter-Titan trade, a mystic tied to the very pulse of a Titan, or a survivor hardened by the perils of this unique existence? Don't be afraid to think big and bold!
-
-**Archetype Examples Intro**: Here are a few sparks to ignite your imagination, drawing from the diverse peoples and challenges of Titan's Rest:
-
-**Archetype Examples**:
-- Daring Zephyr Cartel Sky-Ship Pilot, charting new routes through hazardous sky-currents.
-
-- Mysterious Earthkin Tremor-Speaker, interpreting the whispers of Grandfather Shell.
-
-- Resourceful Geocrag Miner, unearthing rare crystals from the petrified Titan's depths.
-
-- Veteran Titan-Climber, seeking forgotten lore atop colossal beasts.
-
-- Reformed Sky-Pirate with a Hidden Heart, now flying for a nobler cause.
-
-- Explorer of Ancient Titan Ruins, piecing together the mysteries of a bygone age.
-
-- Determined Cryos Ice-Fisher, braving the frozen wastes for survival and discovery.
-
-**Encouragement**: Think about what excites you most about this world, and let that guide your initial concept. Your character will grow and change through play, but a strong starting idea will make your journey even more engaging.
+**Text**: Welcome, brave adventurer, to the world of Erden, a realm defined by the colossal, continent-sized Titans that roam its face. You are about to embark on a journey where survival, discovery, and destiny are intrinsically linked to these majestic, and often terrifying, living landscapes. This guide will walk you through creating a character who is not only competent and capable but also deeply woven into the fabric of this dynamic world. In Saga of the Sky Titans, we use the Fate Core system, focusing on collaborative storytelling. Your character's Aspects, Skills, and unique Stunts will shape how you interact with Erden, its diverse cultures, its mysterious Aetheric energies, and the very Titans themselves. Let's forge a hero ready to leave their mark on a world in constant motion!
 
 
 ## Aspects Guide
-**Title**: Step 1: Aspects - Defining Who You Are
+**Title**: Defining Your Hero: Aspects
 
-**Explanation**: In FATE, Aspects are short, descriptive phrases that highlight what's most important, interesting, or dramatic about your character. They are *always true* about your character. You can 'invoke' Aspects by spending a Fate Point for a +2 bonus on a roll or a re-roll when the Aspect is relevant. The GM (or even you!) can 'compel' an Aspect to introduce a complication into the story related to that Aspect; when this happens, you gain a Fate Point. Good Aspects are double-edged – they can help you, but also create interesting trouble!
-
-**Aspect Types Intro**: Your character will have five Aspects, each helping to paint a picture of who they are:
+**Explanation**: Aspects are short, descriptive phrases that define who your character is, what they believe, what connections they have, or significant things about them. They are the narrative heart of your character, providing reasons to award you Fate Points (when they complicate your life – a 'compel') and opportunities to spend Fate Points (to gain bonuses or re-rolls – an 'invoke'). A good aspect is double-edged: it can help you and hinder you, making for more interesting stories. Your character will have five aspects in total: a High Concept, a Trouble, and three other aspects often developed through the 'Phase Trio' of character creation.
 
 
 ### High Concept
-**Description**: This is a broad summary of your character, their core identity and role. Think of it as your character's 'job title' or defining characteristic in the world of Titan's Rest.
+**Title**: High Concept: Your Core Identity
 
-**Examples Intro**: Examples:
+**Description**: This is a broad phrase that sums up the essentials of your character – their primary role, calling, or archetype within the world of Erden. It should immediately tell us something significant about what your character does and who they are. Think about your character's place in a world of Titans, Aetheric energies, and distinct factions.
+
+**Advice**: Consider your character's origin (on Aerios the Sky-Lord, Geode the Stone Walker, Thalassa the Ocean Wanderer, or the Underworld), their primary profession, or their connection to unique Erden phenomena like Resonance Weaving.
 
 **Examples**:
-- Sky-Weathered Zephyr Cartel Cartographer
+- Sky-Shepherd Wind-Talker from Aerios
 
-- Last Survivor of the Arboria Root-Plague
+- Hard-Bitten Shard-Miner Demolitions Expert
 
-- Geocrag Prospector with a Titan-Shard Compass
+- Aether-Sensitive Resonance Weaver of Thalassa's Depths
 
-- Disgraced Sky-Guard Seeking Redemption
+- Relic Hunter of Fallen Titanfall Zones
 
-- Earthkin Bio-Alchemist with a Symbiotic Companion
+- Underworld Emissary to the Titan Dwellers
+
+- Grizzled Sky-Skiff Smuggler
 
 
 ### Trouble
-**Description**: Everyone has a weakness, a recurring problem, or a dark secret. This Aspect represents something that makes your character's life complicated. It's a great source of drama and Fate Points!
+**Title**: Trouble: Your Personal Complication
 
-**Examples Intro**: Examples:
+**Description**: This aspect represents a significant recurring problem, flaw, debt, or vulnerability that makes your character's life more difficult, but also more interesting. Your Trouble is a reliable source of compels and Fate Points.
 
-**Examples**:
-- Crippling Vertigo on Titan Edges
-
-- Hunted by the Cloudreaver Sky-Pirates
-
-- Owes a Life Debt to an Earthkin Elder
-
-- Addicted to Rare Titan-Nectar
-
-- My Sky-Ship is a Jealous Mistress
-
-
-### Titan-Forged Past (Phase 1)
-**Description**: Describe a significant early adventure, a defining moment from your character's past that was shaped by life on or between the Titans. This event helped make them who they are today.
-
-**Examples Intro**: Examples:
+**Advice**: Link your Trouble to the dangers of Erden, personal failings, enemies, or difficult relationships. It should be something that can't be easily solved and frequently rears its head.
 
 **Examples**:
-- Survived a Geocrag Rockslide by Sheer Luck
+- Crippling Fear of Titan-Quakes
 
-- Witnessed the Majesty of a Migrating Sky-Whale
+- Marked for Death by the Shard-Miners Union
 
-- Escaped a Sky-Pirate Ambush in the Titan's Shadow
+- My Aetheric Weaving is Unpredictably Destructive
 
-- Found an Ancient Relic in a Titan's Gut
+- Loyal to a Corrupt Titan Cult
 
-- My Village Was Devoured by a Shifting Fissure
+- Haunted by the Ghost of a Lost Titan
 
-
-### Crossed Paths (Phase 2)
-**Description**: This Aspect connects your character to another Player Character (PC). Work with another player to come up with a shared experience or relationship forged amidst the challenges of the Titan world. This builds immediate group cohesion.
-
-**Examples Intro**: Examples (discuss with another player!):
-
-**Examples**:
-- Rescued [Fellow PC] from a Collapsing Ice Cave on Cryos
-
-- Competed Against [Fellow PC] in the Aetherium Sky-Race
-
-- Shared a Tent with [Fellow PC] During a Grandfather Shell Tremor-Storm
-
-- We Were Once Rival Scavengers on a Fallen Titan
-
-- [Fellow PC] Knows My Darkest Secret
+- A Bounty on My Head in Three Sky-Ports
 
 
-### Skybound Ambition (Phase 3)
-**Description**: What is your character currently striving for? This Aspect reflects a current goal, a driving ambition, or a significant recent event that shapes their present actions and propels them into the story.
+### Other Aspects Phase Trio
+**Title**: Other Aspects: Building Your Story (Phase Trio)
 
-**Examples Intro**: Examples:
+**Description**: You'll create three more aspects. Often, these are developed through a process called the Phase Trio (or similar story-building steps with your group). These aspects flesh out your character's backstory, significant events, relationships (often with other player characters), beliefs, or unique possessions tied to Erden.
 
-**Examples**:
-- Seeking the Legendary Sunken City of Leviathus
+**Phase One Adventure**: Your first additional aspect often comes from a significant past adventure or event that shaped you. What quest, discovery, or crisis defined an early chapter of your life on or around the Titans?
 
-- To Prove the Innocence of my Disgraced Zephyr Cartel Mentor
+**Phase One Examples**:
+- I Charted the Unstable Spine of Aerios
 
-- Must Find a Cure for the Spreading Chitin-Rot
+- Sole Survivor of the Whispering Chasm Expedition
 
-- I Will Chart a Safe Passage Through the Titan Graveyard
+- My Family's Sky-Skiff, 'The Wanderer'
 
-- Driven to Understand the Titans' True Purpose
+- I Can Hear the Song of Geode's Heart
 
-**Usage Reminder**: Remember, Aspects are your storytelling tools! Use them to your advantage and embrace the complications they bring for a richer game experience.
+**Phase Two Three Crossing Paths**: The next two aspects often emerge from how your path crossed with another player character's story, creating shared history, debts, rivalries, or alliances. These tie the group together.
+
+**Phase Two Three Examples**:
+- Bound by a Blood Oath on the Foundry Floe
+
+- Saved [Another PC's Name] from a Sky-Kraken
+
+- I Don't Trust [Another PC's Name] Further Than I Can Throw a Grapple-Hook
+
+- We Stole the Titan-Core Shard Together
+
+**Advice Good Aspects**: Good aspects are specific enough to be interesting but open enough for varied interpretation. They should suggest ways you can be awesome and ways things can go wrong. Think about what makes life on Erden unique: the constant movement, the factions, the strange ecologies, the Aetheric energies. If you're stuck, describe an idea in a sentence, and the group can help you find a punchy phrase. Remember, you can always refine aspects later!
 
 
 ## Skills Guide
-**Title**: Step 2: Skills - What You Can Do
+**Title**: Abilities and Aptitudes: Skills
 
-**Explanation**: Skills represent your character's training, talents, and areas of expertise. In Saga of the Wandering Titans, you'll distribute your skill ratings in a pyramid: one skill at Great (+4), two skills at Good (+3), three skills at Fair (+2), and four skills at Average (+1). Any skill not on your list is considered Mediocre (+0), meaning you're not particularly good or bad at it, but you can still try!
+**Explanation**: Skills represent your character's training, natural talents, and areas of expertise. In Fate, skills are rated on a ladder (e.g., Average +1, Fair +2, Good +3, Great +4). You'll typically arrange your skills in a pyramid: one skill at Great (+4), two at Good (+3), three at Fair (+2), and four at Average (+1). All other skills are Mediocre (+0).
 
-**Skill List Reference**: Refer to the 'Skills_Titanborne' section in the campaign ruleset for the full list of available skills and their descriptions. These skills are specifically tailored for life in Titan's Rest.
+**Skill List Title**: Skills in the Saga of the Sky Titans
 
-**Advice On Selection**: Choose skills that fit your character concept and Aspects. What would a 'Sky-Weathered Zephyr Cartel Cartographer' be good at? Probably Drive/Pilot, Academics (for cartography), and Notice. What about a 'Mysterious Earthkin Tremor-Speaker'? Empathy, Survival (Titan), and Resolve seem like strong choices.
-
-**Highlighted Skills Intro**: Consider these key skills for life among the Titans:
+**Description**: While many standard Fate skills are applicable, Erden also demands specialized knowledge and abilities. Discuss with your GM the exact skill list, but expect to see:
 
 
-### Survival (Titan)
-**Description**: Essential for anyone venturing onto a Titan's surface, dealing with its unique ecosystems, finding sustenance, or navigating its treacherous landscapes.
+### Weaving
+**Details**: Crucial for Resonance Weaving – manipulating Aetheric energies from Titans and the environment. Used to Overcome magical obstacles, Create Advantages like 'Symbiotic Vigor', Attack with 'Aetheric Javelins', or Defend with 'Kinetic Barriers'.
 
 
-### Drive/Pilot
-**Description**: Crucial for sky-ship captains, land vehicle operators, or anyone needing to maneuver specialized transports through the challenging environments of Titan's Rest.
+### Titan Lore
+**Details**: Knowledge of Titan biology, behavior, Aetheric patterns, hazards, unique flora/fauna, and history. Essential for predicting Titan movements, identifying resources, or understanding ancient Titan-related mysteries.
 
 
-### Resolve
-**Description**: This skill helps your character withstand the mind-bending scale of the Titans, the unsettling energies they emit, and the psychological toll of living in such an awe-inspiring yet perilous world. It's key to managing your Titan Strain stress track.
+### Survival
+**Details**: Thriving in the diverse and often hostile biomes on Titan-backs or in the Underworld. Covers foraging, shelter, tracking, and enduring environmental hazards specific to Aerios's peaks, Geode's depths, or Thalassa's oceans.
 
 
-### Crafts
-**Description**: From repairing sky-ship engines with salvaged parts to fashioning survival gear from Titan chitin, this skill is invaluable for tinkerers and creators.
+### Scavenge
+**Details**: Finding useful resources, salvaging parts from old tech or Titan remains, and identifying valuable materials. Key for resource management and crafting.
 
-**Final Advice**: Don't worry about covering every possibility; your character is part of a team, and others will have different strengths.
+
+### Pilot
+**Details**: Operating sky-skiffs, airships, potentially specialized land vehicles, or even guiding large domesticated creatures used for transport across or between Titans.
+
+
+### Sky-Navigation
+**Details**: Plotting courses through the often-turbulent skies between Titans or across their vast surfaces, understanding Aetheric currents and weather patterns.
+
+
+### Athletics
+**Details**: Physical prowess for climbing treacherous Titan surfaces, leaping chasms, swimming strong currents, and navigating dangerous terrain during Titan tremors.
+
+
+### Craft
+**Details**: Creating, repairing, or modifying equipment, often using unique Titan-derived materials like chitin, crystals, or bio-luminescent flora. Also for processing raw resources.
+
+
+### Physique
+**Details**: Your physical toughness and strength. Higher Physique grants more Physical Stress boxes and even an extra mild consequence slot at Superb+.
+
+
+### Will
+**Details**: Your mental fortitude, discipline, and self-control. Higher Will grants more Mental Stress boxes and an extra mild consequence slot at Superb+.
+
+
+### Notice
+**Details**: Perception and awareness, spotting subtle clues, impending dangers, or shifts in the Titan's behavior.
+
+
+### Investigate
+**Details**: Deducing information, solving mysteries, deciphering ancient glyphs, or researching Titan phenomena.
+
+
+### Deceive
+**Details**: Lying, tricking, and misdirecting others.
+
+
+### Diplomacy
+**Details**: Negotiating, persuading, and making connections with different cultures and factions, from Sky-Shepherd elders to Shard-Miner foremen.
+
+
+### Empathy
+**Details**: Understanding others' emotions and motives; can be crucial for delicate social interactions or even sensing the 'mood' of less hostile Titan-fauna.
+
+
+### Intimidate
+**Details**: Using threats and presence to get what you want.
+
+
+### Resources
+**Details**: Your access to wealth, equipment, and contacts for acquiring goods and services.
+
+
+### Fight
+**Details**: Skill in close-quarters combat, whether with fists, claws, or traditional melee weapons.
+
+
+### Shoot
+**Details**: Proficiency with ranged weapons, from humble bows to Aether-powered rifles or skiff-mounted weaponry.
+
+**Customization Note**: Your GM may have a slightly different skill list or allow for custom skills that fit your character concept and the campaign's focus. Always discuss your ideas!
 
 
 ## Stunts Guide
-**Title**: Step 3: Stunts - Your Unique Talents
+**Title**: Unique Talents: Stunts
 
-**Explanation**: Stunts are special abilities that make your character unique. They let you bend the rules for a specific skill in certain situations, grant a special mechanical benefit, or reflect mastery of a particular piece of gear or technique. Stunts are what make *your* Great (+4) Fight skill different from another character's.
+**Explanation**: Stunts are special abilities that let your character bend or break the rules in specific, limited ways, often by enhancing a skill or providing a unique capability. They make your character distinct and reflect their particular knacks or training. You typically start with three free stunts. Taking more stunts (up to five total) will reduce your starting Refresh (Fate Points per session).
 
-**Starting Stunts**: You begin with three free Stunts.
+**Role Of Stunts**: Stunts allow you to reliably do something cool, gain a specific mechanical benefit in certain situations, or use a skill in a way others can't. They should be tied to your character's aspects, highest skills, and their role in the world of Erden.
 
-**Additional Stunts**: Want more? You can take additional Stunts by reducing your character's Refresh score by one for each extra Stunt. However, your Refresh can never drop below 1.
+**Creating Stunts**: Good stunts usually grant a +2 bonus to a specific action with a skill under particular circumstances, allow a skill to be used in place of another for a narrow purpose, or give a character a unique small rule exception. Work with your GM to create stunts that are balanced and flavorful.
 
-**Creating Stunts**: The campaign ruleset provides some example Stunts like 'Titan-Kith Empathy' or 'Gravitic Anchor Boots.' Use these as inspiration! The best Stunts are those you create yourself (with GM approval) that perfectly fit your character's Aspects, skills, and their place in the world of Titan's Rest. Think about what makes your character special: specialized sky-ship maneuvers, unique ways of interacting with Titan flora/fauna, or mastery of a particular piece of Titan-derived technology.
+**Stunt Examples Title**: Example Stunts in Erden:
 
-**Thematic Emphasis**: Stunts should be thematic. A Zephyr Cartel pilot might have a Stunt for daring aerial maneuvers, while an Earthkin scholar could have one for deciphering ancient Titan glyphs. Make them cool, make them yours!
+
+### Resonant Attunement (Weaving)
+**Description**: Once per session, when you Create an Advantage with Weaving related to sensing or understanding Aetheric energies, gain an additional free invocation on that aspect if you succeed.
+
+
+### Aetheric Lash (Weaving)
+**Description**: When you succeed with style on an Attack action using Weaving, you can choose to inflict a relevant Mild Consequence instead of gaining a boost.
+
+
+### Titan-Whisperer (Titan Lore)
+**Description**: You gain a +2 to Titan Lore rolls made to predict the immediate localized behavior of a Titan you are familiar with (e.g., the one you primarily live on).
+
+
+### Chitin-Reinforced Gear (Craft)
+**Description**: Because you expertly reinforce your gear with Titan chitin, you gain an additional Physical stress box (value 1). This does not stack with other armor if armor provides stress boxes.
+
+
+### Sky-Shepherd's Grace (Pilot/Athletics)
+**Description**: When on your native Titan (e.g., Aerios), you gain +2 to Pilot or Athletics rolls to overcome hazards caused by sudden Titan movements or extreme weather.
+
+
+### Union Network Access (Investigate/Resources)
+**Description**: Once per game session, you can use your Shard-Miner Union contacts to find a piece of restricted information or acquire a rare (but not unique) piece of Union technology by making an Investigate or Resources roll against Fair (+2) difficulty.
 
 
 ## Refresh Guide
-**Title**: Step 4: Refresh - Fueling Your Fate
+**Title**: Starting Refresh
 
-**Explanation**: Refresh is a measure of your character's narrative resilience and ability to influence the story through Fate Points. You start with a Refresh of 3.
+**Explanation**: Refresh determines how many Fate Points you start each game session with. The default starting Refresh is 3. For each stunt you take beyond your initial three free ones, your Refresh is reduced by one. So, if you take:
 
-**Adjustment For Stunts**: If you take more than the initial three free Stunts, your Refresh is reduced by 1 for each additional Stunt. For example, if you take four Stunts, your Refresh will be 2. If you take five Stunts, your Refresh will be 1. Your Refresh cannot go below 1.
+**Rates**:
+- 3 Stunts = Refresh of 3
 
-**Function**: Your Refresh score determines the number of Fate Points you begin each game session with. Fate Points are the fuel for invoking Aspects and powering many Stunts, so a higher Refresh means more resources at the start of each adventure.
+- 4 Stunts = Refresh of 2
 
+- 5 Stunts = Refresh of 1
 
-## Stress And Consequences Guide
-**Title**: Step 5: Stress & Consequences - Weathering the Storm
-
-**Explanation**: Adventures in Titan's Rest are dangerous! Stress tracks represent your character's ability to absorb temporary harm or strain before suffering more lasting effects (Consequences).
-
-**Stress Tracks Intro**: You have three stress tracks:
+**Note**: A lower Refresh means fewer Fate Points at the start, but more cool abilities via stunts. It's a trade-off to consider based on your playstyle.
 
 
-### Physical Stress
-**Description**: Represents cuts, bruises, exhaustion, and other physical harm.
+## World Connection Guide
+**Title**: Rooting Your Character in Erden
+
+**Text**: To make your character truly come alive, consider their connections to the unique world of Saga of the Sky Titans:
 
 
-### Mental Stress
-**Description**: Represents fear, confusion, mental fatigue, and psychological strain.
+### Points
+**Title**: Origin Story
+
+**Description**: Where do you hail from? The icy peaks of Aerios, the volcanic depths of Geode, the island chains on Thalassa's shell, or the more conventional Basin Lands of the Underworld? Perhaps a specific settlement like the Aerie of the Whispering Peaks or the industrial hub of The Deep Vein? How has this origin shaped your skills, beliefs, and aspects?
 
 
-### Titan Strain (Unique)
-**Description**: A special stress track reflecting the profound physical and mental toll of extreme Titan environments, prolonged exposure to their alien energies, or the sheer psychological impact of their colossal scale and often incomprehensible nature.
+### Points
+**Title**: Faction Affiliation
 
-**Base Boxes**: Each stress track starts with two stress boxes (a 1-point box and a 2-point box).
-
-**Bonus Boxes**: Certain skills enhance your resilience:
-*   **Physique:** At Fair (+2) or Good (+3), you gain a third physical stress box (a 3-point box). At Great (+4) or Superb (+5), you gain both a third and a fourth physical stress box (a 4-point box).
-*   **Will:** At Fair (+2) or Good (+3), you gain a third mental stress box. At Great (+4) or Superb (+5), you gain both a third and a fourth mental stress box.
-*   **Resolve:** At Fair (+2) or Good (+3), you gain a third Titan Strain stress box. At Great (+4) or Superb (+5), you gain both a third and a fourth Titan Strain stress box.
-
-**Consequences Intro**: If you take more stress than you have boxes to absorb, you must take a Consequence or be 'Taken Out' of the scene. Consequences are new, temporary negative Aspects that represent more serious injuries or disadvantages.
-
-**Consequence Slots**: You have slots for Mild (absorbs 2 shifts of harm), Moderate (absorbs 4 shifts), and Severe (absorbs 6 shifts) Consequences.
-
-**Titan Strain Consequences**: Consequences from Titan Strain are often particularly narrative and can be transformative, reflecting the alien influence of the Titans (e.g., 'Whispers in the Dark,' 'Glowing Chitinous Growth,' 'Unsettling Titan Dreams'). These also act as compel-able Aspects!
+**Description**: Are you a nomadic Sky-Shepherd, revering the Titans? A pragmatic Shard-Miner, exploiting their resources? Or do you belong to another Titan-dwelling culture, an Underworld kingdom, or perhaps you're fiercely independent? Your loyalties (or lack thereof) will define many of your interactions and conflicts.
 
 
-## Final Touches
-**Title**: Final Touches: Name and Details
+### Points
+**Title**: Relationship with Titans
 
-**Text**: Give your character a name that fits the world of Titan's Rest! Perhaps something reflecting their culture (like an Earthkin nature-name or a Zephyr Cartel professional title) or their personal history. Add any other descriptive details – appearance, mannerisms, quirks – that help bring them to life. What does their voice sound like? How do they carry themselves when climbing a Titan's flank or navigating a bustling sky-port?
-
-
-## Example Characters
-**Title**: Example Character Snippets
-
-**Intro**: Here are a couple of quick concepts to illustrate how these pieces might come together:
+**Description**: Do you see Titans as sacred beings, dangerous beasts, valuable resources, or objects of scientific curiosity? Does your character have a particular affinity or fear related to them? This relationship should influence your aspects and motivations.
 
 
-### Lyra 'Skytouch' Vance
-**High Concept**: Daredevil Zephyr Cartel Explorer Pilot
+### Points
+**Title**: Resonance Weaving
 
-**Trouble**: Haunted by the Loss of My First Sky-Ship, 'The Wanderer'
-
-**Key Skill Stunt Idea**: Peak Skill: Drive/Pilot (+4). Stunt Idea: 'Thread the Needle' - Once per session, when piloting a sky-ship through exceptionally tight or dangerous spaces, spend a Fate Point to succeed with style on an Overcome roll instead of just succeeding.
+**Description**: If your character is a Resonance Weaver, how did they discover this ability? Who taught them, or was it an innate talent? What are their specialties, and how does this power manifest? Their aspects, skills (especially Weaving), and stunts should reflect this Aetheric connection.
 
 
-### Kaelen 'Stonehand'
-**High Concept**: Stoic Geocrag Crystal Dowser
+### Points
+**Title**: Surviving the Unpredictable
 
-**Trouble**: My Family is Deep in Debt to a Ruthless Mining Guild
-
-**Key Skill Stunt Idea**: Peak Skill: Investigate (+4). Stunt Idea: 'Resonance Seeker' - When using Investigate to specifically locate rare crystals or mineral deposits within a Titan, gain +2 to your roll.
+**Description**: Life on Erden is perilous. How has your character adapted to the constant threat of Titan movements, environmental hazards, and resource scarcity? What skills, aspects, or stunts represent their resilience and ingenuity?
 
 
-## Conclusion
-**Title**: Ready for Adventure!
+## Example Characters Section
+**Title**: Example Character Concepts
 
-**Text**: And there you have it – your very own hero, ready to face the wonders and perils of the Saga of the Wandering Titans! This character is your lens through which you'll experience the world. Be bold, be creative, and collaborate with your GM and fellow players to tell unforgettable stories. The Titans await!
+**Intro**: Here are a couple of very brief examples to spark your imagination:
+
+
+### Kaelen 'Sky-Eye'
+**High Concept**: Aerios-Born Sky-Shepherd Guide
+
+**Trouble**: Sworn to Protect a Forbidden Titan Secret
+
+**Key Aspect Idea**: The Whispering Winds Are My Family
+
+**Key Skills**: Pilot (Great), Titan Lore (Good), Survival (Good), Notice (Fair)
+
+**Potential Stunt**: 'Wind Rider': When using Pilot to navigate Aetheric currents around Aerios, gain +2 to your roll.
+
+
+### Roric 'Grit' Forgehand
+**High Concept**: Ex-Shard-Miner Engineer with a Conscience
+
+**Trouble**: My Inventions Tend to Explode Spectacularly
+
+**Key Aspect Idea**: Can't Ignore the Groan of an Overstressed Titan
+
+**Key Skills**: Craft (Great), Scavenge (Good), Physique (Good), Weaving (Fair, latent)
+
+**Potential Stunt**: 'Jury-Rig Master': Twice per session, you can use Craft to create a temporary, makeshift solution to a technical problem, creating an advantage with one free invoke, even without proper tools or time.
+
+
+## Final Note
+**Title**: Forge Your Legend
+
+**Text**: Character creation in Saga of the Sky Titans is a collaborative process. Talk with your GM and fellow players, weave your stories together, and prepare to embark on an unforgettable adventure in a world that lives and breathes beneath your feet!
 
