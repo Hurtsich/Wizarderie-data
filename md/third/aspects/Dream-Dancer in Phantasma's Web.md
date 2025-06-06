@@ -1,0 +1,29 @@
+## Aspect: Dream-Dancer in Phantasma's Web
+
+**Description:**
+This character is uniquely attuned to the ebb and flow of Phantasma's influence, finding themselves easily drawn into illusions, dreamscapes, and the subtle manipulations of the Veil. While others might struggle against or be terrified by such distortions, the Dream-Dancer possesses an intuitive understanding and almost an affinity for these ephemeral realities. They can navigate illusions with surprising grace, often finding clarity, inspiration, or even sanctuary within them. However, this same sensitivity makes them susceptible to being lost, sometimes struggling to distinguish the "true" reality from the myriad reflections and whispers of Phantasma and the Spirit World.
+
+**Lore & Motivations:**
+
+*   **Touched by Phantasma:** Perhaps the character had a profound early exposure to a `Phantasma Shroud`, was born during a `Great Shimmer` event, or has an ancestor with strong ties to `Lyra, the Ghost Sun`. This has left them permanently sensitive to illusory energies.
+*   **Escapism or Fascination:** The character might find "mundane" reality under Auros too rigid or uninspiring, preferring the creativity and fluidity of illusions. Alternatively, they might be driven by an insatiable curiosity to understand the mechanics of `Illusioncraft` and `Phantasmal Shaping`.
+*   **Accidental Navigator:** They may not intentionally seek out illusions, but find that illusions naturally coalesce around them or that they perceive the `Spirit World` bleed-through more intensely than others. Their "thriving" is a coping mechanism turned into a unique strength.
+*   **Seeking Hidden Truths in Lies:** The character might believe that illusions, dreams, and even lies can contain deeper truths or reflections of a person's or place's inner state, truths that Aurosian rigidity might obscure. They dance through deceptions to find these hidden gems.
+*   **A Walking Paradox:** They embody the paradox of your world – finding stability in instability, clarity in illusion. They might be distrusted by those who cling to Aurosian certainty (due to `Societal Paranoia`) but valued by those who understand the power of Phantasma, like the `Architects of Illusion` or perhaps even certain `Spirit-Sense` practitioners.
+
+**Invocation (How the Player Can Use This Aspect):**
+
+*   **Navigating Illusions:** When attempting to move through, understand, or find their way within a magical or mundane illusion. (e.g., "Because I am a *Dream-Dancer in Phantasma's Web*, I intuitively follow the 'current' of this illusionary maze.")
+*   **Finding Sanctuary/Opportunity in Illusions:** When an illusion offers a temporary advantage, hiding place, or unexpected path. (e.g., "This `Wall of Phantasmal Mist` is disorienting to others, but as a *Dream-Dancer*, I find a moment of perfect cover within it.")
+*   **Interpreting Illusory Clues:** When an illusion, dream, or even a deception contains hidden information or insight. (e.g., "My experience as a *Dream-Dancer* lets me see the symbolic truth hidden in the `Mind Flicker` visions.")
+*   **Resisting the Negative Sides of Illusions (by flowing with them):** Paradoxically, when trying not to be harmed or directly controlled by an illusion, by not fighting it head-on but rather by subtly maneuvering within its rules. (e.g., "This illusion wants me to panic, but as a *Dream-Dancer*, I'll play along just enough to find its edge.")
+*   **Creative Problem Solving:** When a situation calls for unconventional thinking, inspired by the fluid nature of illusions. (e.g., "As a *Dream-Dancer*, I see a solution here that's as shifting and unexpected as Phantasma itself.")
+
+**Compel (How the GM Can Introduce Complications):**
+
+*   **Lost in the Weave:** The character becomes genuinely disoriented and unable to distinguish illusion from reality, acting on false premises. (e.g., "Your nature as a *Dream-Dancer* makes this particularly potent `Phantasmal Shroud` feel more real than the path your allies are taking, and you wander off.")
+*   **Illusionary Vulnerability:** Their affinity makes them a tempting target for powerful illusionists (like a `Master of Masks`) or entities from the `Spirit World` that use deception (like `Shifting Phantoms` or `Whisperlings`). (e.g., "Because you are a *Dream-Dancer*, this spirit's `Whispers of Doubt` find fertile ground in your mind, making you question your closest ally.")
+*   **Difficulty with Mundane Reality:** The character struggles to focus on or accept straightforward, Aurosian truths or tasks, finding them dull or suspecting hidden complexities. (e.g., "This simple, honest explanation feels *too* simple to you, *Dream-Dancer*, and you waste time searching for a non-existent deeper deception.")
+*   **Unreliable Perception:** Allies may have difficulty trusting the character's perceptions, especially in areas known for `Warped by Phantasmal Influence`. (e.g., "He claims it's safe, but he's a *Dream-Dancer in Phantasma's Web*; can we truly trust what he sees in the `Illusionist's Gulch`?")
+*   **Attracting Unwanted Attention:** Their unique resonance with Phantasma might draw the notice of creatures or forces that are intrinsically tied to it, not all of them benign. (e.g., "Your comfortable passage through the `Lost City of Shimmering Walls` hasn't gone unnoticed, *Dream-Dancer*; the `Veil Spiders` here seem to consider you one of their own... or perhaps a fascinating new plaything.")
+*   **Phantasmal Addiction:** The character might actively seek out or prefer illusory experiences to the point of neglecting responsibilities or relationships in the "real" world. (e.g., "The allure of the `Labyrinth of Dreams` is too strong for you, *Dream-Dancer*, and you choose to delve deeper, despite the urgent pleas of your companions.")
