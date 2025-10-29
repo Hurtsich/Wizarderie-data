@@ -1,0 +1,30 @@
+# Le Consortium Aérien
+
+## Objectifs
+
+Le Consortium Aérien est guidé par une philosophie utilitariste et expansionniste.
+*   **À court terme :** Maîtriser et stabiliser l'extraction des ressources face aux mouvements erratiques du Grand Dérangement. Cela inclut le développement de technologies avancées pour prédire les secousses, sécuriser les opérations minières et s'adapter aux nouveaux environnements créés par l'agitation des Titans. Ils cherchent également à exploiter les opportunités que le dérangement pourrait offrir, comme l'accès à des gisements de ressources rares nouvellement exposés sur Tellus-Coeur ou ailleurs.
+*   **À long terme :** Établir une hégémonie technologique et économique complète sur le Grand Ciel. Le Consortium vise la maîtrise totale des Titans, les considérant comme de vastes réserves à façonner et à remodeler pour maximiser la production. Cela pourrait inclure des projets de "terraformation" industrielle pour optimiser les biomes des Titans à leurs besoins, et la tentative d'exploiter l'énergie primordiale des Titans pour alimenter leurs machines et leurs cités.
+
+## Direction
+
+Le Consortium n'est pas dirigé par un individu unique, mais par un **Conseil des Directeurs** composé des PDG et des représentants des mégacorporations industrielles les plus influentes qui le constituent. La présidence du Conseil est souvent rotative ou occupée par un "Primus Director" désigné, agissant comme le visage public du Consortium. Leur style de leadership est impitoyable, pragmatique et entièrement axé sur le profit, l'efficacité et l'innovation technologique. Les décisions sont basées sur des analyses de données complexes, des projections économiques et une évaluation constante des risques et des opportunités, avec une préférence marquée pour les solutions technologiques aux problèmes.
+
+## Quartier Général / Lieu Clé
+
+Le siège principal du Consortium Aérien est la **Mégapole d'Acier**, le cœur industriel battant de l'**Arche d'Airain**. Cette cité tentaculaire est un chef-d'œuvre d'ingénierie steampunk, un entrelacs d'usines automatisées, de raffineries fumantes, de laboratoires de recherche et de docks pour dirigeables qui s'étendent sur des kilomètres carrés de la surface du Titan. La Mégapole d'Acier est le centre névralgique de leur recherche et développement, de leur production manufacturière et de leurs opérations commerciales, d'où ils coordonnent leurs vastes réseaux d'exploitation et de commerce à travers le Grand Ciel. Sa position centrale sur l'Arche d'Airain en fait un bastion imprenable de la puissance technologique et économique du Consortium.
+
+## Sphère d'Influence
+
+Le Consortium Aérien exerce une influence prépondérante sur l'**Arche d'Airain**, qui est son berceau et son principal centre de pouvoir. Cependant, ses tentacules s'étendent bien au-delà. Leurs réseaux commerciaux et leurs opérations minières s'étendent à presque tous les Titans où des ressources précieuses peuvent être trouvées. Ils ont des avant-postes d'exploitation sur **Tellus-Coeur** (exploitant les minerais et les énergies des failles), des patrouilles et des opérations de récupération dans les **Fragments du Chaos** (pour les métaux rares des mini-Titans), et même des tentatives d'exploration et d'exploitation des ressources aquatiques et cristallines dans les profondeurs des **Écumes d'Argent**. Leur présence est moins acceptée et plus conflictuelle sur le **Sanctuaire Verdoyant**, où leurs idéologies d'exploitation se heurtent violemment aux cultures de préservation, mais même là, des expéditions de prospection sont régulièrement envoyées.
+
+## Ressources & Membres
+
+*   **Ressources :** Le Consortium dispose d'une richesse colossale, de flottes de dirigeables de transport et de combat technologiquement avancées, d'armées privées bien équipées, et d'un monopole quasi total sur les avancées technologiques (ingénierie mécanique, moteurs à vapeur améliorés, systèmes de navigation sophistiqués, armes à énergie cinétique). Leurs usines peuvent produire en masse tout ce dont ils ont besoin. Leurs connaissances en cartographie aérienne et en exploitation minière sont inégalées.
+*   **Membres :** Les rangs du Consortium sont composés d'ingénieurs brillants, d'inventeurs audacieux, de techniciens qualifiés, de mineurs résilients, de marchands avisés, de capitaines de dirigeables aguerris, de mercenaires et de cadres d'entreprise sans scrupules. La méritocratie y est de mise, où la valeur d'un individu est souvent mesurée par sa contribution au progrès technologique et aux profits du Consortium.
+
+## Histoire
+
+L'histoire du Consortium Aérien est intrinsèquement liée à la **Grande Expansion Aérienne**, lorsque l'invention des vaisseaux volants a ouvert les Titans à l'exploration et au commerce. Initialement, de nombreuses entreprises indépendantes ont émergé, chacune cherchant à exploiter les vastes ressources des Titans. C'est durant les **Guerres de Conquête et de Ressources**, il y a deux siècles, que ces entreprises, poussées par l'avidité et la nécessité de protéger leurs intérêts face aux conflits grandissants, ont commencé à se regrouper. L'idéologie de l'exploitation impitoyable des Titans s'est solidifiée, et les prémices du Consortium sont apparues.
+
+Face à l'émergence du **Serment des Gardiens** et des cultes de préservation qui prônaient le respect des Titans, les principales corporations industrielles ont formalisé leur alliance, créant le Consortium Aérien pour consolider leur pouvoir, standardiser leurs méthodes d'extraction et contrer toute opposition. La **Longue Quiétude** fut une période de prospérité inégalée pour le Consortium, leur permettant d'optimiser leurs processus et d'étendre leur influence. Le **Grand Dérangement** est perçu par le Consortium non pas comme une catastrophe divine, mais comme un défi technique majeur à surmonter et, potentiellement, une occasion sans précédent d'accéder à de nouvelles richesses et de prouver la supériorité de la volonté humaine et de la technologie sur la nature indomptée des Titans.
