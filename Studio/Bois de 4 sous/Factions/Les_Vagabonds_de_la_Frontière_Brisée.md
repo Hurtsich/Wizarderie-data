@@ -1,0 +1,33 @@
+# Les Vagabonds de la Frontière Brisée
+
+## Description
+
+Les Vagabonds de la Frontière Brisée sont les rescapés, les sans-abri et les endurcis de l'invasion des Géants. Ayant tout perdu – leurs foyers, leurs familles, leurs traditions – ils ont été les premiers témoins de l'horreur et de la destruction de la "Grande Guerre Incompréhensible". Ces animaux, de diverses espèces, ne sont plus liés par les anciennes coutumes du Bois Sombrecœur, mais par la dure réalité de la survie dans un monde fracturé. Pragmaticiens jusqu'à la moelle, ils ont développé une résilience et une adaptabilité uniques, naviguant entre les débris de la civilisation des Géants et les marges d'une forêt mourante. Ils sont souvent perçus comme méfiants et cyniques par les communautés établies, mais leur connaissance des zones les plus dangereuses est inégalée.
+
+## Objectifs
+
+*   **À court terme :** Assurer la survie quotidienne en trouvant de la nourriture, de l'eau non contaminée et des abris sûrs à l'abri des mouvements des Géants. Piller les "carcasses de fer" pour tout objet utile et secourir d'autres animaux déplacés qui errent dans la Frontière Brisée.
+*   **À long terme :** Établir un refuge permanent et réellement sécurisé, loin de la guerre et de la pollution des Géants. Certains rêvent de reconstruire une forme de communauté basée sur la coopération et la résilience, tandis que d'autres sont obsédés par la compréhension des Géants et de leurs "machines" pour trouver une faille ou un moyen de les utiliser à leur avantage, voire, pour les plus audacieux, de découvrir des Artefacts des Anciens Gardiens enfouis sous les ruines les plus dangereuses.
+
+## Leadership
+
+**Renarde Cendre :** Une renarde dont le pelage jadis roux est désormais parsemé de suie et de cicatrices. Renarde Cendre a perdu sa tanière et sa famille dans les premières vagues de destruction de la Frontière Brisée. Elle n'est pas une chef de clan au sens traditionnel, mais une figure de proue respectée pour son instinct de survie infaillible et sa connaissance intime des dangers du monde extérieur. Son leadership est silencieux et pragmatique, basé sur des décisions rapides et souvent brutales, dictées par l'urgence. Elle n'inspire pas la vénération, mais une loyauté féroce née de la confiance en sa capacité à les maintenir en vie. Elle incarne la philosophie des Vagabonds : toujours en mouvement, toujours en alerte, ne jamais faire confiance aveuglément.
+
+## Quartier Général / Lieu Clé
+
+**La Cache de Fer Rouillé :** Au cœur des Terres Souillées, les Vagabonds ont établi leur refuge principal dans la carcasse colossale et renversée d'une "machine de guerre" des Géants. L'intérieur rouillé du métal tordu a été transformé en un réseau labyrinthique de tunnels, d'abris et de cachettes, où le bruit des Géants est étouffé et la pollution est, paradoxalement, une protection contre les regards extérieurs. C'est un lieu dangereux, imprégné des résidus des Géants, mais offrant une protection robuste contre les éléments et les prédateurs. Sa position stratégique leur permet d'observer les mouvements des Géants et de récupérer des matériaux rares.
+
+## Sphère d'Influence
+
+Leur influence s'étend principalement sur **La Frontière Brisée** et **Les Terres Souillées (Carcasses de Fer)**, où ils sont les maîtres incontestés du territoire dévasté. Leurs éclaireurs et leurs équipes de pillage s'aventurent régulièrement le long des **Chemins des Murmures Lointains** à la recherche de nouvelles ressources, de poches d'eau non contaminée ou d'éventuels passages vers des terres plus sûres. Ils ont une présence sporadique et souvent perçue comme intrusive ou menaçante aux marges du **Bois Sombrecœur**, où ils peuvent échanger des informations durement acquises contre des provisions, mais ne sont jamais entièrement les bienvenus.
+
+## Ressources et Membres
+
+*   **Ressources :** Leur atout le plus précieux est leur connaissance approfondie de la Frontière Brisée et des dangers qui y rôdent. Ils sont des maîtres du camouflage, de la discrétion et de la survie en milieu hostile. Ils récupèrent et réutilisent les débris des Géants – ficelles résistantes, petits morceaux de métal coupants pour des outils rudimentaires, toiles imperméables pour des abris. Leur connexion au Murmure de la Sève est souvent affaiblie par le traumatisme et la pollution, mais certains membres conservent une perception des choses cachées ou une capacité à influencer la croissance dans les poches de vie résilientes.
+*   **Membres :** Les Vagabonds sont un mélange hétéroclite d'animaux ayant survécu aux pires destructions : lapins, souris, hérissons, musaraignes, et même parfois d'anciens écureuils ou blaireaux ayant perdu leur clan. Chaque membre est un survivant endurci, valorisé pour ses compétences pratiques : éclaireurs agiles, fouilleurs ingénieux, gardiens vigilants ou conteurs de la vérité brutale. Ils sont unis par une loyauté farouche les uns envers les autres, un cynisme partagé envers l'inaction des anciennes puissances, et une méfiance inébranlable envers tout ce qui vient des Géants.
+
+## Histoire
+
+*   **L'Ère des Fuites (Début de l'Avènement des Géants) :** Lorsque le "Grand Ébranlement" a déchiré la Frontière Brisée, les animaux qui y vivaient furent les premiers à subir le choc. Leurs foyers réduits en poussière, beaucoup périrent, d'autres fuirent en groupes paniqués. Renarde Cendre, ayant miraculeusement survécu au massacre de sa tanière, commença à recueillir les rescapés, guidant leur fuite à travers le chaos.
+*   **La Genèse de la Survie (L'apprentissage des Terres Souillées) :** Au fur et à mesure que la Frontière était irrémédiablement défigurée par les "tranchées-canyons" et les "fumées noires", ces groupes disparates réalisèrent que les anciennes méthodes de survie du Bois Sombrecœur étaient inadaptées. Ils apprirent à se cacher dans les ruines, à utiliser les déchets des Géants et à développer une nouvelle forme de résilience. Les communautés traditionnelles, incapables de comprendre l'ampleur de la menace, étaient soit réticentes à les aider, soit elles-mêmes trop accablées, forçant les Vagabonds à une autonomie amère et une nouvelle identité.
+*   **L'Établissement des Abri de Fer :** La découverte des "carcasses de fer" – les restes des machines de guerre des Géants – comme abris inattendus marqua un tournant. Ils y trouvèrent une protection contre les éléments et les Géants eux-mêmes, cimentant leur identité en tant que "Vagabonds de la Frontière Brisée". Désormais, ils tiraient leur force de la destruction même, devenant les yeux et les oreilles de ce qui se passait au-delà des forêts, porteurs de nouvelles, souvent sombres, pour ceux qui voudraient les écouter.

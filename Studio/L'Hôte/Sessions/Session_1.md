@@ -1,0 +1,43 @@
+# Scène 1 : L'Écho dans les Ruines
+
+> L'odeur. C'est la première chose qui vous frappe, même à travers les filtres à air de votre abri de fortune. Une symphonie macabre de déliquescence, de sang métallique et d'antiseptiques âcres, le parfum entêtant de la mort cellulaire qui a imprégné chaque recoin du Secteur Mylonique. L'air lui-même semble plus lourd, saturé de l'humidité visqueuse des fluides interstitiels contaminés.
+>
+> Vous êtes des rescapés, des âmes endurcies par les premières vagues du Grand Flétrissement, ayant trouvé un semblant de refuge dans les entrailles d'une station de filtration bio-architecturale à moitié effondrée. Ses membranes de soutien, autrefois si robustes, sont déchirées comme de vieilles voiles moisies, exposant le cœur du complexe à la maladie rampante.
+>
+> Autour de vous, les vestiges de ce qui fut un bastion de la civilisation Soma-Naute sont un paysage de désolation. Les forêts de mitochondries pulsantes, autrefois sources de lumière et d'énergie vitale, ne sont plus que des carcasses sombres et inertes. Leurs bioluminescences vives sont réduites à des clignotements sporadiques, mourants, comme les dernières braises d'un feu éteint. Des amas de cellules nécrosées flottent comme des îles visqueuses dans les fluides contaminés qui s'écoulent lentement, teints d'un rouge ou d'un violet maladif, des couleurs qui crient la maladie.
+>
+> Le silence est écrasant, un linceul sonore seulement déchiré par le murmure lointain et grave des tissus mourants de L'Hôte lui-même. Parfois, un gémissement étouffé, celui d'un malheureux Soma-Naute succombant à l'affliction, ou, comme le murmurent les légendes locales, le Soupir lourd et plaintif de L'Hôte.
+>
+> Votre équipement est rudimentaire, usé jusqu'à la corde. Votre vaisseau, si vous en avez un, est peut-être à peine fonctionnel, rafistolé avec les maigres ressources glanées dans ce désert organique. Vous surveillez les environs à travers une paroi de membrane fissurée, votre souffle vaporeux se condensant sur la surface, cherchant désespérément le moindre signe de mouvement. Chaque ombre est une menace, chaque vibration un pressentiment. Vous craignez les maraudeurs viraux, les réflexes immunitaires confus de L'Hôte qui se retournent contre vous, ou pire encore, les manifestations mutantes de la Grande Maladie elle-même.
+>
+> C'est dans ce décor désespérant, au milieu de cette veillée tendue, que le silence est brusquement déchiré. Votre comm-lien, longtemps muet ou ne transmettant que des plaintes statiques, crache subitement une fréquence codée. Le bip insistant est une anomalie choquante dans l'immensité mourante. Un logo apparaît sur votre interface, distordu par le signal faible, mais indubitable : le symbole du Conseil Biologique.
+
+> **COMMANDANTE ELARA VANCE :** *(Sa voix grésille, craquante et teintée d'une urgence à peine contenue, mais toujours empreinte d'une autorité inébranlable qui transperce le brouillage.)* "Soma-Nautes... ici Commandante Elara Vance du Conseil Biologique. Si vous recevez ce message, c'est que les données que nous avons reçues de vos balises sont encore actives. Et que L'Hôte n'a pas encore succombé. Nous avons... nous avons besoin de vous. De vous, les survivants. Vous êtes la dernière ligne."
+>
+> *(La transmission grésille un instant, une brève mais angoissante coupure avant qu'elle ne reprenne, sa voix légèrement plus claire, signe qu'elle a ajusté sa fréquence.)*
+>
+> **COMMANDANTE ELARA VANCE :** "La situation dans le Secteur Mylonique est devenue... intenable. Nous perdons le contrôle. Mais il reste un espoir, une dernière chance avant que la région ne soit entièrement submergée par la Maladie. Nous avons localisé une station de recherche abandonnée, la *Station Nexus Oméga*, dans la zone *Ganglionnaire Perdue*. Elle contient des données cruciales sur l'échantillon 'Patient Zéro', des informations qui pourraient nous aider à comprendre la nature de cette affliction. Les dernières analyses suggèrent que la *Nexus Oméga* est sur le point d'être compromise. Vous devez y aller. Vous devez récupérer ces données."
+>
+> *(Elle marque une pause, un bref instant où son inébranlable façade montre une légère fissure, comme si elle luttait pour rassembler ses pensées ou maîtriser une émotion profonde.)*
+>
+> **COMMANDANTE ELARA VANCE :** "De plus, nous avons des rapports non confirmés que l'Ingénieur Jax, un de nos meilleurs ingénieurs de terrain, pourrait encore être en vie dans ce secteur. Il connaît les passages sûrs à travers les zones les plus dangereuses, et ses connaissances sur les manifestations précoces de la maladie sont uniques. C'est un survivant aguerri. Retrouvez-le, s'il est encore parmi les vivants. Ses coordonnées... ou du moins ses dernières coordonnées connues, vous seront transmises avec cette transmission. Vous êtes nos yeux et nos bras dans l'enfer du Mylonique. Votre ingéniosité, votre adaptabilité... elles sont notre seule monnaie d'échange face à ce désastre."
+
+**POTENTIELLES QUESTIONS DES JOUEURS :**
+
+*   **"Commandante, qu'est-ce qui s'est réellement passé ici ? Qu'est-ce que cette Maladie ?"**
+    > **ELARA VANCE :** *(Un soupir à peine audible transparaît à travers le grésillement. Sa voix se durcit légèrement, empreinte d'une frustration contenue.)* "C'est précisément ce que nous ignorons. C'est ce que ces données, si vous les récupérez, pourraient nous révéler. Une infection ? Une réaction systémique de L'Hôte ? Nous sommes aveugles, Soma-Nautes. Et notre ignorance est notre plus grande faiblesse. Tout ce que nous savons, c'est qu'elle dévore L'Hôte de l'intérieur, modifiant les tissus, les cellules... C'est un flétrissement silencieux."
+
+*   **"Pourquoi nous ? Le Conseil Biologique n'a-t-il pas de forces plus importantes à envoyer ?"**
+    > **ELARA VANCE :** "Nos forces... nos forces sont dispersées, anéanties, ou déjà engagées sur d'autres fronts désespérés. Le Secteur Mylonique est devenu un cimetière, un piège. Vous y avez survécu. Vous y êtes déjà. Vous connaissez ce terrain corrompu mieux que quiconque. Et vous êtes des Soma-Nautes. Votre esprit, votre résilience... Nous n'avons personne d'autre à qui faire confiance pour une mission aussi délicate et dangereuse."
+
+*   **"Quelles ressources pouvez-vous nous fournir ? Où pouvons-nous nous réapprovisionner ?"**
+    > **ELARA VANCE :** "Nos ressources sont étirées à l'extrême. Je ne vais pas vous mentir. Nous ne pouvons vous envoyer qu'un plan de navigation rudimentaire et des coordonnées d'une cache d'approvisionnement d'urgence que nous avons pu établir. Elle contient quelques rations, des cellules d'énergie de base et un kit médical standard. Pas grand-chose, mais c'est tout ce que nous avons pu maintenir. Votre survie dépendra avant tout de votre débrouillardise." *(Elle marque une nouvelle pause, sa voix trahissant l'amère réalité de leur situation.)* "Si vous réussissez, et seulement si, nous ferons tout notre possible pour organiser une extraction et vous acheminer vers le Cœur Neuronal. Mais pour l'instant, vous êtes seuls."
+
+*   **"Comment sommes-nous censés naviguer dans un tel chaos ? Et que faire des dangers ?"**
+    > **ELARA VANCE :** "C'est pourquoi la recherche de l'Ingénieur Jax est si cruciale. Ses connaissances des 'voies silencieuses' du Mylonique pourraient être votre salut. Quant aux dangers... ils sont innombrables. Évitez les zones d'inflammation active, les amas de nécroses. Méfiez-vous des fluides corrompus et de toute manifestation nouvelle de la maladie. Et soyez extrêmement vigilants face aux Maraudeurs Viraux et... à d'autres entités opportunistes qui pourraient profiter du chaos. La prudence et l'ingéniosité sont vos meilleures armes."
+
+**COMMANDE FINALE :**
+
+> **ELARA VANCE :** "Les coordonnées de la *Station Nexus Oméga* et les dernières positions connues de Jax sont maintenant chargées dans vos systèmes, si votre comm-lien est toujours stable. C'est une mission suicide, je le sais. Mais c'est une mission essentielle. L'avenir de L'Hôte, de *notre* Hôte, pourrait bien dépendre de ce que vous trouverez dans ces ruines. Allez, Soma-Nautes. La lumière de L'Hôte vous guide. Fin de transmission."
+>
+> *(La transmission se coupe avec un dernier grésillement strident, laissant le silence oppressant reprendre ses droits, plus lourd que jamais, rempli des murmures mourants de L'Hôte. Les coordonnées clignotent sur votre interface, une faible lueur d'espoir presque insolente dans l'obscurité grandissante. La quête a commencé.)*
