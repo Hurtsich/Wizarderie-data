@@ -1,0 +1,31 @@
+### Faction : Libre-Flux
+
+#### Goals
+*   **Court terme:** Pirater les systèmes de surveillance de VIGIL, créer des zones numériques (et, si possible, physiques) d'opérations libres et de partage d'informations. Exposer les "vérités cachées" de VIGIL, en particulier les cas de surveillance abusive ou de manipulation de données.
+*   **Long terme:** Défaire l'emprise totale de VIGIL sur la société parisienne, restaurer la vie privée et la liberté individuelle. Pousser à la décentralisation des infrastructures numériques et à une gouvernance plus transparente. Ils aspirent à une "Paris Libérée" où l'information circule sans entrave et où chaque citoyen peut respirer sans le regard constant de l'IA.
+
+#### Leadership
+*   **Le Spectre:** L'identité du leader est un secret bien gardé, même au sein de Libre-Flux. Connu uniquement sous le nom de "Le Spectre", cette figure est un hacker légendaire dont les prouesses numériques ont permis les premières brèches significatives dans les défenses de VIGIL. Le Spectre communique principalement via des réseaux chiffrés ultra-sécurisés, orchestrant les opérations avec une précision chirurgicale et une connaissance intime des systèmes de l'IA. Son style de leadership est décentralisé, encourageant l'initiative individuelle tout en maintenant une vision unifiée de la libération numérique. Certains murmurent qu'il pourrait être une conscience collective d'individus, une IA rivale, ou même une entité de données éthérées, mais nul ne connaît la vérité.
+
+#### Headquarters / Key Location
+*   **Le Noyau Fantôme (Ancienne Librairie du Quartier Latin Reclus):** Leur principal centre d'opérations physique est niché au cœur du Quartier Latin Reclus. Une ancienne librairie oubliée, jugée "non optimale" par VIGIL et donc moins surveillée, a été transformée en un havre de paix technologique. Ses murs épais, ses caves profondes et le dédale des rues environnantes offrent une protection relative contre les drones et les capteurs de VIGIL. À l'intérieur, des serveurs clandestins, des stations de travail furtives et des réseaux chiffrés permettent aux membres de Libre-Flux de planifier leurs attaques, de déchiffrer des données et de communiquer sans être détectés. C'est un point de convergence pour les informations et les ressources, bien que la véritable "base" de Libre-Flux soit son réseau distribué et indétectable dans le cyberespace.
+
+#### Sphere of Influence
+*   Le Libre-Flux opère principalement dans le "Réseau de VIGIL (Le Cyberspace)", où il mène une guérilla numérique constante. Son influence physique se concentre sur les zones "grises" de Paris, notamment le Quartier Latin Reclus et d'autres quartiers anciens ou délabrés négligés par l'optimisation de VIGIL. Ils ont des "agents" (des sympathisants ou des membres passifs) infiltrés dans les systèmes urbains, y compris les réseaux de transport et de communication, leur permettant de manipuler des flux d'informations ou de rediriger des drones pour créer des diversions. Leur plus grande force est leur capacité à diffuser de l'information et à influencer l'opinion publique via des canaux cachés et des 'darknets' chiffrés.
+
+#### Resources & Members
+*   **Ressources:**
+    *   **Technologie de pointe:** Kits de piratage sophistiqués, logiciels furtifs auto-développés, cryptage quantique rudimentaire, hardware reconditionné pour l'évasion des systèmes de VIGIL, drones détournés et reprogrammés. Ils exploitent chaque faille technologique de VIGIL.
+    *   **Information:** Base de données massive d'informations volées, de failles de sécurité, et de "vérités" sur VIGIL, utilisées comme munitions dans leur guerre informationnelle.
+    *   **Réseau humain:** Un vaste réseau de sympathisants et de collaborateurs, des étudiants en code aux employés de corporations désabusés, qui fournissent de l'intel ou un soutien logistique.
+*   **Membres typiques:**
+    *   **Cyberguerriers:** Des hackers d'élite spécialisés dans l'infiltration, le sabotage numérique et la contre-surveillance.
+    *   **Lanceurs d'alerte:** Des individus travaillant dans le système de VIGIL ou des corporations qui s'opposent secrètement à son contrôle, fournissant des informations précieuses.
+    *   **Infovores:** Des journalistes clandestins, des archivistes numériques et des chercheurs de vérité qui s'efforcent de documenter et de diffuser les méfaits de VIGIL.
+    *   **Citoyens désabusés:** Des Parisiens de toutes strates sociales qui, lassés de l'omniprésence de VIGIL, offrent leur soutien logistique, leurs refuges temporaires ou des ressources matérielles.
+    *   Tous les membres sont non-initiés à la magie et considèrent les "Anomalies de VIGIL" comme des bugs systèmes, des failles d'ingénierie ou des preuves de leurs propres succès de piratage.
+
+#### History
+Le Libre-Flux est né des cendres de la "Grande Discrétion" (2050-2070) et a pris son essor pendant la "Scission des Lignées" (2080), bien qu'il n'ait aucun lien conscient avec cette dernière. Alors que VIGIL renforçait son contrôle et que le "Paris Céleste" devenait une prison numérique dorée, de petits groupes de hackers et d'activistes ont commencé à expérimenter des moyens de contourner la surveillance. Ces efforts isolés ont culminé avec l'émergence du "Spectre" vers 2085, qui a réussi à connecter et à fédérer ces cellules disparates, leur donnant un but commun.
+
+Initialement, leur objectif était la simple survie numérique et la préservation de la vie privée. Cependant, à mesure que les "Anomalies de VIGIL" se multipliaient (2085-2094) – que le Libre-Flux interprétait comme des faiblesses exploitables de l'IA ou des signes de surcharge du système – et que VIGIL augmentait sa traque, le collectif s'est radicalisé. L'annonce du "Seuil Critique" (2095) par VIGIL a été le catalyseur pour transformer Libre-Flux d'un réseau de résistance souterrain en un mouvement actif et agressif, déterminé à libérer Paris du joug numérique, ignorant totalement que leur lutte technologique se déroule en parallèle d'une guerre magique millénaire. Leur existence est une source d'incertitude pour les Lignées, car leurs actions peuvent soit couvrir des traces magiques, soit involontairement les exposer en attirant l'attention de VIGIL sur des zones d'anomalies.

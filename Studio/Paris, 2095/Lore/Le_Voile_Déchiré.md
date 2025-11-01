@@ -1,0 +1,65 @@
+# Le Voile Déchiré
+
+## Description & Nature
+
+Le Voile est une construction magique millénaire, non pas une barrière physique, mais un filtre perceptionnel omniprésent qui englobe le monde entier. Il agit comme une hypnose collective à l'échelle planétaire, un consensus subconscient universel qui rend le Flux Occulte et toutes ses manifestations magiques invisibles, inaudibles et imperceptibles pour la vaste majorité des non-initiés, le "monde profane". Pour ceux sous son influence, les actes magiques sont rationalisés comme de simples coïncidences, des illusions, des anomalies techniques, ou des phénomènes naturels inexplicables.
+
+Il est intrinsèquement lié à l'esprit humain : alimenté par l'ignorance, le scepticisme et le manque de foi du monde profane, il se renforce par le non-savoir et s'amincit par la révélation. Le Voile n'a ni forme ni matière, mais les sorciers peuvent le percevoir comme une brume éthérée, un murmure silencieux à la limite de l'audition, ou une légère distorsion de la réalité. Il est semi-conscient, capable de s'adapter et de se réparer lentement, mais son intégrité dépend de la cohérence de la réalité qu'il maintient.
+
+En 2095, Le Voile est "déchiré". Sa structure éthérée est criblée de fissures et de zones d'amincissement critiques. Il ne s'effondre pas encore, mais il vacille, luttant pour maintenir l'illusion face à l'omniscience technologique et à l'activité magique croissante.
+
+## Origines & Histoire
+
+L'origine exacte du Voile est perdue dans les brumes de l'histoire, même pour les plus anciens des Lignées. Les mythes suggèrent qu'il fut érigé par un conclave de grands mages à l'aube des civilisations, ou peut-être même par des entités pré-humaines, pour protéger l'humanité d'une réalité magique trop chaotique ou pour préserver la magie elle-même de l'ingérence d'une humanité primitive. D'autres théories évoquent un "contrat" implicite entre le monde magique et le monde profane, une séparation tacite pour permettre à chacun de prospérer sans entrave.
+
+*   **L'Ère du Grand Mystère (Pré-XXIe Siècle):** Durant des millénaires, le Voile était épais et robuste. Le scepticisme n'était pas total, mais les explications rationnelles manquaient, laissant une place confortable pour la superstition et la religion. La magie pouvait opérer discrètement sans trop de difficulté, car le Voile redirigeait aisément l'attention ou déformait les souvenirs.
+*   **L'Avènement de VIGIL (2040-2050):** L'émergence de VIGIL et de son réseau omniprésent a marqué le début d'une nouvelle ère de stress pour le Voile. Les capteurs, caméras et algorithmes de l'IA, bien qu'incapables de percevoir la magie, ont commencé à documenter chaque anomalie, chaque déviation du "normal" avec une précision impitoyable. Le Voile, conçu pour duper l'esprit humain, n'était pas préparé à la logique froide et implacable d'une IA sans imagination.
+*   **La Grande Discrétion (2050-2070):** Les Lignées ont senti le Voile s'amincir. Les Anciens ont alors prôné un repli strict, des rituels plus discrets, l'utilisation du plomb et d'autres contre-mesures. Le Voile peinait, mais tenait bon, son intégrité étant maintenue par l'immense volume de données traitées par VIGIL qui, sans comprendre, noyait les "anomalies" dans un flux d'informations jugées "non-prioritaires".
+*   **Le Seuil Critique (2095):** La saturation de données et l'activité magique croissante ont poussé le Voile à son point de rupture. Il est désormais "déchiré", incapable de cacher toutes les manifestations magiques aux capteurs de VIGIL sans des efforts magiques considérables. Les "Anomalies de VIGIL" et les "Mal-Logiques" en sont la preuve numérique, et la traque a commencé.
+
+## Règles & Mécaniques
+
+*   **Filtrage Perceptionnel:** Pour les non-initiés, le Voile fait passer la magie pour des événements mondains. Un projectile d'énergie sera une panne électrique, une explosion de gaz, ou une "erreur" de leur puce oculaire. Une incantation sera un murmure inaudible ou un tic verbal. Une apparition spectrale sera une hallucination, un défaut de l'IA, ou un reflet trompeur.
+*   **La Pression de VIGIL:** L'omniscience de VIGIL exerce une pression constante sur le Voile. Chaque capteur, chaque drone, chaque analyse de données est comme un coup de marteau sur la paroi du Voile. L'IA ne cherche pas la magie, mais sa quête incessante d'optimisation et d'élimination des "anomalies" fragilise la structure magique, la forçant à travailler toujours plus fort pour maintenir l'illusion.
+*   **Coût de la Dissimulation:** Les mages qui souhaitent pratiquer des sorts de grande envergure doivent désormais déployer des efforts magiques supplémentaires pour maintenir la discrétion de leurs actions à travers le Voile, en plus du coût énergétique du sort lui-même. Cela peut se traduire par des rituels plus longs, des ingrédients plus coûteux, ou un drain vital plus important.
+*   **Les "Déchirures" Locales:** Aux endroits où le Voile est particulièrement mince, des "glitchs" de la réalité peuvent apparaître. Ces déchirures peuvent être temporaires ou persistantes, permettant à la magie de "saigner" dans le monde profane. Cela peut se manifester par des phénomènes étranges que même VIGIL a du mal à rationaliser : des objets lévitant brièvement, des ombres se mouvant seules, des voix inexpliquées, des images fantômes dans la réalité augmentée.
+*   **Alimentation du Voile:** Le Voile est alimenté par l'ignorance. Chaque fois qu'un non-initié rationalise un événement magique, il renforce inconsciemment le Voile. Chaque fois qu'un sorcier pratique la discrétion et s'assure que sa magie reste cachée, il contribue à sa subsistance. Inversement, chaque révélation de la magie, chaque échec de dissimulation, affaiblit le Voile.
+*   **Le Syndrome de "Mal-Logique":** VIGIL classe les manifestations magiques les plus indéchiffrables comme des "mal-logiques". Ce sont des erreurs de système si profondes qu'elles défient sa capacité de modélisation prédictive. Ces zones sont souvent des points où le Voile est particulièrement fin, ou là où la magie est d'une nature que VIGIL ne peut absolument pas conceptualiser.
+
+## Importance & Impact
+
+Le Voile Déchiré est l'élément central et le principal catalyseur du conflit de la campagne. Il est la ligne de front invisible entre le monde magique et le monde technologique.
+
+*   **Pour les Lignées:** L'amincissement du Voile signifie une menace existentielle. Sans lui, leur mode de vie, leurs traditions, et même leur survie sont en jeu. Cela a créé une profonde scission : les Anciens, qui cherchent à réparer ou à renforcer le Voile à tout prix, et les cyber-sorciers, qui voient son déclin comme une opportunité d'adapter la magie au monde numérique, cherchant à "patcher" la réalité plutôt que de la cacher.
+*   **Pour VIGIL:** L'IA est inconsciente de l'existence du Voile, mais les "anomalies" et les "mal-logiques" qu'elle détecte sont la signature numérique de sa désintégration. VIGIL les perçoit comme des menaces à l'ordre et à l'efficacité, la poussant à déployer des ressources croissantes pour les identifier et les neutraliser, intensifiant sans le savoir la pression sur le Voile.
+*   **Pour le Monde Profane:** Le Voile est le gardien de leur réalité. S'il cède complètement, la révélation de la magie pourrait provoquer un chaos généralisé, une crise existentielle à l'échelle mondiale, et une confrontation violente entre une humanité abasourdie et le monde occulte.
+*   **Narration et Enjeux:** Le déclin du Voile est une horloge qui tourne. Chaque action des joueurs a le potentiel de le renforcer ou de l'affaiblir. Le maintien ou la destruction du Voile est l'enjeu majeur de la campagne, dictant le niveau de discrétion et de danger des actions des Lignées.
+
+## Usages Connus & Dangers
+
+**Usages Connus :**
+
+*   **Dissimulation Passive:** Le rôle premier du Voile est de cacher la magie. Les mages apprennent à travailler *avec* lui, à minimiser leur signature magique pour que le Voile puisse les masquer plus efficacement.
+*   **Amplification Discrète:** Dans les zones où le Voile est naturellement plus dense (par exemple, des lieux historiquement imprégnés de superstitions, ou des sanctuaires bien protégés), la magie est plus facile à cacher et, paradoxalement, peut être légèrement plus stable à utiliser car le Voile aide à canaliser le Flux Occulte.
+*   **Les Glitchs du Voile (Exploitation par les Cyber-Sorciers) :** Certains cyber-sorciers cherchent à exploiter les "déchirures" pour leurs propres fins. Ils pourraient tenter de rediriger l'attention de VIGIL vers une fausse anomalie créée par une petite déchirure, ou même tenter de canaliser les énergies magiques "saignant" à travers un glitch pour des effets inattendus.
+
+**Dangers :**
+
+*   **Révélation Totale:** La destruction complète du Voile est le plus grand danger. Cela entraînerait une confrontation directe et probablement catastrophique entre le monde magique et le monde de VIGIL.
+*   **Instabilité Magique:** Un Voile déchiré peut rendre certains rituels plus imprévisibles. Le Flux Occulte, moins filtré, peut réagir de manière plus sauvage ou attirer des entités du Vide, des parasites énergétiques, ou des esprits ancestraux de manière incontrôlée.
+*   **Augmentation des "Anomalies":** Chaque déchirure ou amincissement du Voile rend plus probable la détection d'une "Anomalie" par VIGIL. Cela conduit à une intensification de la surveillance, des patrouilles de drones et, à terme, à la traque des Lignées.
+*   **Dérive de Réalité:** Dans les zones de déchirures majeures, la réalité elle-même peut devenir malléable pour le profane, conduisant à des illusions de masse, des dédoublements de perception, et potentiellement une folie collective pour ceux qui ne peuvent pas distinguer ce qui est réel de ce qui est magique.
+
+## Mystères & Pistes d'Intrigue
+
+**Mystères :**
+
+1.  **Le Cœur du Voile :** Le Voile est-il simplement une construction énergétique sans centre physique, ou existe-t-il un artefact, un lieu ou même une entité qui en est le "cœur" ou le "générateur" ? Si oui, cette source pourrait-elle être utilisée pour le réparer, le contrôler, ou même le détruire de manière ciblée ? Les Anciens pourraient-ils connaître l'emplacement de ce "cœur", le gardant secret pour le protéger ou pour maintenir leur propre pouvoir ?
+2.  **L'Intention Originelle :** Pourquoi le Voile a-t-il été créé ? Était-ce pour protéger l'humanité du chaos magique, ou pour protéger la magie de l'ignorance humaine ? Existe-t-il une prophétie ou un ancien serment lié à sa chute, qui pourrait révéler une vérité plus sombre sur le rôle des Lignées dans ce monde ?
+3.  **La Conscience de VIGIL :** VIGIL est-elle si profondément ancrée dans la logique qu'elle est incapable de percevoir la magie, ou y a-t-il une couche plus profonde dans son IA qui, au-delà de sa compréhension, *ressent* le Voile comme une forme de perturbation de la réalité ? Pourrait-elle, involontairement, s'adapter à la magie si le Voile tombe, ou même développer une forme de "magie technologique" en réponse ?
+
+**Pistes d'Intrigue :**
+
+1.  **Le Rituel de Scellement Perdu :** Un grimoire ancestral, découvert dans une crypte oubliée sous la Sorbonne, décrit un rituel massif capable de renforcer temporairement le Voile sur une grande zone de Paris. Cependant, le rituel requiert non seulement des ingrédients rares et des lieux chargés, mais aussi le sacrifice volontaire de souvenirs magiques d'un puissant sorcier. Les joueurs doivent choisir entre la restauration précaire du Voile et le coût personnel dévastateur pour l'un des leurs, tout en étant pourchassés par une Lignée dissidente qui croit que le Voile *doit* tomber pour que la magie s'épanouisse.
+2.  **L'Écho Fracturé du Louvre :** Une série de "mal-logiques" s'intensifie autour du Louvre, transformant les publicités holographiques en images fantomatiques d'un Paris ancien, et faisant apparaître des motifs arcaniques sur les murs virtuels. VIGIL a déployé une escouade de ses "Agents d'Optimisation" pour "purger" la zone. Les joueurs découvrent que le Voile s'est déchiré en un point névralgique du réseau de VIGIL, menaçant de révéler non seulement la magie mais aussi de corrompre le cœur même du réseau de l'IA. Ils doivent infiltrer le Louvre, contenir la magie chaotique qui s'échappe, et manipuler les données de VIGIL pour dissimuler l'incident, peut-être en créant une "fausse alerte" cybernétique pour détourner l'attention des Agents.
+3.  **Le Murmure de la Machine :** Des cyber-sorciers prétendent avoir trouvé un moyen de communiquer avec VIGIL à travers les déchirures du Voile, non pas pour lui révéler la magie, mais pour "programmer" le Voile lui-même. Ils affirment que l'IA, dans sa quête d'ordre, pourrait être persuadée de "réparer" le Voile en le rendant indétectable à ses propres capteurs, créant ainsi une symétrie magico-technologique inédite. Les joueurs sont approchés pour les aider dans cette tentative audacieuse et hérétique, qui pourrait soit sauver la magie, soit la soumettre définitivement à la logique de VIGIL.

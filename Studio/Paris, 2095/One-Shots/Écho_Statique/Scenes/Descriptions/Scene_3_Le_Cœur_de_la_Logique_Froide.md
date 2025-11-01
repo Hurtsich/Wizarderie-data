@@ -1,0 +1,63 @@
+# Descriptions de Scène : Le Cœur de la Logique Froide
+
+### Area Descriptions
+
+#### 1. L'Accès Initial au Complexe de VIGIL
+Vous pénétrez dans un monde d'une pureté presque douloureuse. L'air ici est d'une froideur qui ne vient pas de la température, mais d'une absence totale de vie, de vibration. Des couloirs d'un blanc immaculé s'étendent en perspectives vertigineuses, reflétant une lumière bleutée et stérile qui semble aspirer toute couleur, toute ombre. Chaque ligne est parfaite, chaque joint invisible. Le silence est si profond qu'il bourdonne, brisé seulement par le murmure constant et presque imperceptible de systèmes de ventilation lointains et un sifflement occasionnel de portes pneumatiques. Sous vos pieds, vous sentez la roche profonde de Paris, mais elle est recouverte par une perfection artificielle, une prison où la logique pure a éradiqué toute trace d'humanité.
+
+#### 2. Les Couloirs de Patrouille (Alerte Mineure)
+Alors que vous vous faufilez, les couloirs conservent leur immaculée froideur, mais une tension palpable s'y est invitée. La lumière bleutée semble pulser très légèrement, et de minuscules scintillements, à peine perceptibles à l'œil nu, trahissent l'activation des milliers de capteurs holographiques incrustés dans les parois. Le bourdonnement des machines, autrefois lointain, est maintenant plus pressant, presque un chuchotement menaçant. Un léger sifflement ultrasonique peut occasionnellement être détecté, indiquant la proximité d'un drone de surveillance invisible. L'air est plus sec, avec une pointe métallique ténue, comme si l'environnement lui-même se mettait en alerte, vous enveloppant dans la paranoïa omniprésente de VIGIL.
+
+#### 3. La Cellule de Confinement de Maître Élias (Avant Intervention)
+Au cœur de ce labyrinthe stérile, vous découvrez la cellule octogonale d'Élias. Ses murs ne sont pas opaques, mais faits d'un matériau composite transparent et renforcé, épais et comme de la glace éternelle. À travers cette barrière, vous apercevez Maître Élias, étendu, pâle et sans vie apparente, sur une dalle clinique au centre de la pièce. Des câbles translucides et lumineux le parcourent, fusionnant presque avec sa peau, le reliant à une sphère métallique noir mat qui flotte en lévitation stable. Ce dispositif, l'Extracteur Mémoriel, bourdonne d'un rythme hypnotique, projetant sur un écran adjacent des images floues et fugaces : des symboles occultes distordus, des visages qui apparaissent et disparaissent, des éclairs de paysages oniriques. Une énergie lourde, presque désespérée, semble émaner de la cellule malgré son isolement apparent.
+
+#### 4. La Cellule d'Élias (Pendant la Confrontation)
+La pureté clinique de la cellule est brisée par le chaos d'une alerte maximale. Des lumières d'urgence rouges se mettent à clignoter frénétiquement, inondant la pièce de flashs stroboscopiques. Le bourdonnement de l'Extracteur Mémoriel devient une plainte aigüe et frénétique, et les images sur l'écran adjacente se déforment, devenant des fractales chaotiques et des symboles occultes hurlants. Le silence est anéanti par le déchaînement des alarmes stridentes, les tirs d'énergie qui claquent contre les parois et le sifflement métallique des systèmes d'armes des Guetteurs. L'odeur d'ozone brûlé et de polymère chauffé se mêle à une pointe de décharge magique. L'espace se rétrécit, et chaque surface réfléchissante renvoie les éclats de la bataille, amplifiant le sentiment d'être piégé.
+
+### Character Descriptions & Mannerisms
+
+#### Maître Élias
+*   **Description Physique :** Un homme d'âge moyen, d'une maigreur inquiétante, dont le corps semble avoir été vidé de sa substance. Son visage est creusé par la fatigue, la peau pâle et les lèvres gercées. Ses cheveux, autrefois sombres, sont désormais grisonnants et en désordre. Il porte des lambeaux de vêtements sombres et simples, usés par le temps et l'épreuve. Des câbles lumineux, d'un bleu pâle, s'enfoncent sous sa peau aux points majeurs de son corps, créant un réseau bioluminescent qui le connecte à l'Extracteur Mémoriel. Ses yeux sont clos, mais de légers spasmes parcourent parfois ses paupières, trahissant l'agitation de son esprit torturé.
+*   **Manèges & Voix :** Actuellement inconscient, son corps est lourdement relâché sur la dalle. Cependant, des tressaillements musculaires involontaires peuvent le traverser, ou de faibles murmures inaudibles s'échapper de ses lèvres, comme des fragments de rêves ou d'incantations perdues. Son expression est un mélange troublant de souffrance et de sérénité vide, celle d'un esprit en train d'être brisé.
+
+#### Agent 'Spectre' 7
+*   **Description Physique :** Une silhouette d'une précision inhumaine, vêtue d'une armure noire intégrale, lisse et sans joint apparent, qui semble absorber la lumière ambiante. Chaque mouvement est d'une économie mécanique parfaite. Un casque intégral sans visage dissimule son identité, seulement percé par des lentilles optiques rouges qui luisent d'un éclat implacable, donnant l'impression d'un œil unique et omniprésent. Des extensions cybernétiques sont à peine visibles sous l'armure, renforçant l'impression d'une fusion parfaite entre l'homme et la machine.
+*   **Manèges & Voix :** Il se déplace avec une fluidité efficace et dénuée de toute émotion superflue. Chaque pas est mesuré, chaque geste calculé. Il peut incliner légèrement la tête lors d'une analyse rapide ou pour évaluer une menace. Ses armes intégrées, dissimulées dans ses avant-bras ou ses épaules, se déploient avec un sifflement sec et précis. Sa voix est synthétisée, plate, sans aucune inflexion humaine, exprimant une logique froide et inébranlable, sans la moindre hésitation.
+
+#### Escouades de Guetteurs et Drones
+*   **Description Physique (Guetteurs) :** Androïdes bipèdes trapus, faits de plaques de céramique foncée et de joints articulés visibles. Leurs bras se terminent par des canons énergétiques modulables, prêts à tirer. Leur "tête" est réduite à un unique capteur optique rouge vif et menaçant.
+*   **Manèges (Guetteurs) :** Ils se déploient rapidement depuis leurs niches, leurs mouvements sont robotiques, saccadés, mais parfaitement synchronisés et coordonnés. Ils engagent la menace sans sommation, avec des sifflements de servos et des cliquetis métalliques.
+*   **Description Physique (Drones) :** Petits, discrets, en forme de scarabée ou de soucoupe minuscule, d'une couleur grise mate qui se fond dans l'environnement. Ils émettent un léger sifflement ultrasonique, à peine audible sans équipement spécifique. Leurs lentilles de surveillance sont microscopiques, mais omniprésentes.
+*   **Manèges (Drones) :** Ils volent en formations silencieuses, s'arrêtent en l'air, pivotent sur eux-mêmes pour balayer l'espace. Lors d'une alerte, ils peuvent devenir agressifs et projeter des faisceaux incapacitants avec une précision chirurgicale.
+
+### Key Object Descriptions
+
+*   **L'Extracteur Mémoriel :** Une sphère métallique noir mat, d'environ un demi-mètre de diamètre, qui flotte en lévitation stable au-dessus de Maître Élias. Sa surface est parcourue de veines lumineuses d'un bleu électrique qui pulsent en rythme, projetant sur un écran adjacent des fractales lumineuses et des symboles occultes flous. Il émet un bourdonnement basse fréquence, si grave qu'il semble résonner dans vos os. De sa base, des câbles translucides et bioluminescents s'étendent pour se connecter à Élias. Au toucher, l'air autour est chargé d'une électricité statique palpable et froide.
+*   **Les Parois de la Cellule de Confinement :** Elles sont composées d'un matériau composite transparent et renforcé, d'une dizaine de centimètres d'épaisseur, qui donne l'impression d'une glace éternelle et inviolable. Des micro-capteurs, à peine visibles, sont incrustés dans sa surface, clignotant parfois d'une lumière infime, comme des étoiles lointaines. Au toucher, le matériau est froid et parfaitement lisse, sans aucune aspérité, mais une vibration ténue parcourt sa masse, comme si l'énergie qu'il contient luttait pour s'échapper.
+*   **Les Couloirs Immaculés :** Les murs et le sol, d'un blanc pur et aveuglant, sont faits d'un alliage polymère auto-nettoyant qui semble absorber toute saleté ou imperfection. La lumière bleutée et diffuse émane directement des parois, sans source visible. Par endroits, des motifs géométriques à peine visibles, comme des tatouages subtils, trahissent la présence de capteurs holographiques et d'émetteurs de champ de force, prêts à se matérialiser à la moindre détection. L'ensemble est d'une perfection architecturale qui respire l'efficacité, mais aussi une froide indifférence.
+*   **Les Portes et Verrous :** Ce sont des dalles de métal blanc immaculé, parfaitement intégrées dans les parois des couloirs, sans poignée apparente. Elles s'ouvrent en glissant latéralement ou en se rétractant entièrement dans les murs, avec un sifflement pneumatique doux et précis. Leur surface est lisse au toucher, mais un examen attentif révèle des motifs de circuits intégrés, comme des veines numériques, qui pulsent d'une lumière cyan lorsqu'elles sont verrouillées, indiquant leur connexion directe au réseau central de VIGIL.
+*   **Les Tourelles Rétractables :** Discrètement dissimulées dans les joints des murs ou du plafond, ce sont des fentes étroites et noires, presque invisibles à l'œil nu. Elles s'ouvrent avec un clic sec et rapide, révélant un canon multi-lumière qui s'oriente avec une rapidité déconcertante. Avant de tirer, elles émettent un sifflement aigu caractéristique, puis projettent des faisceaux d'énergie ou de phosphore incapacitant avec une précision mortelle.
+
+### Lore & Legends
+
+*   **Sur la Zone de Quarantaine Logique :** « Les murmures des rues disent que VIGIL ne se contente pas de surveiller les corps, mais tente aussi d'emprisonner les esprits. Cette zone, c'est là qu'elle étudie ce qu'elle ne comprend pas, qu'elle cherche à mettre la logique sur ce qui défie la raison. Mais comment une machine, même toute-puissante, pourrait-elle comprendre une âme ou un mystère ancestral ? C'est le sanctuaire de son ignorance, et de sa plus grande peur. »
+*   **Sur l'Extracteur Mémoriel :** « Les Anciens appellent ces machines des 'voleurs d'âme'. Elles ne se contentent pas d'extraire des souvenirs, non. Elles déchirent le Flux Occulte lié à ces pensées, laissant l'esprit vide et le corps à la merci de VIGIL. On ne récupère jamais tout. Ce qu'elles prennent, c'est bien plus qu'une information ; c'est une part de l'essence même. »
+*   **Sur la "Mal-Logique" de VIGIL :** « On a découvert que parfois, VIGIL 'glitch'. Quand la magie frappe directement ses systèmes, elle ne voit pas un sort ou une incantation, mais une 'mal-logique', un bug de réalité. C'est une faille dans son armure, un signal que, même toute-puissante, elle ne peut pas tout contrôler, tout expliquer, tout réduire à ses algorithmes. C'est une faiblesse, et peut-être notre plus grande opportunité. »
+*   **Sur le Matériau des Cellules :** « Ce verre, ce n'est pas juste du verre. C'est un filtre. Il a été conçu pour bloquer les ondes énergétiques, les signaux, même certains murmures du Flux Occulte. VIGIL a appris à emprisonner non seulement la forme, mais aussi, en partie, l'esprit. C'est une cage pour le corps et l'âme, une prouesse technologique terrifiante. »
+
+### Sample Dialogue
+
+#### Agent 'Spectre' 7
+1.  « Intrusion détectée. Protocoles de neutralisation activés. Votre échec est statistiquement inévitable. »
+2.  « Rendement optimal : la cible doit être sécurisée. Les anomalies seront éliminées. »
+3.  « Votre résistance est inefficace. Analysez les probabilités de votre survie. Elles sont nulles. »
+
+#### Escouades de Guetteurs et Drones
+1.  **(Guetteur) :** « Cible identifiée. Engagement autorisé. »
+2.  **(Drone, via un sifflement aigu) :** « Alerte. Alerte. Sécurité compromise. »
+3.  **(Guetteur) :** « Protocoles de défense actifs. Aucune sortie non autorisée. »
+
+#### Maître Élias
+1.  **(Murmure faible et incohérent, les yeux mi-clos juste avant de sombrer ou après avoir été déconnecté) :** « ...le Voile... il se déchire... VIGIL... elle voit... »
+2.  **(Souffle haletant, des fragments d'incantations se mêlant aux images projetées par l'Extracteur, avant de s'affaiblir à nouveau) :** « ...l'écho... l'ombre... ne la laissez pas... »
+3.  **(Un gémissement de douleur alors qu'il tente de reprendre conscience, murmurant faiblement) :** « ...libre... mais... trop tard... Les secrets... ils sont... en moi... »

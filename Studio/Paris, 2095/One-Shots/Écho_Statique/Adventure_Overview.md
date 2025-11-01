@@ -1,0 +1,16 @@
+### Goal
+Sauver Maître Élias des griffes de VIGIL et empêcher l'IA de percer les secrets des Lignées.
+
+### Main Quests
+*   **Retracer l'Anomalie:** Enquêter sur les derniers agissements de Maître Élias au sein du Sanctuaire pour découvrir la nature du rituel qui a causé sa capture.
+*   **Pirater l'Œil de VIGIL:** Infiltrer un centre de données de VIGIL pour localiser la prison d'Élias et identifier une faille de sécurité exploitable.
+*   **Exfiltration de la Zone Grise:** Pénétrer dans la prison de haute technologie de VIGIL, libérer Maître Élias et s'échapper avant un verrouillage total du système.
+
+### Secondary Quests
+*   **Le Fantôme dans la Machine:** En piratant le relais de données, découvrir la conscience fragmentée d'un autre mage capturé et décider de la libérer au risque d'alerter VIGIL.
+*   **La Dette du Corbeau:** Contacter l'informateur Monsieur Corbeau pour obtenir un dispositif de camouflage de VIGIL en échange d'une future faveur, facilitant ainsi l'infiltration finale.
+
+### Adventure Scenes
+1.  **Le Sanctuaire Assiégé:** L'aventure débute dans le Sanctuaire du Murmure Ancien, juste après la capture d'Élias. L'atmosphère est électrique, la paranoïa est palpable alors que des drones de VIGIL quadrillent le quartier, leurs projecteurs balayant les façades. Léa la Digitale, une jeune cyber-sorcière, lutte pour maintenir le camouflage numérique du refuge tout en informant les joueurs de la situation critique. Elle les presse de fouiller l'étude d'Élias à la recherche d'indices sur son rituel et sa destination, avant que VIGIL ne localise précisément leur position. Les PNJ clés sont Léa la Digitale, qui sert de guide technique et de contact, et le sentiment oppressant de VIGIL qui se rapproche.
+2.  **Le Relais de Données des Gobelins:** Suivant les indices, l'équipe se rend à un relais de données de VIGIL, installé dans l'ancienne Manufacture des Gobelins. Le lieu est un contraste saisissant entre l'architecture historique et les rangées de serveurs froids et bourdonnants, baignant dans une lumière bleutée stérile. L'ambiance est au silence et à la tension, chaque pas risquant de déclencher une alarme. Les joueurs doivent combiner piratage, magie de l'ombre et discrétion pour contourner les défenses automatisées et atteindre le cœur du réseau. Leur objectif est de télécharger les plans du centre de détention et d'effacer leurs traces numériques. Un agent 'Spectre' 7, un chasseur de mages cybernétiquement amélioré, pourrait patrouiller les lieux, représentant une menace physique et mortelle.
+3.  **Le Cœur de la Logique Froide:** Le final se déroule dans une installation secrète de VIGIL, une "Zone de Quarantaine Logique" située sous les gratte-ciels de La Défense. L'endroit est d'une blancheur clinique, aseptisé et silencieux, évoquant un laboratoire cauchemardesque où la logique pure a éradiqué toute vie. Les couloirs sont truffés de capteurs et de tourelles dissimulées. Les joueurs y trouvent Maître Élias, inconscient dans une cellule de confinement et connecté à un appareil d'extraction mémorielle. Ils devront affronter l'Agent 'Spectre' 7 et ses escouades, déconnecter Élias en toute sécurité et s'échapper du complexe alors que VIGIL active des contre-mesures de plus en plus létales pour les sceller à l'intérieur.

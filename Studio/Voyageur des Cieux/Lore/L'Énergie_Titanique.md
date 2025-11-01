@@ -1,0 +1,83 @@
+# L'Énergie Titanique
+
+## Description et Nature
+
+L'Énergie Titanique est la force vitale primordiale qui imprègne l'univers connu, une émanation directe de l'existence des Titans eux-mêmes. Elle n'est pas une simple ressource, mais le sang et l'esprit du monde, la sève nourricière qui permet à la vie de s'épanouir sur le dos de ces colosses. Métaphysique par essence, elle se manifeste cependant sous des formes tangibles et exploitables :
+
+*   **Flux Éthérés:** De subtiles brises énergétiques, souvent invisibles à l'œil nu, qui parcourent les écosystèmes des Titans. Les chamans et les individus dotés de sensibilité particulière peuvent les percevoir et les manipuler. Ils sont la forme la plus pure et la moins altérée de l'énergie.
+*   **Cristaux Titaniques:** Des formations géologiques chatoyantes, trouvées dans les profondeurs des Titans ou à la suite d'événements géologiques majeurs. Ils pulsent d'une lumière interne et peuvent être raffinés pour des usages spécifiques. Leur couleur et leur intensité varient selon le Titan, la profondeur de leur gisement et la présence d'impuretés.
+*   **Gaz Titanique:** Un gaz lumineux, parfois iridescent et légèrement plus lourd que l'air ambiant, qui s'échappe des failles géologiques et des bouches géothermiques des Titans. Il est hautement inflammable sous sa forme brute et peut être purifié en une source d'énergie incroyablement puissante pour l'alimentation et la propulsion.
+*   **Organismes Symbiotiques:** Certaines créatures et plantes endémiques ont évolué pour absorber, stocker et parfois libérer l'Énergie Titanique. Elles deviennent elles-mêmes des conduits ou des "batteries" vivantes, comme les "parasites" Titaniques élevés pour leur puissance bio-luminescente ou leur chair énergétique.
+
+L'Énergie Titanique résonne avec la vie, la croissance et le mouvement. Elle est à la fois créatrice, favorisant la prolifération des écosystèmes, et potentiellement destructrice si elle est mal gérée ou exploitée sans respect. Elle agit comme une forme d'âme collective pour les Titans, les reliant d'une manière que personne ne comprend pleinement.
+
+## Origines et Histoire
+
+L'Énergie Titanique n'a pas d'origine distincte des Titans eux-mêmes. Elle est consubstantielle à leur être, le battement de leur cœur cosmique. Pour les civilisations de ce monde, sa présence est aussi ancienne que les premiers mythes, et sa source est aussi insondable que la naissance des Titans. Les légendes racontent que les premiers Titans sont nés d'une mer d'énergie pure et primordiale, et que l'Énergie Titanique est un vestige permanent de cette genèse cataclysmique.
+
+*   **L'Ère des Premiers Titans:** Durant cette période mythique, l'humanité vivait en symbiose avec l'énergie sans la comprendre. Les peuples nomades respectaient les flux naturels, attribuant aux secousses et aux éruptions une signification spirituelle profonde, sans chercher à la canaliser ou à l'extraire de manière intensive. C'était un âge d'équilibre et de respect, romancé aujourd'hui par des cultes comme celui des Murmures.
+*   **La Découverte de l'Énergie Titanique (Approx. -5000 ans):** Ce fut un tournant majeur. Les premiers chamans et mystiques ont appris à percevoir et à interagir directement avec les flux éthérés, développant les rudiments de la magie. Parallèlement, des inventeurs et des ingénieurs ont découvert comment extraire et stabiliser le Gaz Titanique et les Cristaux, marquant le début de l'ère technologique et des premières cités permanentes capables de prospérer indépendamment des ressources immédiates.
+*   **L'Ascension de l'Exploitation:** La Grande Expansion, puis l'émergence de puissances industrielles comme le Consortium du Fer et du Ciel, ont vu l'Énergie Titanique devenir la ressource la plus convoitée. L'extraction est passée de l'artisanat respectueux à l'industrie à grande échelle, menant à des conséquences désastreuses sur des Titans comme *Le Léviathan Industriel*. L'histoire de son exploitation est celle d'un progrès fulgurant souvent teinté d'avidité et de destruction.
+*   **La Guerre des Cristaux (Approx. -500 ans):** Des conflits majeurs pour le contrôle des gisements d'énergie ont solidifié l'idée que l'Énergie Titanique est non seulement une ressource vitale, mais aussi une arme et un symbole de pouvoir absolu.
+
+## Règles et Mécaniques
+
+L'Énergie Titanique est la pierre angulaire de toute puissance dans ce monde, qu'elle soit magique ou technologique.
+
+*   **Magie:** La magie est une manipulation directe de l'Énergie Titanique, canalisée par la volonté et l'entraînement.
+    *   **Canalisation Directe:** Les mages entraînés peuvent puiser l'énergie ambiante pour lancer des sorts, souvent liés aux éléments (vents, terre, feu géothermique), à la guérison, ou à l'influence sur la faune et la flore. La difficulté et la puissance du sort dépendent de la concentration d'énergie ambiante, de la proximité du Titan et de la pureté de l'énergie.
+    *   **Symbiose et Empathie:** Les chamans, les druides ou les adeptes de cultes anciens (comme le Culte des Murmures) développent des liens empathiques profonds avec un Titan. Cela leur permet de "murmurer" à son énergie et de la diriger. Cette magie est plus intuitive, organique et souvent moins spectaculaire mais plus en phase avec le Titan hôte, bien que plus lente à se manifester.
+    *   **Extraction Raffinée et Runique:** D'autres écoles de magie se spécialisent dans l'extraction et la concentration de l'énergie à partir de cristaux ou de gaz pour créer des artefacts magiques, des potions de puissance ou des sorts de longue durée inscrits dans des runes ou des charmes.
+
+*   **Technologie:** L'ingéniosité a trouvé des moyens d'exploiter mécaniquement cette énergie.
+    *   **Propulsion et Lévitation:** Le Gaz Titanique purifié est le carburant le plus courant pour les navires volants, offrant une portance et une propulsion impressionnantes. Les moteurs à cristaux stabilisés, plus coûteux, offrent une puissance plus contrôlable et sont souvent réservés aux vaisseaux militaires ou de luxe.
+    *   **Alimentation Urbaine:** Des réseaux complexes de canalisation acheminent le Gaz Titanique des gisements vers les villes pour l'éclairage, le chauffage et l'alimentation de systèmes mécanisés, de défenses et de communications.
+    *   **Bio-ingénierie:** L'élevage de "parasites" Titaniques, ou d'autres créatures symbiotiques (comme les "lampes-mousses" bio-luminescentes ou les "bêtes de trait" énergétiques), fournit des sources d'énergie portables et renouvelables pour des appareils plus petits, de l'armement ou des outils spécialisés.
+    *   **Extraction Industrielle:** De gigantesques foreuses, raffineries et usines de traitement, souvent détenues par les Empires Autoritaires ou de puissants consortiums, extraient l'énergie à des taux massifs, transformant le gaz brut en carburant raffiné et les cristaux en batteries puissantes ou en composants technologiques avancés.
+
+*   **Le Cas de *L'Éclosion*:** Un Titan nouveau-né comme *L'Éclosion* possède une Énergie Titanique d'une pureté inégalée, mais incroyablement volatile et non consolidée. Toute tentative d'extraction massive ou non régulée risquerait de drainer sa force vitale, de perturber gravement sa croissance, ou même de le tuer, transformant un Eden potentiel en un désert inanimé. Son énergie réagit plus fortement aux intentions, rendant la magie plus puissante mais aussi plus imprévisible.
+
+## Importance et Impact
+
+L'Énergie Titanique est le pilier de toute civilisation et le moteur de tous les conflits. Son omniprésence définit l'existence dans ce monde.
+
+*   **Fondement de la Civilisation:** Sans elle, les cités ne pourraient exister, les navires ne pourraient voler, et la vie moderne telle qu'elle est connue s'effondrerait. Elle a permis l'ascension de sociétés sophistiquées, avec des technologies et des arts magiques impressionnants, ainsi que la capacité de voyager entre les Titans.
+*   **Moteur Économique et Politique:** Le contrôle de l'Énergie Titanique est synonyme de pouvoir. Les nations et les factions qui possèdent des gisements riches ou des technologies d'extraction avancées dominent le commerce, la politique et la guerre. Cela a conduit à la formation de vastes Empires Autoritaires et à d'incessants conflits pour les ressources.
+*   **Impact Environnemental:** Une extraction respectueuse nourrit les écosystèmes et permet une croissance durable, comme on le voit dans les Cités du Vent de Veridian. Une surexploitation, en revanche, peut transformer un Titan luxuriant en un "Léviathan Industriel" stérile, avec des terres arides, des créatures mutées et une pollution généralisée, servant d'avertissement terrifiant.
+*   **Influence Culturelle et Spirituelle:** Pour beaucoup, l'Énergie Titanique est sacrée, la preuve tangible de la divinité des Titans. Le Culte des Murmures, par exemple, vénère les flux d'énergie et cherche à s'y immerger, tandis que d'autres la voient comme un outil à maîtriser. Elle façonne les rituels, les croyances et les philosophies, et la perception de l'au-delà y est souvent liée.
+*   **Force de la Campagne:** La découverte de *L'Éclosion* et de ses gisements d'énergie vierges est le catalyseur de la campagne. La lutte pour son contrôle et la manière dont son énergie sera exploitée déterminera l'avenir du monde.
+
+## Usages Connus et Dangers
+
+### Usages Connus
+
+*   **Propulsion et Lévitation:** Alimente tous les navires volants, les plateformes flottantes et certains systèmes de transport lévitants.
+*   **Source d'Énergie Universelle:** Éclairage, chauffage, alimentation des machineries industrielles, des systèmes de défense urbains et des appareils domestiques.
+*   **Magie:** Lancement de sorts, création d'artefacts enchantés, rituels de guérison et de protection, scellage ou ouverture de portails éthériques.
+*   **Armement:** Armes à énergie (blasters, fusils à plasma), boucliers déflecteurs, explosifs à gaz Titanique, fortifications alimentées et défenses automatisées.
+*   **Communication:** Les cristaux Titaniques, lorsqu'ils sont correctement alignés et alimentés, peuvent être utilisés pour des communications à longue distance, créant des "réseaux éthériques" inter-Titans.
+*   **Agriculture et Bio-ingénierie:** Accélération de la croissance des cultures, modification et amélioration de la faune, élevage de créatures énergétiques pour diverses applications.
+*   **Médecine:** Propriétés curatives et régénératives puissantes, prolongation de la vie humaine, création d'élixirs de vitalité.
+
+### Dangers
+
+*   **Volatilité Extrême:** Le Gaz Titanique brut est hautement explosif. Les surcharges de Cristaux Titaniques peuvent provoquer des explosions massives. Les Flux Éthérés non maîtrisés peuvent créer des tempêtes magiques, des distorsions spatiales ou des anomalies temporelles localisées.
+*   **Drainage du Titan:** L'extraction excessive épuise la force vitale du Titan hôte, le transformant en désert et menaçant l'existence même des civilisations qui y vivent. Ce processus peut être irréversible, comme le montre l'exemple du *Léviathan Industriel*.
+*   **Mutations et Corruption:** Une exposition prolongée ou incontrôlée à l'énergie brute peut provoquer des mutations imprévisibles chez les êtres vivants, créant des monstres ou des formes de vie anormales et souvent agressives. La Faille de l'Oubli en est un exemple criant, où des créatures sont devenues monstrueuses et les habitants fanatiques.
+*   **Dépendance et Addiction:** Certains individus ou cultures peuvent développer une dépendance physique ou psychologique à l'énergie, cherchant à s'y immerger constamment. Cette addiction peut conduire à la folie, à des altérations physiques grotesques, ou à une perte d'humanité.
+*   **Conflits et Guerres:** La rareté et la valeur de l'énergie en font la cause principale des guerres et des intrigues politiques, comme en témoigne la Guerre des Cristaux. Les Empires Autoritaires utilisent l'énergie pour asseoir leur domination par la force.
+*   **Pollution et Dégradation:** Les sous-produits du raffinage de l'énergie ou les déchets des procédés industriels peuvent être toxiques et dévastateurs pour l'environnement, créant des zones invivables.
+
+## Mystères et Pistes d'Intrigue
+
+L'Énergie Titanique, si omniprésente soit-elle, recèle encore de nombreux secrets qui pourraient changer la compréhension du monde.
+
+*   **La Véritable Nature de l'Énergie:** Est-elle une force passive, ou possède-t-elle une forme de conscience, d'intention ou même de mémoire collective ? Certains murmures suggèrent que l'énergie des Titans les relie tous, formant un réseau cosmique. Si tel est le cas, que se passe-t-il lorsque ce réseau est perturbé par la mort d'un Titan ou par l'exploitation excessive ? Pourrait-elle communiquer avec ceux qui l'écoutent ?
+*   **L'Au-delà et l'Énergie:** La croyance commune est que les âmes rejoignent l'énergie des Titans après la mort, se fondant dans le grand tout. Est-ce une réalité ou une simple métaphore ? Existe-t-il des "résonances" ou des "échos" de vies passées au sein des gisements d'énergie ? Certains nécromanciens ou mystiques pourraient-ils puiser dans ces échos pour des objectifs sombres, ou même pour ressusciter les morts, à quel prix ?
+*   **Des Sources Alternées d'Énergie ?** Toute vie et technologie dans ce monde dépendent de l'Énergie Titanique. Mais est-ce la seule force primordiale ? Existe-t-il d'autres sources d'énergie ou d'autres formes de puissance qui pourraient être découvertes dans les profondeurs de la Mer de Nuages Inférieure, libérant ainsi les civilisations de leur dépendance aux Titans et à leurs ressources limitées ?
+
+### Pistes d'Intrigue
+
+1.  **Le Cœur Dormant de l'Éclosion:** Les joueurs découvrent un lieu secret et immaculé au cœur de *L'Éclosion* où l'Énergie Titanique est si pure et concentrée qu'elle prend une forme semi-solide, ressemblant à une masse organique lumineuse. Ce "Cœur Dormant" est d'une puissance inimaginable, capable de guérir toutes les maladies ou de détruire un Titan entier en une seule impulsion. Diverses factions, ayant eu vent de rumeurs, se lancent dans une course effrénée pour le revendiquer, tandis que des signes énigmatiques suggèrent que le Cœur pourrait être une forme d'esprit embryonnaire du Titan, sensible aux émotions et aux intentions de ceux qui l'approchent. Un groupe de gardiens énigmatiques protège ce site, craignant qu'une exploitation prématurée n'entraîne la mort du jeune Titan.
+2.  **Les Archives Oubliées du Léviathan:** Une expédition sur *Le Léviathan Industriel*, dans les entrailles d'une ancienne cité engloutie sous des siècles de débris toxiques, découvre des "archives" gravées dans des cristaux Titaniques massifs. Ces archives révèlent des méthodes d'exploitation de l'Énergie Titanique datant de l'Ère des Premiers Titans, bien avant l'industrialisation. Ces méthodes sont moins invasives et plus durables, mais elles nécessitent une compréhension profonde des cycles et des "humeurs" du Titan, ainsi qu'un sacrifice rituel ou une forme d'offrande spirituelle. Les informations pourraient sauver *L'Éclosion* de la destruction, mais les Empires Autoritaires et le Consortium du Fer et du Ciel feront tout pour s'en emparer et les pervertir à leurs propres fins, cherchant à extraire la "recette" sans les "principes" de respect.
+3.  **La Dissonance Éthérique:** Le Culte des Murmures, en tentant de communier plus profondément avec l'énergie de *L'Éclosion*, est tombé sur une "fréquence" inattendue. Ils ont commencé à entendre des murmures terrifiants, des voix ancestrales déformées par des siècles de souffrance et de destruction provenant des profondeurs des Titans anciens (en particulier *Le Léviathan Industriel*). Ces murmures semblent non seulement révéler des vérités sombres sur la nature de l'Énergie Titanique (peut-être des échos d'une conscience collective souffrante), mais aussi influencer et corrompre ceux qui les entendent. Les membres du culte deviennent de plus en plus fanatiques et violents, cherchant à "purifier" l'Énergie Titanique de toute influence extérieure, quitte à détruire ceux qu'ils perçoivent comme des profanateurs. La question est : sont-ce des esprits, des résidus d'anciennes civilisations, ou une partie sombre de l'énergie elle-même qui réclame vengeance ou équilibre ? Les joueurs doivent choisir entre aider le culte égaré, le combattre, ou tenter de comprendre la source de ces murmures pour apaiser la dissonance.

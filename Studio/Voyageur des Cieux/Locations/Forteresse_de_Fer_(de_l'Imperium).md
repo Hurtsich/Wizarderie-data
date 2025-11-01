@@ -1,0 +1,33 @@
+# Forteresse de Fer (de l'Imperium)
+
+## Atmosphere & Description
+Perchée sur les crêtes déchiquetées du Titan Roc-Défense, la Forteresse de Fer est une cicatrice métallique et minérale sur la peau vivante du colosse. D'imposantes murailles de basalte renforcé et d'acier noirci défient les vents violents, hérissées de tourelles d'artillerie et de plateformes d'atterrissage pour navires volants. L'air y est vif et froid, imprégné de l'odeur âcre des carburants Titaniques et du métal chauffé. Visuellement, c'est un spectacle de géométrie implacable : des tours massives, des ponts suspendus traversant des gouffres naturels et des conduits d'aération crachant de la vapeur.
+Le son omniprésent est un bourdonnement grave, la respiration mécanique d'une entité industrielle. Il se mêle aux sifflements du vent, aux cliquetis des chaînes de garde, aux pas martiaux des Légionnaires de l'Imperium, et au rugissement lointain des moteurs des vaisseaux. L'atmosphère est celle d'une efficacité brutale et d'une discipline de fer. Une surveillance constante pèse sur quiconque foule ses couloirs ou ses cours fortifiées. On s'y sent minuscule, une rouage potentiel dans une machine gigantesque, où la puissance de l'Imperium est palpable à chaque instant.
+
+## Key Landmarks
+
+### La Tour de Commandement de l'Œil de Fer
+Dominant la forteresse, cette tour de basalte et de cristal sombre s'élève comme un pic artificiel au-dessus du Titan. Elle abrite les quartiers du Commandement Suprême, les centres de communication cryptés et une chambre de navigation stratégique. Au sommet, un gigantesque cristal Titanique poli irradie une faible lueur, servant de balise pour la flotte de l'Imperium et de canalisateur pour les énergies brutes du Titan, les transformant en signaux ou en puissance pour les défenses. C'est le cerveau de la forteresse, un symbole de la maîtrise de l'Imperium sur son environnement.
+
+### Les Docks Célestes de l'Aigle
+Sculptés directement dans les falaises abruptes du Titan, ces docks sont un vaste complexe de hangars, de plateformes d'amarrage et d'ateliers de maintenance. Des dizaines de navires de guerre, de transport et de reconnaissance de l'Imperium y sont ancrés, leurs coques polies reflétant les lueurs des générateurs. Des câbles massifs les retiennent, et des équipes de techniciens et de soldats s'affairent constamment à leur ravitaillement et à leur entretien. L'activité y est frénétique, une démonstration constante de la puissance aérienne de la Dent de Fer.
+
+### Les Fonderies de l'Épine
+Profondément enfouies sous les fortifications de surface, ces fonderies exploitent les gisements d'énergie du Titan Roc-Défense pour raffiner les cristaux et le gaz Titaniques. C'est un enfer de chaleur, de vapeurs et de bruit assourdissant. Des machines colossales, alimentées par la même énergie qu'elles traitent, triturent, purifient et moulent les ressources en lingots, cristaux stabilisés et réserves de gaz pressurisé. Des conduits incandescents et des rivières de métal en fusion traversent le complexe, symbolisant le cœur industriel et la source de la puissance économique et militaire de l'Imperium.
+
+## Points of Interest
+
+*   **Général Valerius "La Mâchoire d'Acier":** Commandant de la Forteresse de Fer. Un stratège impitoyable et un vétéran des Guerres des Cristaux. Il incarne la doctrine de l'Imperium : discipline, efficacité et contrôle absolu. Il est rarement vu en dehors de la Tour de Commandement, mais sa présence se fait sentir partout.
+*   **L'Archiviste Sélénia:** Chargée de la conservation des registres de l'Imperium, elle est une figure discrète et studieuse. Cependant, Sélénia a commencé à documenter en secret les effets dévastateurs de l'extraction intensive sur le Titan Roc-Défense, espérant trouver un moyen de ralentir le processus ou d'alerter des factions externes sans être découverte.
+*   **Le Marché Noir du Secteur Gamma:** Dissimulé dans les profondeurs industrielles de la forteresse, près des systèmes de ventilation inférieurs, ce marché clandestin est un refuge pour les dissidents et les contrebandiers. On peut y trouver des informations sensibles, des pièces détachées illicites ou même des artefacts Titaniques moins réglementés, échangés loin des regards de l'Imperium.
+
+## Legends & Myths
+
+**Les Murmures de la Roche Mère:** Une ancienne légende, souvent chuchotée par les ouvriers et les soldats de rang inférieur, raconte que le Titan Roc-Défense n'est pas mort, mais dort d'un sommeil agité. Les grincements sismiques occasionnels, les échos profonds des mines et les plaintes du vent dans les fissures sont interprétés comme les "murmures" du Titan, se plaignant de la douleur de son exploitation. Certains disent que si les forages continuent sans relâche, la "Roche Mère" finira par se réveiller dans une colère cataclysmique, balayant la Forteresse de Fer de son dos. Les officiers de l'Imperium répriment ces superstitions, les qualifiant de signes de faiblesse.
+
+## Connections
+
+*   **L'Imperium de la Dent de Fer:** La Forteresse est un pilier essentiel de l'Imperium, servant de centre névralgique pour ses opérations militaires et logistiques dans cette région. Elle contrôle la production et la distribution d'une part significative de l'énergie Titanique raffinée, alimentant les flottes et les villes de l'Empire.
+*   ***L'Éclosion* (Le Nouveau Titan):** La Forteresse de Fer est une base de déploiement majeure pour les forces de l'Imperium cherchant à coloniser et à exploiter *L'Éclosion*. Des expéditions de reconnaissance et des flottes de forage sont régulièrement préparées et lancées depuis ses docks célestes, le Général Valerius étant l'un des principaux architectes de cette campagne d'expansion.
+*   **Les Cités du Vent de Veridian:** En tant que bastion d'un Empire Autoritaire, la Forteresse de Fer est en opposition directe avec les idéaux écologiques des Cités du Vent. Des espions et des patrouilles de l'Imperium surveillent les mouvements des navires de Veridian, considérés comme des rivaux potentiels dans la course à *L'Éclosion* et comme des obstacles à leur doctrine d'exploitation des ressources.
+*   **La Faille de l'Oubli:** Bien que la Forteresse ne soit pas directement liée au Culte des Murmures, elle se méfie de toute forme de vénération des Titans non-étatique. Les agents de l'Imperium surveillent la Faille et ses pèlerins, craignant que l'énergie brute et les rituels du Culte ne perturbent l'équilibre et ne créent des instabilités nuisibles à leurs opérations minières.
