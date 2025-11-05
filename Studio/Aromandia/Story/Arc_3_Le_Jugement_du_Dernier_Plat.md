@@ -1,0 +1,69 @@
+### 1. Detailed Arc Summary
+
+"Le Jugement du Dernier Plat" est l'apogée émotionnelle et géopolitique de la campagne. L'arc central est le conflit entre la vérité glaçante et l'illusion délicieuse maintenue par le Grand Maître Caelus. Les Chefs-Aventuriers, après avoir découvert l'horrible secret du "Consommé de l'Éther", sont confrontés à la tâche monumentale de démasquer l'icône culinaire mondiale et son empire corrompu sur la scène la plus prestigieuse d'Aromandia : le sommet culinaire de Gastronomia Prime. Les enjeux pour les joueurs sont existentiels : leur liberté, leur survie, et la reconnaissance de la vérité. Pour le monde, les enjeux sont colossaux : la paix géopolitique actuelle, établie par le Traité des Saveurs, pourrait s'effondrer si le système est perçu comme compromis. L'ordre mondial basé sur la gastronomie serait ébranlé, plongeant potentiellement les nations dans une ère de suspicion ou, pire, de nouveaux conflits militaires. Le ton émotionnel sera un mélange intense d'intrigue politique, de suspense haletant, de la pression écrasante d'une compétition de haut niveau, et de l'horreur profonde que représente la révélation d'une vérité macabre et la trahison d'un héros adulé. Les joueurs devront naviguer entre l'artifice culinaire et l'enquête clandestine, la performance publique et les manœuvres secrètes, tout en faisant face aux dilemmes moraux que représente le sacrifice de l'illusion pour la vérité.
+
+### 2. Inciting Incident
+
+L'arc s'ouvre avec une invitation inattendue ou une opportunité cruciale : le Grand Maître Caelus annonce le "Sommet Ultime des Saveurs" à Gastronomia Prime, la plus grande compétition culinaire jamais organisée. Ce sommet promet de redessiner les cartes géopolitiques et de cimenter l'héritage culinaire du Phénix pour toujours. Les Chefs-Aventuriers, désormais recherchés et opérant dans l'ombre, entendent que tous les chefs de renom et les dignitaires mondiaux seront présents. C'est leur seule et unique chance de révéler la vérité à l'échelle mondiale, une fenêtre d'opportunité étroite avant que l'influence du Grand Maître ne devienne absolument inébranlable. Ils reçoivent un message codé, potentiellement des Cuisiniers de l'Ombre ou d'un allié interne au Conseil, leur indiquant comment s'infiltrer ou obtenir une place (même sous un faux nom) dans les préliminaires du Sommet. Le message insiste sur l'urgence : le Phénix prévoit d'utiliser le Consommé de l'Éther pour le plat final, un événement qui scellera son emprise émotionnelle sur le monde.
+
+### 3. Key Phases & Rising Action
+
+#### Phase 1: L'Infiltration Gourmande et les Premiers Contactes (Gastronomia Prime)
+*   **Objectif:** S'infiltrer à Gastronomia Prime, obtenir une place dans le Sommet Ultime des Saveurs (directement ou par procuration), et établir des contacts avec des alliés potentiels ou des sources d'informations clés.
+*   **Événements:**
+    *   Les PJ doivent trouver un moyen d'entrer dans Gastronomia Prime sans être détectés par les agents de l'Empire du Phénix. Cela peut impliquer des déguisements, des falsifications de documents, ou l'utilisation de passages secrets connus des Cuisiniers de l'Ombre.
+    *   Participer à des épreuves préliminaires du Sommet sous une fausse identité, ou trouver un chef allié de confiance pour les représenter.
+    *   Rencontrer discrètement Maître Auguste Renard du Cercle de la Toque Originelle pour gagner sa confiance et obtenir des informations sur les rouages internes du Conseil Culinaire Mondial. Ou contacter Silas 'Le Corbeau' Dubois pour des ressources logistiques et des plans d'urgence.
+*   **Enjeux relevés:** La survie des PJ dépend de leur capacité à rester anonymes tout en progressant dans un environnement hyper-surveillé. La moindre erreur peut signifier la capture et l'échec de leur mission.
+*   **Défis/Rencontres:** Agents de l'Empire du Phénix (Isabelle Vacheron ou ses subordonnés), chefs rivaux suspicieux, défis culinaires complexes nécessitant des compétences créatives et d'investigation. Dilemme moral : doivent-ils compromettre légèrement leurs propres principes culinaires pour gagner les préliminaires et s'assurer une place ?
+
+#### Phase 2: La Course aux Saveurs et la Preuve Ultime (Gastronomia Prime / Le Labyrinthe)
+*   **Objectif:** Progresser dans les étapes du Sommet Culinaire pour se rapprocher de la finale, tout en menant une course contre la montre pour acquérir la preuve irréfutable de l'existence du Labyrinthe des Âmes Perdues et du Consommé de l'Éther.
+*   **Événements:**
+    *   Les PJ (ou leur proxy) affrontent des duels culinaires aux enjeux élevés, où chaque plat peut sceller le sort d'une nation. Ils doivent maintenir une performance impeccable pour ne pas éveiller les soupçons et rester dans la course.
+    *   Une mission secondaire (ou simultanée) pour infiltrer le Labyrinthe des Âmes Perdues. Les PJ doivent trouver un moyen de localiser le Labyrinthe (peut-être grâce à des indices laissés par la Grande Prêtresse Lyra ou des documents volés à l'Empire) et y récupérer un échantillon du Consommé de l'Éther ou une preuve visuelle de l'horreur qui s'y déroule.
+    *   Le Grand Maître Caelus commence à observer de plus près les PJ, intrigué par leur talent ou leur audace, sans soupçonner leur véritable identité ou objectif.
+*   **Enjeux relevés:** La pression des compétitions est intense, avec des conséquences géopolitiques réelles. Le temps est compté avant la finale et la potentielle utilisation massive du Consommé. L'infiltration du Labyrinthe est extrêmement dangereuse, avec des gardiens et des pièges mortels.
+*   **Défis/Rencontres:** Golems de Porcelaine et Spectres du Chagrin dans le Labyrinthe, mages-épicuriens de l'Empire tentant de saboter ou d'espionner leurs créations, dilemme de savoir si et comment manipuler leurs propres plats pour des objectifs non culinaires (par exemple, un plat qui "révèle la vérité" si infusé avec un ingrédient spécial).
+
+#### Phase 3: Le Dernier Plat et la Révélation (Gastronomia Prime)
+*   **Objectif:** Mettre en œuvre le plan pour démasquer le Grand Maître Caelus lors de la Grande Finale du Sommet, devant le Conseil Culinaire Mondial et le public international.
+*   **Événements:**
+    *   La Grande Finale. Les PJ sont parmi les finalistes (ou travaillent en coulisses avec un finaliste). Le Grand Maître Caelus se prépare à servir son plat "ultime", presque certainement préparé avec le Consommé de l'Éther.
+    *   Le plan de révélation est activé : cela peut impliquer un échange de plats, une projection holographique des preuves recueillies dans le Labyrinthe, un témoignage clé d'un allié, ou une confrontation directe où les PJ révèlent l'origine monstrueuse de la "profondeur de saveur divine" du Grand Maître.
+    *   La sécurité de l'Empire du Phénix tente d'intercepter la révélation, menant à une course-poursuite ou un combat au sein de l'arène ou dans les coulisses.
+*   **Enjeux relevés:** C'est le tout ou rien. L'échec signifie la capture, la mort, et la victoire du Grand Maître. Le succès signifie un bouleversement mondial sans précédent.
+*   **Défis/Rencontres:** Agents d'élite de l'Empire du Phénix (Isabelle Vacheron en personne), le Grand Maître lui-même utilisant son charisme et ses propres capacités (peut-être des capacités occultes liées au chagrin) pour manipuler la situation et discréditer les PJ. Les PJ devront faire un choix difficile : compromettre le Sommet et la paix pour la vérité, ou céder à la pression ?
+
+### 4. Climax
+
+Le climax se déroule dans la majestueuse Grande Arène des Saveurs de Gastronomia Prime, devant les caméras du monde entier et les yeux perçants du Conseil Culinaire Mondial, mené par la Présidente Elara Vance. Le Grand Maître Caelus s'apprête à présenter son "Plat de la Réconciliation", un consommé d'une perfection surnaturelle qui promet d'unir les nations. Au moment où les juges s'apprêtent à goûter, les Chefs-Aventuriers exécutent leur plan final. Cela pourrait être une projection holographique montrant des images du Labyrinthe des Âmes Perdues et la récolte du chagrin, ou la présentation d'un contre-plat, subtilement altéré, qui révèle la vérité de l'Éther à ceux qui le goûtent, ou l'échantillon physique du Consommé de l'Éther testé par une méthode d'analyse arcanique validée.
+
+Le Grand Maître Caelus, 'Le Phénix', est l'antagoniste principal. Il se démasque alors, passant de l'icône élégante au monstre calculateur et cruel. Il tente de discréditer les PJ, de semer le doute, d'accuser le sabotage ou la jalousie, et pourrait même libérer des Spectres du Chagrin ou utiliser ses golems de porcelaine pour créer la confusion et étouffer la vérité. Les joueurs doivent non seulement présenter leurs preuves de manière convaincante, mais aussi survivre à l'assaut et défendre leurs alliés.
+
+Les choix difficiles sont nombreux : Faut-il sacrifier la vie d'innocents pour exposer la vérité au monde ? Quel degré de destruction du Sommet est acceptable pour empêcher le Grand Maître de l'emporter ? Comment réagir face à la fureur du Phénix et à l'incrédulité du public ? Leur action déclenchera une série de réactions en chaîne, et le monde ne sera plus jamais le même.
+
+### 5. Aftermath & Transition
+
+L'immédiat après-climax est le chaos. Le Conseil Culinaire Mondial est plongé dans la consternation, la Présidente Elara Vance devant maintenir l'ordre et démêler le vrai du faux. L'Empire du Phénix subit un coup dévastateur, sa façade brisée, mais ses agents et ses liens occultes restent actifs, cherchant à éliminer les témoins et à se venger. Le Grand Maître Caelus, si capturé, sera un prisonnier d'une importance inimaginable, sa chute entraînant un vide de pouvoir immense. Si les joueurs ont échoué à le capturer, il devient un fugitif dangereux, cherchant à se reconstruire dans l'ombre.
+
+Le monde d'Aromandia est sous le choc. La "délicieuse illusion" est brisée, le héros vénéré est un monstre. Les traités de paix sont remis en question, la confiance entre nations est ébranlée. De nouvelles factions peuvent émerger, cherchant à tirer parti du chaos. Les Chefs-Aventuriers, s'ils ont réussi, sont désormais des héros controversés, à la fois célébrés pour leur courage et blâmés par certains pour avoir brisé la paix.
+
+**Plot Hooks pour le prochain arc:**
+*   La traque des agents restants de l'Empire du Phénix et la neutralisation de leurs liens occultes.
+*   La découverte d'autres "Labyrinthes des Âmes Perdues" à travers le monde, cachés par les alliés du Grand Maître.
+*   La reconstruction du Conseil Culinaire Mondial et la redéfinition de la géopolitique post-Phénix.
+*   La recherche d'un moyen de libérer les âmes emprisonnées dans le Labyrinthe et de guérir l'Éther des Émotions, avec l'aide des Gardiens des Larmes.
+*   La Déesse de l'Abondance est-elle en colère ? La Dame des Larmes se réveille-t-elle ?
+
+### 6. Key NPCs in this Arc
+
+*   **Le Grand Maître Caelus, 'Le Phénix':** L'antagoniste principal de cet arc. Son rôle est de maintenir l'illusion de sa perfection culinaire tout en préparant son coup de maître final. Il sera le manipulateur derrière les épreuves du Sommet, l'adversaire final des Chefs-Aventuriers, et la cible de leur révélation. Il interagit avec les joueurs par l'intermédiaire de ses agents, de sa réputation écrasante, et finalement, en confrontation directe. Son objectif est de cimenter son pouvoir et son héritage par le "Plat de la Réconciliation".
+*   **Présidente Elara Vance:** La dirigeante suprême du Conseil Culinaire Mondial. Elle est la figure d'autorité ultime, obsédée par l'ordre et l'impartialité. Elle est l'arbitre que les PJ doivent convaincre de la vérité, malgré l'immense prestige du Phénix. Son rôle est d'être la destinataire finale de la révélation, celle qui devra rendre un jugement qui changera le monde. Elle interagit avec les joueurs en tant que juge potentiel, mais aussi en tant qu'obstacle involontaire en raison de sa foi dans le système.
+*   **Maître Auguste Renard:** Le chef respecté du Cercle de la Toque Originelle. Il se méfie profondément de la magie culinaire du Phénix et représente la voix de la tradition et de l'intégrité. Il peut servir d'allié crucial, offrant des conseils sur le protocole du Conseil, une aide logistique discrète, ou même un soutien public si les PJ parviennent à gagner sa confiance avant le grand événement. Il interagit avec les joueurs comme un mentor potentiel ou un allié critique dans la quête de la vérité.
+
+### 7. Key Locations in this Arc
+
+*   **Gastronomia Prime:** La ville entière est le théâtre principal de cet arc. C'est le centre névralgique du pouvoir, de l'intrigue et de la compétition culinaire. Les rues animées, les marchés luxueux, les gratte-ciel de l'Empire du Phénix et, surtout, la Grande Arène des Saveurs, sont des lieux où les joueurs devront naviguer, enquêter, se cacher et finalement faire leur grande révélation.
+*   **Le Labyrinthe des Âmes Perdues:** Bien que potentiellement hors de Gastronomia Prime, la découverte de son existence et l'obtention de preuves de ce lieu sont fondamentales pour le climax. Une mission d'infiltration pourrait y être menée en parallèle des compétitions, ou un réseau d'espions pourrait y être envoyé pour récupérer des échantillons ou des enregistrements vidéo à présenter. Sa destruction ou sa révélation est la clé pour prouver la monstruosité du Grand Maître.
+*   **La Grande Arène des Saveurs (au sein de Gastronomia Prime):** C'est le lieu spécifique de la confrontation finale et de la révélation. Cette arène emblématique, symbole de la paix et de la compétition culinaire mondiale, deviendra le théâtre de l'affrontement entre la vérité et l'illusion. Ses cuisines de pointe, ses loges VIP, ses systèmes holographiques et ses plateformes de dégustation seront des éléments cruciaux pour la mise en scène du plan des Chefs-Aventuriers.

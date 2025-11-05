@@ -1,0 +1,39 @@
+{
+  "npcs": [
+    {
+      "name": "Le Grand Maître Caelus, 'Le Phénix'",
+      "description": "L'icône culinaire mondiale adulée, un homme d'une élégance et d'un charisme sans faille qui dissimule une cruauté monstrueuse, convaincu que le chagrin est l'ingrédient ultime pour atteindre la perfection.",
+      "representation": "Caelus est un homme d'âge mûr d'une beauté surnaturelle, avec des cheveux argentés impeccablement coiffés en arrière et des yeux violets perçants qui semblent sonder l'âme. Il porte une veste de chef d'un blanc immaculé, brodée de fils d'or représentant un phénix aux ailes déployées, sur un pantalon noir ajusté et des chaussures en cuir polies comme des miroirs. Sa posture est toujours droite, son expression un masque de sérénité bienveillante et de confiance absolue, mais un observateur attentif pourrait déceler une froideur prédatrice dans son sourire et la façon dont ses longs doigts fins caressent distraitement un couteau de chef orné de joyaux, suspendu à sa ceinture comme une épée de cérémonie."
+    },
+    {
+      "name": "Isabelle 'La Lame' Vacheron",
+      "description": "Cheffe exécutive et assassin d'élite de l'Empire du Phénix, une poursuivante implacable et sadique qui voit dans la chasse des traîtres une forme d'art culinaire.",
+      "representation": "Isabelle est une femme athlétique d'une trentaine d'années, au regard d'acier et aux cheveux noirs de jais coupés en un carré strict qui encadre un visage aux traits anguleux. Elle porte une tenue de combat fonctionnelle mais élégante, entièrement noire, composée d'un plastron en cuir renforcé sur une combinaison souple, ainsi que de nombreuses lanières où sont attachés des couteaux de lancer aux formes de divers ustensiles de cuisine. Son expression est un mélange de concentration intense et de dédain à peine voilé, et elle se déplace avec la grâce silencieuse et précise d'un prédateur, ses mains gantées ne s'éloignant jamais de la panoplie de lames qui constitue à la fois ses outils de travail et ses armes."
+    },
+    {
+      "name": "Maître Auguste Renard",
+      "description": "Le chef respecté et traditionaliste du Cercle de la Toque Originelle, un homme bourru mais juste qui se méfie profondément de la 'magie' culinaire du Phénix et pourrait devenir un allié crucial.",
+      "representation": "Auguste Renard est un homme corpulent et âgé, avec une moustache blanche touffue et des joues roses qui témoignent d'une vie de bonne chère. Il porte une toque de chef classique, légèrement jaunie par le temps, et un tablier de lin épais taché de dizaines d'années de créations culinaires, par-dessus une simple chemise à carreaux. Ses mains sont larges et calleuses, mais ses gestes sont d'une précision délicate lorsqu'il manipule des ingrédients. Son regard, sous des sourcils broussailleux, est vif et critique, souvent plissé par le scepticisme, mais capable de s'illuminer d'une chaleur paternelle lorsqu'il parle de l'art véritable de la cuisine."
+    },
+    {
+      "name": "Silas 'Le Corbeau' Dubois",
+      "description": "Le chef de file méfiant et pragmatique des Cuisiniers de l'Ombre, un survivant endurci qui opère depuis les Montagnes de Fer-Froid pour démanteler l'Empire du Phénix.",
+      "representation": "Silas est un homme décharné d'une quarantaine d'années, le visage buriné par le vent glacial des montagnes et marqué par une cicatrice qui traverse son sourcil gauche. Ses cheveux noirs sont longs et noués en une queue de cheval négligée, et une barbe de plusieurs jours assombrit sa mâchoire carrée. Il est vêtu de plusieurs couches de fourrures sombres et de cuir usé, avec une grande poêle en fonte attachée à son sac à dos qui lui sert autant à cuisiner qu'à se défendre. Son regard est celui d'un animal traqué, constamment en mouvement, et il se tient légèrement voûté, une main toujours proche d'un long couteau de dépeçage glissé dans sa ceinture."
+    },
+    {
+      "name": "Grande Prêtresse Lyra",
+      "description": "La guide énigmatique et sereine des Gardiens des Larmes sur les Îles Épicées d'Aetheria, possédant une connaissance profonde de l'Éther des Émotions et de la corruption du Phénix.",
+      "representation": "Lyra est une femme d'un âge indéterminé, à la peau mate et aux longs cheveux blancs tressés de fleurs bioluminescentes qui projettent une douce lueur. Ses yeux sont d'un bleu si pâle qu'ils semblent presque transparents, et des marques rituelles en spirale, tracées à l'encre argentée, ornent ses tempes et le dos de ses mains. Elle est vêtue d'une robe fluide faite de soie tissée à partir de feuilles d'épices, dont les couleurs changent subtilement avec la lumière. Sa présence est apaisante et éthérée, elle se déplace sans bruit et parle d'une voix douce et mélodieuse qui semble résonner avec l'énergie mystique des îles."
+    },
+    {
+      "name": "Présidente Elara Vance",
+      "description": "La dirigeante suprême du Conseil Culinaire Mondial, une femme politique redoutable et obsédée par l'ordre, dont l'impartialité sera la clé du jugement final du Phénix.",
+      "representation": "Elara Vance est une femme d'une soixantaine d'années, grande et mince, à la posture rigide et impérieuse. Ses cheveux gris acier sont coupés en un chignon strict, et son visage est un masque de neutralité polie, rarement trahi par une émotion. Elle porte un costume taillé sur mesure d'une couleur neutre, orné uniquement de la broche dorée du Conseil Culinaire Mondial – une balance tenant un couteau et une fourchette. Elle est souvent vue avec une tablette de données à la main, ses yeux perçants balayant des informations derrière des lunettes sans monture."
+    },
+    {
+      "name": "Kaelen des Pics de Fer-Froid",
+      "description": "Une cheffe-survivante et herboriste solitaire des Montagnes de Fer-Froid, qui ne fait confiance à personne mais possède une connaissance inégalée des ingrédients rares et des sentiers cachés.",
+      "representation": "Kaelen est une femme robuste à la peau tannée par les intempéries et aux muscles dessinés par une vie de labeur. Ses cheveux roux flamboyants sont coiffés en une multitude de tresses serrées, ornées de perles d'os et de métal. Elle porte des vêtements pratiques en peaux et en laine épaisse, un lourd manteau de fourrure jeté sur ses épaules, et de solides bottes de montagne. Un grand sac d'herboriste est constamment en bandoulière sur sa poitrine, rempli de plantes séchées, de racines et de champignons étranges. Son expression est stoïque et son regard direct, elle parle peu et observe beaucoup, son piolet toujours à portée de main."
+    }
+  ]
+}

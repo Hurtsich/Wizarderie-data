@@ -1,0 +1,44 @@
+### Descriptions de Zones
+
+#### Les Îles Épicées d'Aetheria (Vue générale, approche en journée)
+« Un spectacle éblouissant s'offre à vos yeux alors que votre vaisseau fend les airs. Sous vous s'étendent les Îles Épicées d'Aetheria, un chapelet d'émeraudes luxuriantes flottant sur un océan d'un bleu profond et scintillant. L'air, même à cette altitude, est imprégné d'un voile de brume chaude et parfumée, un mélange complexe de poivre stellaire piquant, de cardamome douce et de fleurs exotiques aux senteurs inouïes. Des palmiers géants se dressent, leurs frondes abritant des oiseaux aux plumages vifs et aux chants étranges et mélodieux. Des lianes luminescentes s'entrelacent autour d'arbres ancestraux, et sur les rivages, des cascades se jettent dans des lagons turquoise. Une énergie palpable vibre autour de vous, comme si le monde lui-même respirait, et parfois, un murmure éolien porte des fragments d'émotions diffuses – un rire lointain, un soupir éthéré – qui semblent n'appartenir à personne et à tous. C'est un lieu d'une beauté ensorcelante et d'une richesse sensorielle étourdissante. »
+
+#### La Pointe des Murmures (Au crépuscule)
+« Le soleil déclinant jette de longues ombres sur la Pointe des Murmures, cette formation rocheuse naturelle qui culmine au-dessus des canopées. Érodée par les vents salins, elle ressemble à une sculpture vivante. Alors que vous vous en approchez, un vent froid et singulier, distinct de la brise marine, vous frappe, portant avec lui une symphonie de murmures insaisissables. Ce ne sont pas des paroles, mais des échos d'émotions : un chagrin infini, une joie fugace, une colère étouffée. La brume éthérée, plus dense ici, scintille faiblement, et l'on jurerait apercevoir des formes translucides se mouvoir en périphérie de votre vision. Une odeur d'encens et de terre humide, mêlée à une touche de sel marin, empli l'air, soulignant le caractère sacré et mystérieux de ce lieu. Le voile entre les mondes semble ici d'une finesse à la fois sublime et terrifiante. »
+
+#### Le Cœur Verdoyant (Profondeur de la jungle, après la pluie)
+« Une pluie tropicale vient de s'apaiser, laissant la jungle ruisselante et intensément parfumée. Au cœur de l'île principale, le Cœur Verdoyant est une forêt primaire d'une densité étouffante. Des arbres millénaires aux écorces irisées s'élèvent, leurs canopées filtrant la lumière en un patchwork d'or et de vert sombre. Chaque feuille, chaque fleur brille d'une humidité scintillante. Le sol est un tapis vivant de mousses chatoyantes et d'herbes aux couleurs irréelles, exhalant des arômes de terre riche, d'épices naissantes et de quelque chose d'indéfinissable, d'énergique. Des bruits discrets de créatures cachées vous entourent, mais au-delà de la vie animale, il y a un silence profond, presque révérencieux, comme si la forêt elle-même retenait son souffle, consciente des Lignes de Goût qui plongent ici et nourrissent une flore aux propriétés sans égales. »
+
+#### Les Marchés Flottants de Zéphyr (En pleine activité)
+« Au large des côtes, des centaines de radeaux et de petites embarcations forment un labyrinthe grouillant et coloré : les Marchés Flottants de Zéphyr. L'air est une cacophonie joyeuse de cris de vendeurs, de négociations animées et du clapotis incessant des vagues contre les coques. L'odeur est un festival en soi : épices fraîches, herbes exotiques, poisson grillé, fruits sucrés et l'encens apaisant des petits sanctuaires flottants se mêlent en un tourbillon enivrant. Des toiles tendues protègent du soleil, créant des couloirs d'ombre mouvante entre les stands débordant de pots d'herbes rares, de paniers de fruits éclatants et d'artefacts mystérieux. Chaque interaction semble rapide, chargée de sous-entendus, et les regards sont furtifs, suggérant que bien plus que de simples épices s'échangent ici. »
+
+### Descriptions de Personnages & Manières
+
+#### Grande Prêtresse Lyra
+*   **Description Physique :** « Devant vous se tient la Grande Prêtresse Lyra, une femme d'un âge indéterminé. Sa peau est mate, et de longs cheveux blancs, tressés avec des fleurs bioluminescentes, dégagent une douce lueur. Ses yeux, d'un bleu si pâle qu'ils semblent presque transparents, sont encadrés de marques rituelles en spirale, tracées à l'encre argentée sur ses tempes et le dos de ses mains. Elle porte une robe fluide, faite d'une soie tissée à partir de feuilles d'épices, dont les couleurs changent subtilement avec la lumière ambiante. Son allure est sereine et éthérée, presque insaisissable. »
+*   **Manières :** Lyra se déplace avec une grâce silencieuse, ses pieds semblant à peine effleurer le sol. Ses mains fines et élégantes se joignent souvent en un geste de méditation, ou caressent distraitement les perles d'un collier d'os poli. Sa voix est douce et mélodieuse, comme un chant lointain, qui résonne avec une profonde sagesse. Elle parle souvent par aphorismes ou des allusions, mais toujours avec une bienveillance tranquille. Son regard, bien que pâle, semble sonder l'âme, et elle a l'habitude de ponctuer ses phrases de pauses réfléchies.
+
+### Descriptions d'Objets Clés
+
+#### Les Perles de Rosée Aetheriennes
+« Dans le creux de la feuille d'une orchidée rare, vous distinguez plusieurs minuscules perles de rosée, plus grosses et plus lumineuses que de l'eau ordinaire. Elles scintillent d'un éclat intérieur et projettent de subtils reflets arc-en-ciel. À les regarder, une vague de sérénité mélancolique vous envahit, et un léger parfum de jasmin et de larmes séchées s'en dégage. Elles semblent vibrer d'une énergie douce et froide. »
+
+#### Le Calice des Larmes Anciennes (dans le Sanctuaire de Lyra)
+« Au centre d'un autel de pierre brut et ancien, éclairé par de douces bougies à la cire d'épices, se trouve un calice d'argent d'une facture exquise, son métal noirci par le temps et orné de gravures complexes de larmes et de spirales éthérées. De son bord s'écoule non pas un liquide, mais une brume chatoyante et constante qui ne se dissipe jamais, emplissant l'air d'une fraîcheur apaisante. Cette brume semble presque vivante, tourbillonnant et ondoyant doucement, comme le souffle d'un esprit ancien. »
+
+#### Le "Couteau Révélateur" d'un Agent du Phénix
+« Vous trouvez un couteau de chef d'une qualité exceptionnelle. Sa lame est d'un acier chirurgicalement poli, son manche en polymère noir est ergonomique et froid au toucher. Mais ce n'est pas un ustensile ordinaire : de minuscules capteurs discrets sont incrustés le long du dos de la lame, et une lueur violette à peine perceptible pulse au niveau de la garde. En le tenant, vous avez l'impression qu'il ne sert pas seulement à trancher, mais à analyser, à sonder, peut-être même à dénaturer. »
+
+### Lore & Légendes
+
+#### Snippets de Lore sur Aetheria
+*   **(De la Grande Prêtresse Lyra, avec une douceur mélancolique) :** « Les légendes murmurent que nos îles sont nées des larmes mêmes de la Dame des Larmes, un chagrin si pur qu'il a donné vie à cette flore exquise et rendu le voile entre nos mondes si fin. Chaque perle de rosée sur une fleur sacrée à l'aube est un écho de ses sanglots, un don de clairvoyance pour qui sait les recueillir. Mais le chagrin est un pouvoir à double tranchant, et certains cherchent à le pervertir. »
+*   **(Par un cueilleur local aux Marchés Flottants, avec un clin d'œil) :** « Oh, le Cœur Verdoyant ? Une belle bête. L'Esprit Gardien de la Forêt y veille. Si vous le mettez en colère, les tempêtes éthérées et les poisons vous attendent. Mais s'il vous sourit... alors vos récoltes seront les plus savoureuses que vous ayez jamais goûtées. Faut juste savoir comment lui parler, avec respect, et quelques offrandes... »
+*   **(Trouvé sur un parchemin ancien dans le Sanctuaire de Lyra) :** « Le flux de l'Éther des Émotions, ici, est le plus puissant. Les Lignes de Goût ne sont pas seulement terrestres, elles sont célestes. Les saveurs des plantes d'Aetheria sont des échos des sentiments primaires : la passion du poivre, la tristesse du tamarin, la joie des fleurs de lune. Qui les comprend, comprend le cœur du monde. »
+
+### Dialogue Exemple
+
+#### Grande Prêtresse Lyra
+*   « Le monde ne voit que la beauté et l'opulence ici, mais sentez-vous cette résonance ? C'est le cœur d'Aromandia qui bat, une symphonie de vie et d'émotion, et une cible pour ceux qui veulent la réduire au silence. »
+*   « Le chagrin est une rivière, mes chers. Il doit couler. Le retenir, le confiner, le purifier pour un goût ? C'est une profanation qui engendre un vide que même la plus exquise des saveurs ne saurait combler. »
+*   « Ce que le Phénix cherche ici, ce n'est pas seulement l'ingrédient rare, mais la source elle-même. La frontière entre la vie et ce qui la nourrit... il veut la franchir, la tordre, et en faire son jouet. Nous ne pouvons pas le laisser faire. »

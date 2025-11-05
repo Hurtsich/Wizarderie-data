@@ -1,0 +1,56 @@
+### Descriptions des Lieux
+
+**1. L'Atmosphère de Perfection Stérile (Première Impression)**
+> L'air de la Retraite du Phénix n'est pas simplement pur ; il est **purifié**, filtré, chaque molécule d'oxygène et d'arôme contrôlée avec une précision chirurgicale. Autour de vous, les surfaces immaculées de la cuisine scintillent sous un éclairage doux et directionnel, reflétant l'acier chromé des plans de travail et l'éclat hypnotique des Fours à Fusion Aromatique intégrés aux murs. Un silence oppressant règne, à peine rompu par le murmure presque inaudible des systèmes de ventilation, le cliquetis occasionnel d'un Golem de Porcelaine glissant sur le sol poli, ou le son discret de vos propres préparations. Les arômes flottent, parfaits, presque artificiels dans leur sublime équilibre : une note d'agrumes cristallins ici, un soupçon de fumée de bois rare là, le tout composant une symphonie aromatique sans âme, une perfection qui masque un vide.
+
+**2. Au Poste de Travail (Exécution des Tâches)**
+> Votre poste de travail est une merveille de technologie arcanique et culinaire. Un écran holographique interactif projette devant vous une cascade de données : la structure moléculaire d'un bouillon, la courbe de température idéale pour une réduction, ou les instructions détaillées pour un dressage microscopique. Sous vos mains, les ustensiles en alliage léger semblent prolonger vos doigts. De petits réplicateurs de textures bourdonnent discrètement, prêts à ajuster le croquant d'une tuile ou la viscosité d'une gelée. Chaque surface en acier inoxydable brille comme un miroir, si parfaite qu'elle semble vous reprocher le moindre grain de poussière. Le sentiment d'être à la fois un artiste et un chirurgien est omniprésent.
+
+**3. Les Étagères d'Épices (Zone de l'Anomalie Potentielle)**
+> Sur un mur entier s'étend une bibliothèque d'arômes, les **Étagères d'Épices Architectoniques**. Des centaines, voire des milliers de jarres de verre soufflé, chacune contenant des épices et des herbes rares provenant des quatre coins d'Aromandia, s'élèvent du sol au plafond. Elles sont organisées avec une rigueur obsessionnelle, classées par provenance, par profil aromatique, par date de récolte. L'ensemble est un vestige d'un style plus ancien, avec des motifs gravés dans le bois sombre qui contrastent subtilement avec la modernité clinique de la cuisine. C'est en vous approchant de cette section, peut-être pour chercher une pincée de Fleur de Solstice ou une feuille de Brise Éthérée, que l'anomalie commence à se manifester : un courant d'air plus froid, une jarre légèrement décalée, une vibration presque imperceptible.
+
+**4. L'Ouverture du Passage Secret**
+> Avec un grincement presque inaudible – un son que la perfection de la cuisine n'aurait jamais dû produire – une section entière des étagères pivote vers l'intérieur ou s'escamote avec un mouvement de mécanique complexe et silencieuse. Une entaille béante se révèle dans le mur, un passage sombre et métallique menant vers les profondeurs de la Retraite. Un courant d'air froid et pesant, imprégné d'une odeur métallique plus prononcée, presque une effluve de vieille pierre et de confinement, s'en échappe, chassant les arômes sophistiqués de la cuisine. L'obscurité y est dense, une absence totale de la lumière chirurgicale qui baigne la pièce. Le contraste est saisissant, presque choquant, entre la lumière opulente et la promesse d'une vérité sinistre.
+
+### Descriptions des Personnages & Manières
+
+**Golem de Porcelaine (x3)**
+*   **Description Physique :** Les Golems de Porcelaine sont des automates élégants, mesurant environ 1,80 mètre, façonnés dans une porcelaine blanche immaculée polie à la perfection. Leurs formes sont longilignes et fluides, sans coutures apparentes, à l'exception de leurs articulations articulées qui permettent des mouvements d'une grâce mécanique. Là où d'autres créatures ont des yeux, ils possèdent de multiples capteurs optiques, noirs et brillants, qui balayent leur environnement avec une précision robotique. Certains Golems peuvent être équipés de plateaux rétractables ou d'outils de nettoyage intégrés.
+*   **Gestes & Attitudes :**
+    *   **Mouvements :** Ils se déplacent avec une fluidité silencieuse, glissant sur le sol sans bruit. Chaque geste est d'une précision parfaite, sans hésitation ni mouvement superflu.
+    *   **"Observation" :** Leurs capteurs optiques pivotent et s'attardent parfois sur un élément hors de l'ordre (une gouttelette d'eau, une légère trace), avant de s'approcher pour corriger la situation.
+    *   **Avertissement non-verbal :** En cas d'anomalie ou de comportement "inapproprié" des joueurs, un Golem peut s'approcher à une distance respectueuse, ses capteurs s'attardant sur le joueur ou la zone incriminée, puis émettre un *sifflement mécanique* très faible, presque un soupir d'air comprimé, avant de reprendre sa tâche. Cela suggère la surveillance sans confrontation directe.
+    *   **Nettoyage :** Ils sont obsédés par la propreté. Un Golem peut passer et nettoyer une zone qui semble déjà immaculée, avec une petite brosse intégrée ou un jet de vapeur purifiante.
+
+### Descriptions des Objets Clés
+
+**1. Postes de Travail Ultra-Modernes**
+> Chaque poste est une symphonie de verre tactile, de chrome étincelant et de capteurs intégrés. L'écran holographique flottant au-dessus du plan de travail projette des recettes en 3D, des analyses gustatives complexes et des rappels de protocoles du Grand Maître. Des bras articulés sortent discrètement de la surface, présentant des outils à lames vibrantes, des pipettes de précision ou des réplicateurs de textures miniatures, capables de créer une perle de caviar végétal ou d'ajuster la caramélisation d'une noix à l'échelle moléculaire. Une lueur douce émane de sous les plans de travail, éclairant vos mains avec une efficacité chirurgicale.
+
+**2. Fours à Fusion Aromatique**
+> Intégrés sans jointure dans les murs de la cuisine, ces fours semblent être des plaques de verre noir profond, presque invisibles lorsqu'ils sont éteints. Mais lorsqu'ils sont en fonction, un cœur incandescent de plasma arcanique pulse derrière le verre, et de délicats motifs lumineux parcourent leur surface. Ils ne cuisent pas au sens traditionnel ; ils "fusionnent les arômes", transformant les ingrédients avec une précision moléculaire pour en extraire l'essence la plus pure ou pour créer des combinaisons gustatives inattendues. Un léger frémissement sonore et une chaleur subtile émanent d'eux, portant des effluves de cuisson d'une perfection intimidante.
+
+**3. Étagères d'Épices Architectoniques (Section de l'Anomalie)**
+> Cette section des étagères se distingue par un bois plus sombre et plus dense, orné de gravures complexes : des vrilles de plantes stylisées, des symboles de saveurs ancestrales, et des motifs répétitifs qui, à y regarder de près, pourraient ressembler à des schémas d'énergie ou à une écriture oubliée. Un ensemble de bocaux, remplis de poudres multicolores et de feuilles séchées, y est légèrement désaligné – à peine perceptible, mais suffisant pour briser l'ordre autrement absolu de la cuisine. Le bocal d'une épice nommée "Larme de Dragon" ou "Poussière d'Étoile du Chef" pourrait être la clé, un peu plus lourd ou plus léger que les autres, ou doté d'un capuchon qui ne se visse pas tout à fait de la même manière. Le bois autour de lui semble usé, comme poli par de fréquentes manipulations.
+
+**4. Le Mécanisme du Passage Secret**
+> En examinant l'anomalie plus en détail, vous découvrez qu'un des motifs gravés sur le bois de l'étagère – peut-être une feuille de chêne stylisée ou un petit symbole de gouttelette – n'est pas fixe. Il s'agit en fait d'un bouton dissimulé ou d'un loquet finement intégré, presque invisible à l'œil nu. Le bocal d'épices voisin, celui qui est décalé, semble être le contrepoids ou le déclencheur : le déplacer d'une certaine manière, le faire pivoter, ou le soulever révèle une fente minuscule, dans laquelle un instrument fin (une brochette de précision, une aiguille) pourrait être inséré. La texture du bois autour du mécanisme est légèrement plus lisse, comme polie par de fréquentes manipulations.
+
+### Lore & Légendes
+
+**1. Sur la Perfection du Grand Maître :**
+> "On dit que le Grand Maître Caelus ne cuisine jamais ; il orchestre. Chaque plat est une symphonie préméditée, chaque saveur un instrument joué à la perfection. Il a transcendé le besoin d'expérimentation, de l'erreur humaine. Certains murmurent que sa perfection est telle qu'elle n'est plus naturelle, qu'il a percé des secrets que l'art culinaire n'était pas censé découvrir. Un ancien proverbe du Cercle de la Toque Originelle dit : 'La perfection sans l'âme est une illusion trompeuse, un plat somptueux sans cœur.'"
+
+**2. Le Prix de l'Excellence :**
+> "Les légendes racontent que jadis, avant le Traité des Saveurs, les chefs étaient des alchimistes des goûts, cherchant l'essence même de la vie dans leurs chaudrons. Certains ont cherché l'immortalité, d'autres la domination. Le Phénix a toujours été obsédé par la 'saveur ultime', mais personne ne savait à quel point il était prêt à aller pour l'atteindre. Les anciens manuscrits des Îles Épicées parlent des 'larmes des étoiles' qui tombent dans l'Éther, des émotions pures que seuls les cœurs les plus brisés peuvent libérer en telle quantité. Caelus disait toujours : 'Pour élever le goût, il faut d'abord le briser.' On pensait qu'il parlait des ingrédients."
+
+**3. L'Héritage des Anciens Murs :**
+> "Ces cuisines ont été construites sur les fondations d'un ancien monastère culinaire, perdu depuis des siècles. Avant la flamboyance moderne, les moines y cherchaient la 'saveur originelle', la pureté dans la simplicité. Des rumeurs persistent sur des passages secrets et des celliers oubliés, où ils dissimulaient des ingrédients uniques ou des formules interdites, craignant qu'elles ne tombent entre de mauvaises mains. Le bois de ces étagères est ancien, il a connu des âges sombres avant l'Ère des Flammes. Il a peut-être vu bien des secrets être enfermés."
+
+### Exemples de Dialogue
+
+**Golem de Porcelaine (Non-verbal)**
+
+1.  *(Un Golem glisse vers le joueur qui s'attarde un peu trop près des étagères. Il s'arrête à environ deux mètres, ses capteurs optiques s'attardant sur la main du joueur, puis sur une petite tache imaginaire sur le sol à ses pieds. Il nettoie la tache avec une précision robotique avant de reprendre sa ronde. Le message est clair : "Je vous ai vu. Retournez au travail.")*
+2.  *(Alors qu'un joueur fait une petite erreur dans sa tâche, un Golem le plus proche tourne sa "tête" de capteurs vers le joueur et émet un bref mais distinct sifflement mécanique, comme un micro-ajustement de ses propres systèmes, avant de fixer le plat du joueur pendant quelques secondes, puis de s'éloigner lentement. Le sifflement et le regard sont une réprimande subtile.)*
+3.  *(Un Golem, transportant une pile de serviettes impeccables, passe devant le joueur. En passant, son "regard" balaye l'étagère à épices, puis le joueur, avant de continuer sa route sans un bruit. L'action est neutre, mais l'attention momentanée du Golem peut instiller un sentiment d'être observé.)*

@@ -1,0 +1,39 @@
+**Description:** La Marie-Jeanne est une plante légendaire d'une rareté inouïe, dont le nom évoque la joie et l'évasion, et qui pousse exclusivement au cœur de L'Île au Mille Épices, l'un des joyaux les plus mystiques des Îles Épicées d'Aetheria. Ses feuilles, d'un vert iridescent et d'une texture presque soyeuse, scintillent d'une lumière intérieure qui les distingue des autres végétations luxuriantes de l'archipel. Lorsqu'elles sont préparées selon des méthodes ancestrales et raffinées, ces feuilles confèrent à quiconque les consomme la capacité enivrante de défier la gravité et de s'élever dans les airs, une expérience à la fois physique et spirituelle, profondément ancrée dans l'énergie tellurique des Lignes de Goût d'Aetheria et le frémissement de l'Éther des Émotions. C'est une substance physique, mais ses effets sont si profonds qu'elle touche l'âme, offrant une liberté éphémère qui symbolise la légèreté de l'esprit, un contraste frappant avec la lourdeur du chagrin cultivé par l'antagoniste.
+
+### Origines et Histoire
+
+L'histoire de La Marie-Jeanne est enveloppée de mythes et de murmures, connue principalement des **Gardiens des Larmes** et des tribus indigènes d'Aetheria. La légende locale la lie directement aux **Larmes de la Dame**, racontant que cette plante extraordinaire a poussé là où la Dame des Larmes, la gardienne oubliée de l'Éther des Émotions, a un jour ressenti un moment de joie pure et inattendue, un rire céleste qui a fécondé la terre. Contrairement à d'autres flores nées de la tristesse, La Marie-Jeanne représente ainsi l'aspect libérateur et exaltant des émotions, une étincelle de bonheur et de liberté.
+
+Pendant des millénaires, sa connaissance et sa préparation furent des secrets bien gardés, utilisés uniquement pour des rituels sacrés ou pour permettre aux chamans de planer au-dessus des canopées, cherchant l'harmonie avec l'Éther. Ce n'est qu'après l'**Ère des Flammes** et le **Traité des Saveurs**, lorsque l'exploration des ressources naturelles s'intensifia, que des rumeurs de son existence commencèrent à filtrer dans le monde extérieur, sans jamais qu'un spécimen n'atteigne les marchés ou les arènes culinaires.
+
+### Règles et Mécaniques
+
+La Marie-Jeanne ne se contente pas d'être mangée crue. Ses feuilles nécessitent une préparation méticuleuse qui relève autant de la cuisine que de l'alchimie subtile. Les techniques varient, mais impliquent généralement une infusion prolongée dans des liquides purifiés, une déshydratation sous une lune spécifique, ou une macération dans des essences d'herbes rares du **Cœur Verdoyant** d'Aetheria. Un **Mage-Épicurien** expérimenté ou un **Gardien des Larmes** est souvent nécessaire pour libérer pleinement ses propriétés.
+
+Une fois consommées, les feuilles préparées n'ont pas de goût prononcé, mais elles induisent une sensation de légèreté et d'euphorie douce, suivie d'une capacité contrôlée de vol. La durée et la portée du vol dépendent de la qualité de la préparation et de la quantité ingérée, pouvant varier de quelques minutes à une heure, avec une altitude maximale limitée par la composition corporelle de l'utilisateur. Le vol est intuitif, presque comme une extension de la volonté. Des usages excessifs ou une préparation incorrecte peuvent entraîner des nausées, une désorientation temporaire, ou dans les cas les plus extrêmes, une "chute émotionnelle" où l'euphorie se transforme en un désespoir profond, une résonance distordue avec le chagrin ambiant de l'Éther.
+
+### Importance et Impact
+
+La Marie-Jeanne est d'une importance capitale dans Aromandia pour plusieurs raisons :
+
+*   **Stratégique et Géopolitique :** La capacité de voler représente un avantage tactique inestimable pour la reconnaissance, l'infiltration ou l'évasion. Elle pourrait redéfinir les stratégies de guerre culinaire ou permettre d'atteindre des lieux inaccessibles. Le contrôle de sa source serait une puissance militaire et économique colossale.
+*   **Symbolique Culinaire :** C'est l'antithèse parfaite du **Consommé de l'Éther**. Là où le Consommé exploite le chagrin pour amplifier les saveurs et manipuler les émotions, La Marie-Jeanne offre la liberté et l'élévation, un plaisir culinaire pur et sans manipulation, en lien avec la joie et non la douleur. Pour le **Cercle de la Toque Originelle**, elle représente la magie culinaire authentique et respectueuse de la nature.
+*   **Spirituelle :** Pour les **Gardiens des Larmes**, elle est une preuve vivante de la capacité de l'Éther des Émotions à manifester d'autres sentiments que le chagrin, un symbole d'espoir et de connexion à une dimension plus légère de l'existence.
+
+### Usages Connus et Dangers
+
+**Usages Connus :**
+*   **Rituels Sacrés :** Les Gardiens des Larmes l'utilisent sporadiquement pour des ascensions rituelles, afin de communier plus directement avec l'Éther et la Dame des Larmes.
+*   **Exploration :** Certains chefs-aventuriers audacieux, ayant réussi à en obtenir et à la préparer, l'utilisent pour atteindre des sommets montagneux inaccessibles ou des gouffres cachés à la recherche d'ingrédients encore plus rares.
+*   **Cérémonial :** Extrêmement rarement, un chef légendaire peut réussir à en incorporer un infime fragment dans un plat pour un effet de légèreté ou d'élévation d'esprit lors d'un festival, sans en révéler le secret de vol.
+
+**Dangers :**
+*   **Extinction :** Sa rareté et la convoitise qu'elle suscite menacent son existence. Une sur-récolte pourrait conduire à sa disparition, brisant l'équilibre d'Aetheria.
+*   **Abus de pouvoir :** L'**Empire du Phénix** la convoite avidement. S'il parvenait à la cultiver ou à synthétiser ses effets, il pourrait l'utiliser pour la surveillance, l'espionnage, ou même des unités d'intervention aériennes, renforçant sa domination.
+*   **Effets secondaires :** Comme mentionné, une mauvaise préparation ou une utilisation excessive peut entraîner des conséquences physiologiques et psychologiques désagréables, voire dangereuses.
+
+### Mystères et Accroches de Scénario
+
+1.  **Le Jardin Secret du Phénix :** Des rumeurs circulent que l'**Empire du Phénix** a découvert un moyen de cultiver La Marie-Jeanne dans ses **Jardins Suspendus du Phénix** sur Aetheria, ou pire, de la combiner avec des éléments du **Consommé de l'Éther** pour créer une forme de vol plus sombre et plus contrôlable, alimentée par la joie éphémère suivie du chagrin. Les joueurs sont chargés par les **Cuisiniers de l'Ombre** d'infiltrer ces jardins, de vérifier ces rumeurs et, si nécessaire, de saboter les efforts du Grand Maître. **Isabelle 'La Lame' Vacheron** pourrait être le gardien implacable de ce projet.
+2.  **La Recette Perdue de l'Élévation :** La **Grande Prêtresse Lyra** des Gardiens des Larmes, consciente de la menace du Phénix, révèle qu'une ancienne "Recette de l'Élévation" pour La Marie-Jeanne existe, non seulement pour maximiser son effet de vol, mais aussi pour purifier l'âme du consommateur et lui permettre une brève communion directe et saine avec l'Éther des Émotions. Cette recette est cachée dans un temple oublié du **Cœur Verdoyant**, protégé par des pièges éthérés et des esprits gardiens. Les joueurs doivent la retrouver avant que l'Empire ne mette la main dessus, afin d'offrir une contre-force spirituelle au Consommé de l'Éther.
+3.  **L'Île Volante de Marie-Jeanne :** Une ancienne prophétie des Gardiens des Larmes parle d'une "Île Volante" qui s'élèvera lorsque La Marie-Jeanne atteindra sa pleine floraison dans des conditions cosmiques parfaites. Cette île serait un refuge purifié au sein de l'Éther, inatteignable par les pouvoirs terrestres. Les joueurs pourraient découvrir des indices sur cette prophétie et sur la localisation d'un spécimen "mère" de La Marie-Jeanne possédant la puissance de manifester cette île, cherchant à le protéger ou à activer la prophétie pour créer un sanctuaire face à la corruption grandissante du monde.
